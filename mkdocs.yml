@@ -1,0 +1,222 @@
+site_name: Cyberspace Explore 
+
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default    # 浅色模式
+      # primary: indigo
+      # accent: indigo
+      primary: blue
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - scheme: slate      # 深色模式
+      # primary: indigo
+      # accent: indigo
+      primary: blue
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  toc:
+    on_page: true
+    depth: 5
+
+
+# Page tree
+nav:
+  - Home: index.md
+
+  # Computer-Science Topic
+  - Computer-Science: 
+    - computer-science/index.md
+    - Programming Languages:
+      - computer-science/programming-languages/index.md
+      - Preparation:
+        - computer-science/programming-languages/preparation/ranking-analysis.md
+        - computer-science/programming-languages/preparation/editor.md
+        - computer-science/programming-languages/preparation/encoding.md
+      - Dynamic:
+        - computer-science/programming-languages/dynamic/python.md
+        - computer-science/programming-languages/dynamic/javascript.md
+        - computer-science/programming-languages/dynamic/ruby.md
+        - computer-science/programming-languages/dynamic/php.md
+        - computer-science/programming-languages/dynamic/lua.md
+        - computer-science/programming-languages/dynamic/perl.md
+      - Static:
+        - computer-science/programming-languages/static/go.md
+        - computer-science/programming-languages/static/typescript.md
+        - computer-science/programming-languages/static/java.md
+        - computer-science/programming-languages/static/c-sharp.md
+        - computer-science/programming-languages/static/kotlin.md
+        - computer-science/programming-languages/static/swift.md
+
+      - System Level:
+        - computer-science/programming-languages/system-level/c.md
+        - computer-science/programming-languages/system-level/cpp.md
+        - computer-science/programming-languages/system-level/rust.md
+        - computer-science/programming-languages/system-level/assembly.md
+      - Functional:
+        - computer-science/programming-languages/functional/haskell.md
+        - computer-science/programming-languages/functional/scala.md
+        - computer-science/programming-languages/functional/ocaml.md
+        - computer-science/programming-languages/functional/elixir.md
+
+    - Algorithms & Data-Structures:
+      - computer-science/algorithms-data-structures/index.md
+    - Computer Architecture:
+      - computer-science/computer-architecture/index.md
+    - Operating System: 
+      - computer-science/operating-system/index.md
+    - Computer Networking:
+      - computer-science/computer-networking/index.md
+    - Mathematics:
+      - computer-science/mathematics/index.md
+    - Compilers Languages:
+      - computer-science/compilers-languages/index.md
+    - Databases Systems:
+      - computer-science/databases-systems/index.md
+    - Distributed Systems:
+      - computer-science/distributed-systems/index.md
+    - Computer Graphics:
+      - computer-science/computer-graphics/index.md
+
+  # System-Architecture Topic
+  - System-Architecture: 
+    - system-architecture/index.md
+    - Application:
+      - system-architecture/application/index.md
+      - system-architecture/application/system-desgin.md
+      - system-architecture/application/desgin-patterns.md
+      - system-architecture/application/application-type.md
+      - system-architecture/application/projects.md
+      - system-architecture/application/architecture.md
+      - system-architecture/application/api-desgin.md
+      - system-architecture/application/application-client.md
+      - system-architecture/application/application-server.md
+      - system-architecture/application/middleware.md
+      - system-architecture/application/networking.md
+      - system-architecture/application/databases.md
+    - Infrastructure:
+      - system-architecture/infrastructure/index.md
+      - Enterprise IT:
+        - system-architecture/infrastructure/enterprise-it/index.md
+      - Mobile Computing:
+        - system-architecture/infrastructure/mobile-computing/index.md
+      - Cloud Computing:
+        - system-architecture/infrastructure/cloud-computing/cloud-providers.md
+        - system-architecture/infrastructure/cloud-computing/x_aas.md
+        - system-architecture/infrastructure/cloud-computing/virtualization.md
+        - system-architecture/infrastructure/cloud-computing/containerization.md
+        - system-architecture/infrastructure/cloud-computing/networking.md
+        - system-architecture/infrastructure/cloud-computing/storage.md
+    - Embedded/IoT:
+        - system-architecture/embedded-iot-system/index.md
+
+  # System-Construction Topic
+  - System-Construction:
+    - system-construction/index.md
+    - system-construction/devops.md
+    - Development:
+      - system-construction/development/index.md
+      - system-construction/development/vibe-coding.md
+      - system-construction/development/git.md
+      - system-construction/development/cicd.md
+      - system-construction/development/testing.md
+    - Operations:
+      - system-construction/operations/index.md
+      - system-construction/operations/sysadmin.md
+      - system-construction/operations/sre.md
+      - system-construction/operations/iac.md
+      - system-construction/operations/observability.md
+    - Collaboration:
+      - system-construction/collaboration/index.md
+
+  # Cybersecurity Topic
+  - Cybersecurity:
+    - cybersecurity/index.md
+    - Cryptography:
+      - cybersecurity/cryptography/index.md
+    - CTF:
+      - cybersecurity/ctf/index.md
+    - Security-Skills:
+      - cybersecurity/security-skills/index.md
+    - Security-Topics:
+      - cybersecurity/security-topics/index.md
+    - Offensive-Security:
+      - cybersecurity/offensive-security/index.md
+    - Defensive-Security:
+      - cybersecurity/defensive-security/index.md
+
+  # Artificial-Intelligence Topic
+  - Artificial-Intelligence:
+    - artificial-intelligence/index.md
+
+  # Interesting Topic
+  - Interesting-Practice:
+    # - interesting-practice/index.md
+    - HomeLab:
+      - interesting-practice/homelab/index.md
+    - CyberDeck:
+      - interesting-practice/cyberdeck/index.md
+
+
+
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
