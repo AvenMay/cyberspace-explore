@@ -4,6 +4,8 @@ use_directory_urls: true
 theme:
   name: material
   custom_dir: overrides
+  icon:
+    logo: material/rocket-launch
   palette:
     - scheme: default    # 浅色模式
       # primary: indigo
