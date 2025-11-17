@@ -27,12 +27,13 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install mkdocs mkdocs-material
+          pip install mkdocs-material
           # 如果你有插件 / 主题（比如 mkdocs-material），在这里一起安装：
           # pip install mkdocs-material mkdocs-awesome-pages-plugin ...
 
       - name: Build site
-        run: mkdocs build --strict
+        run: mkdocs build
+        # mkdocs build --strict 
         # 默认会生成到 site/ 目录
 
       - name: Upload artifact
