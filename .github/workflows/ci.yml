@@ -1,0 +1,53 @@
+name: Deploy MKDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main      # 这里改成你实际使用的分支，例如 master
+  workflow_dispatch:  # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: read
+  pages: write      # 允许写 GitHub Pages
+  id-token: write   # 一些 pages action 需要
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'   # 版本随意，3.9+ 都可以
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install mkdocs-material
+          # 如果你有插件 / 主题（比如 mkdocs-material），在这里一起安装：
+          # pip install mkdocs-material mkdocs-awesome-pages-plugin ...
+
+      - name: Build site
+        run: mkdocs build --strict
+        # 默认会生成到 site/ 目录
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
