@@ -79,4 +79,4 @@
 - **趋势**：需求稳定，但学习曲线陡峭，逐渐被Rust取代部分市场。
 
 ## Performance Rankings
-![](./files/langs-performance-rankings.png)
+![](./images/langs-performance-rankings.png)

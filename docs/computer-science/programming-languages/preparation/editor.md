@@ -8,7 +8,7 @@
 - 插件生态丰富，几乎可以无限扩展。
 
 
-| ![图1](./files/vi-vim-cheat-sheet-sch.gif) | ![图2](./files/vi-vim-cheat-sheet-sch-en.gif) |
+| ![图1](./images/vi-vim-cheat-sheet-sch.gif) | ![图2](./images/vi-vim-cheat-sheet-sch-en.gif) |
 |:------------------:|:------------------:|
 | Vim 键盘图     | Vim Graphics Cheat Sheet   |
 
