@@ -31,3 +31,13 @@
 |Embedded|arm-none-eabi-gcc |libstdc++|Newlib|
 |Android NDK|Clang |libc++|Bionic|
 |Game Engine|Any |EASTL|Newlib/Custom|
+
+## USE-CASES
+
+### CLI/TUI Programming
+
+### WebAssembly
+
+### Network Programming
+
+### Embedded
