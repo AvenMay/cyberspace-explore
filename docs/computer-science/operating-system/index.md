@@ -4,7 +4,7 @@
 
 ### System-Call API
 
-### Process
+### Process Management
 - Process
 - Thread
 - Interprocess Communication
