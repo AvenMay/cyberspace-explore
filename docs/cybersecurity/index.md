@@ -67,17 +67,13 @@
 
 
 - Infrastructure-Security
-    - Host Security
+    - Endpoint Security
         - Windows / AD / Server
         - Linux 
         - macOS
-    - Cloud Security
-        - Docker
-        - K8s Cluster
-        - KVM
     - Mobile Security
         - Android
-        - iOS
+        - iOS   
     - Network Security
         - LAN attack
         - Transport layer
@@ -86,6 +82,10 @@
         - Wireless
             - WiFi
             - Bluetooth
+    - Cloud Security
+        - Docker
+        - K8s Cluster
+        - KVM
 
 - IoT-Secuirty
     - Firmware Analysis
