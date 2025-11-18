@@ -16,7 +16,16 @@
 
 ### Resource
 
-[Awesome-Rust]()
+[Awesome-Rust](https://github.com/rust-unofficial/awesome-rust)
 
 
 ## USE-CASES
+
+### CLI/TUI Programming
+
+### WebAssembly
+
+### Network Programming
+
+### Embedded
+

@@ -3,6 +3,7 @@
 ## CORE CONTENT
 
 ### Documentions
+
 - [C Programming](https://www.c-language.org/)
 
 ### Compilers
@@ -39,3 +40,11 @@
 
 
 ## USE-CASES
+
+### CLI/TUI Programming
+
+### WebAssembly
+
+### Network Programming
+
+### Embedded
