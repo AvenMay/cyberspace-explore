@@ -6,7 +6,6 @@
 
 - [Swift Official](https://www.swift.org/)
 
-
 ### Resource
 
 - [Awesome-Swift](https://github.com/matteocrippa/awesome-swift)
