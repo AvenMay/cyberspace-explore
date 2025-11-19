@@ -49,23 +49,23 @@
 ### Essential
 
 - [Python编程从入门到实践.pdf](http://192.168.100.99:9090/computer-science/programming-languages/dynamic/python/Python编程从入门到实践.pdf)
-- [Python工匠.epub](./python-files/)
-- [Python学习手册.epub](./python-files/Python学习手册.epub)
-- [简明Python教程.pdf](./python-files/简明Python教程.pdf)
+- [Python工匠.epub](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python工匠.epub)
+- [Python学习手册.epub](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python学习手册.epub)
+- [简明Python教程.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/简明Python教程.pdf)
 
 ### Intermediate
 
-- [Python3标准库.pdf](./python-files/Python3标准库.pdf)
-- [流畅的Python.pdf](./python-files/流畅的Python.pdf)
-- [Python Cookbook.pdf](./python-files/Python Cookbook.pdf)
-- [Effective Python.pdf](./python-files/Effective Python.pdf)
-- [Python语言及其应用.pdf](./python-files/Python语言及其应用.pdf)
+- [Python3标准库.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python3标准库.pdf)
+- [流畅的Python.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/流畅的Python.pdf)
+- [Python Cookbook.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python%20Cookbook.pdf)
+- [Effective Python.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Effective%20Python.pdf)
+- [Python语言及其应用.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python语言及其应用.pdf)
 
 ### Advanced
 
-- [Python 3 面向对象编程.pdf](./python-files/Python 3 面向对象编程.pdf)
-- [Python高级编程.epub](./python-files/Python高级编程.epub)
-- [Python高性能编程.epub](./python-files/Python高性能编程.epub)
+- [Python 3 面向对象编程.pdf](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python%203%20面向对象编程.pdf)
+- [Python高级编程.epub](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python高级编程.epub)
+- [Python高性能编程.epub](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python高性能编程.epub)
 
 ### Resource
 
@@ -119,7 +119,7 @@
 
 ### Network Programming
 
-- [Python网络编程攻略 PDF](./python-files/advanced/Python网络编程攻略.pdf)
+- [Python网络编程攻略 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python网络编程攻略.pdf)
 
 - Application Protocols (With Built-in Module)
 
@@ -208,11 +208,11 @@
 
 ### Web Crawler
 
-- [Python3 反爬虫原理与绕过实战 PDF](./python-files/advanced/Python3%20反爬虫原理与绕过实战.pdf)
-- [Python3 网络爬虫开发实战 第2版 PDF](./python-files/advanced/Python3%20网络爬虫开发实战%20第2版.pdf)
-- [Python网络数据采集 PDF](./python-files/advanced/Python网络数据采集.pdf)
-- [反爬虫AST原理与还原混淆实战 PDF](./python-files/advanced/反爬虫AST原理与还原混淆实战.pdf)
-- [精通Python爬虫框架Scrapy EPUB](./python-files/advanced/精通Python爬虫框架Scrapy.epub)
+- [Python3 反爬虫原理与绕过实战 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python3%20反爬虫原理与绕过实战.pdf)
+- [Python3 网络爬虫开发实战 第2版 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python3%20网络爬虫开发实战%20第2版.pdf)
+- [Python网络数据采集 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python网络数据采集.pdf)
+- [反爬虫AST原理与还原混淆实战 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/反爬虫AST原理与还原混淆实战.pdf)
+- [精通Python爬虫框架Scrapy EPUB](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/精通Python爬虫框架Scrapy.epub)
 
 - Data Scraping
   - HTTP/URL
@@ -257,15 +257,15 @@
 
 ### Automated Testing
 
-- [Python自动化测试实战 PDF](./python-files/advanced/Python自动化测试实战%20.pdf)
+- [Python自动化测试实战 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python自动化测试实战%20.pdf)
 - pytest
 - Robot-Framework
 - unittest
 
 ### Automated-Operations
 
-- [Python Linux系统管理与自动化运维 PDF](./python-files/advanced/Python%20Linux系统管理与自动化运维.pdf)
-- [Python自动化运维 EPUB](./python-files/advanced/Python自动化运维.epub)
+- [Python Linux系统管理与自动化运维 PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python%20Linux系统管理与自动化运维.pdf)
+- [Python自动化运维 EPUB](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python自动化运维.epub)
 - Diamond
 
 ### Data-Science
@@ -292,7 +292,7 @@
 
 ### Cryptography
 
-- [Python密码学编程 EPUB](./python-files/advanced/Python密码学编程.epub)
+- [Python密码学编程 EPUB](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/Python密码学编程.epub)
 - cryptography
 - PyCryptodome
 - secrets

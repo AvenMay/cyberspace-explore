@@ -8,7 +8,7 @@
 
 ### Books
 
-- [Lua程序设计 4th PDF](./lua-files/Lua程序设计(第4版)%20.pdf)
+- [Lua程序设计 4th PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/lua/Lua程序设计(第4版)%20.pdf)
 
 ### Interpreters
 

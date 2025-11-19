@@ -8,7 +8,7 @@
 
 ### Books
 
-- [PHP与MySQL程序设计 4th PDF](./php-files/PHP与MySQL程序设计(第4版).pdf)
+- [PHP与MySQL程序设计 4th PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/php/PHP与MySQL程序设计(第4版).pdf)
 
 ### Interpreters
 

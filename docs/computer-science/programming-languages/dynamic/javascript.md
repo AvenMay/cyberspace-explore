@@ -19,8 +19,8 @@
 
 ### Books
 
-- [JavaScript权威指南 7th PDF](./javascript-files/JavaScript权威指南（第七版）.pdf)
-- [JavaScript高级程序设计 4th PDF](./javascript-files/JavaScript高级程序设计（第4版）.pdf)
+- [JavaScript权威指南 7th PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/javascript/JavaScript权威指南（第七版）.pdf)
+- [JavaScript高级程序设计 4th PDF](https://files.evmix.top/computer-science/programming-languages/dynamic/javascript/JavaScript高级程序设计（第4版）.pdf)
 
 ### Resources
 

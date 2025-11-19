@@ -8,7 +8,7 @@
 
 ### Books
 
-- [Ruby基础教程 4th EPUB](./ruby-files/Ruby基础教程%204th.epub)
+- [Ruby基础教程 4th EPUB](https://files.evmix.top/computer-science/programming-languages/dynamic/ruby/Ruby基础教程%204th.epub)
 
 ### Interpreters
 
