@@ -31,24 +31,24 @@
 ### Cloud-Infrasturcture
 
 - Container Runtimes
-  - Docker
-  - Podman
-  - containerd
-  - CRI-O
+      - Docker
+      - Podman
+      - containerd
+      - CRI-O
 
 - Container Management
-  - Buildah
-  - Skopeo
+      - Buildah
+      - Skopeo
 
 - Container Orchestration
-  - Kubernetes
-  - Docker Swarm
+      - Kubernetes
+      - Docker Swarm
 
 - Cloud Ecosystem
-  - Helm
-  - Istio
-  - Prometheus
-  - Grafana
+      - Helm
+      - Istio
+      - Prometheus
+      - Grafana
 
 - Terraform
 
@@ -81,9 +81,9 @@
 - Viper
 - tablewriter
 - TUI
-  - gocui
-  - termbox
-  - tview
+      - gocui
+      - termbox
+      - tview
 
 ### Web/API Application Server
 

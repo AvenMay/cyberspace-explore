@@ -48,12 +48,12 @@
 - [Spring技术内幕.epub](https://files.evmix.top/computer-science/programming-languages/static/java/Spring%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95.epub)
 - [JavaWeb-Project-Source-Share](https://github.com/coderzcr/JavaWeb-Project-Source-Share)
 - [Jakarta EE(Java EE)](https://jakarta.ee/zh/)
-  - GlassFish
-  - WildFly/JBoss
-  - Payara Server
-  - TomEE
-  - WebLogic
-  - WebSphere
+      - GlassFish
+      - WildFly/JBoss
+      - Payara Server
+      - TomEE
+      - WebLogic
+      - WebSphere
 - [Spring](https://spring.io/)
 - [Struts](https://struts.apache.org/)
 - Hibernate
@@ -74,8 +74,8 @@
 - Maven
 - Picocli
 - TUI
-  - JLine
-  - Lanterna
+      - JLine
+      - Lanterna
 
 ### GUI Programming
 

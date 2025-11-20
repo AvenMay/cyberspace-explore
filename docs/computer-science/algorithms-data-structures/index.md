@@ -99,21 +99,21 @@ $O = \{\text{CreateStack, Push, Pop, Top, IsEmpty}\}$
 #### Sorting Algorithms
 
 - O(n log n)
-  - Quick-Sort
-  - Merge-Sort
-  - Heap-Sort
+      - Quick-Sort
+      - Merge-Sort
+      - Heap-Sort
 - O(n)
-  - Radix-Sort
-  - Counting-Sort
-  - Bucket-Sort
+      - Radix-Sort
+      - Counting-Sort
+      - Bucket-Sort
 - O(n²)
-  - Shell-Sort
-  - Selection-Sort
-  - Insertion-Sort
-  - Bubble-Sort
+      - Shell-Sort
+      - Selection-Sort
+      - Insertion-Sort
+      - Bubble-Sort
 - Practical
-  - Tim Sort
-  - Intro Sort
+      - Tim Sort
+      - Intro Sort
 
 #### Search Algorithms
 
