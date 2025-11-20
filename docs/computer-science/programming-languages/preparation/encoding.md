@@ -3,10 +3,12 @@
 ## Character Set
 
 ### General
+
 - ASCII
 - Unicode/UTF
 
 ### Regional-Language
+
 | Character Set | Language |
 |-------------|--------------|
 |Big5 | 繁体中文 (Double Byte) |
@@ -19,7 +21,7 @@
 
 ## Text Serialization
 
-- JSON 
+- JSON
 - XML
 - YAML
 - TOML
@@ -33,8 +35,9 @@
 - Base64/Base32/Base16
 
 ## Regular Expressions
-- [正则表达式必知必会](./files/正则表达式必知必会(修订版).pdf)
-- [精通正则表达式 3rd](./files/精通正则表达式(第3版).epub)
+
+- [正则表达式必知必会](https://files.evmix.top/computer-science/programming-languages/preparation/正则表达式必知必会(修订版).pdf)
+- [精通正则表达式 3rd](https://files.evmix.top/computer-science/programming-languages/preparation/精通正则表达式(第3版).epub)
 - [RegExr](https://regexr.com/)
 - [Regex Vis](https://regex-vis.com/)
 - grep

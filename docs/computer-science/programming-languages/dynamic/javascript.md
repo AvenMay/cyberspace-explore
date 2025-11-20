@@ -124,11 +124,10 @@
 
 ### Edge-Runtimes
 
-- [Cloudflare Workers](a)
-- [Vercel Edge Runtime](a)
-- [Deno Deploy](a)
-- [WasmEdge](a)
-
+- Cloudflare Workers
+- Vercel Edge Runtime
+- Deno Deploy
+- WasmEdge
 - CDN 逻辑增强
       - 智能缓存策略（动态 TTL、个性化缓存）
       - 动态图片/内容裁剪与压缩
