@@ -47,7 +47,7 @@ $O = \{\text{CreateStack, Push, Pop, Top, IsEmpty}\}$
 
 ### Algorithms Basic Concepts
 
-### Basic Characteristics
+#### Basic Characteristics
 
 - 输入/输出
 - 有穷性
@@ -135,7 +135,7 @@ $O = \{\text{CreateStack, Push, Pop, Top, IsEmpty}\}$
 | Branch & Bound      | 剪枝搜索     | 旅行商、分支限界             |
 | Randomized          | 随机化算法   | QuickSelect, 随机哈希        |
 
-⚡提示：学习顺序可以先掌握迭代/递归和简单暴力，再学分治与滑动窗口，再到贪心、DP和回溯。
+> ⚡提示：学习顺序可以先掌握迭代/递归和简单暴力，再学分治与滑动窗口，再到贪心、DP和回溯。
 
 ### Intermediate
 
@@ -157,7 +157,10 @@ $O = \{\text{CreateStack, Push, Pop, Top, IsEmpty}\}$
 | Bloom Filter                      | 空间效率高、允许误判 | 缓存判重、网络爬虫 |
 | LRU Cache / Skip List             | 高效缓存 / 排序      | 缓存系统、快速查找 |
 
-## Specialized/Application-Oriented
+## Specialize
 
-- Artificial Intelligence Algorithms → 神经网络、图神经网络
-- Cryptography Algorithms → RSA, AES, ECC
+| **应用**      | **算法/结构**        | **场景**               |
+| ------------- | -------------------- | ---------------------- |
+| AI / ML       | Tensor运算、多维数组 | 神经网络、图神经网络   |
+| Cryptography  | RSA, AES, ECC        | 信息安全、加密通信     |
+| 高维/概率结构 | Bitmap, Bloom Filter | 数据库、集合判重、缓存 |
