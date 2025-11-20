@@ -46,7 +46,7 @@
 - Beautiful Code
   - Ruff
 
-### Essential
+### Foundation
 
 - [Python编程从入门到实践.pdf](http://192.168.100.99:9090/computer-science/programming-languages/dynamic/python/Python编程从入门到实践.pdf)
 - [Python工匠.epub](https://files.evmix.top/computer-science/programming-languages/dynamic/python/Python工匠.epub)

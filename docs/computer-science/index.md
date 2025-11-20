@@ -45,8 +45,8 @@
 - [OASIS 结构化信息标准促进组织](https://www.oasis-open.org/)
 - [ITIL 信息技术基础架构库](https://www.ibm.com/cn-zh/think/topics/it-infrastructure-library)
 
+## Foundation
 
-## Essential
 - Programming Languages
 - Algorithms & Data-Strucures
 - Computer Architecture
@@ -55,6 +55,7 @@
 - Mathematics
 
 ## Advanced
+
 - Compilers Languages
 - Databases Systems
 - Distributed Systems
