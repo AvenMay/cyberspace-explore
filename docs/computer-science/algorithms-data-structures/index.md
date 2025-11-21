@@ -84,7 +84,7 @@ $O = \{\text{CreateStack, Push, Pop, Top, IsEmpty}\}$
 
 ### Foundation
 
-#### Linear Structures
+#### Basic Structures
 
 | **数据结构**    | **关键操作**              | **应用场景**             | **推荐练习**         |
 | --------------- | ------------------------- | ------------------------ | -------------------- |
