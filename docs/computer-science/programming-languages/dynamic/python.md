@@ -22,29 +22,29 @@
 ### Python Project Management
 
 - Official Dependency Management
-      - pip
-      - requirements.txt / pyprojcet.toml
+    - pip
+    - requirements.txt / pyprojcet.toml
 - Official Virtual Environment Management
-      - venv
-      - virtualenv
+    - venv
+    - virtualenv
 
 - Morden Management Tools
-      - uv
-      - Poetry
+    - uv
+    - Poetry
 - PDM
 
 - Three-party Packaging and Release
-      - setuptools
-      - Flit
-      - Hatch
-      - twine
+    - setuptools
+    - Flit
+    - Hatch
+    - twine
 - Automated tasks and tests
-      - tox
-      - nox
-      - pytest
-      - mypy
+    - tox
+    - nox
+    - pytest
+    - mypy
 - Beautiful Code
-      - Ruff
+    - Ruff
 
 ### Foundation
 
@@ -153,17 +153,17 @@
 |JSON-RPC|jsonrpclib, aiojsonrpc|
 
 - Sockets
-      - asyncio
-      - ipaddress
-      - select
-      - socket
-      - socketserver
-      - ssl
+    - asyncio
+    - ipaddress
+    - select
+    - socket
+    - socketserver
+    - ssl
 - Packet Capture
-      - Scapy
-      - PyShark
-      - Pcapy
-      - dpkt
+    - Scapy
+    - PyShark
+    - Pcapy
+    - dpkt
 
 ### Scripting
 
@@ -173,38 +173,38 @@
 ### Web/API Application-Server
 
 - [WSGI](https://docs.python.org/3/library/wsgiref.html)
-      - uWSGI
-      - Waitress
-      - Gunicorn
-      - Daphne
+    - uWSGI
+    - Waitress
+    - Gunicorn
+    - Daphne
 
 - [ASGI](https://asgi.readthedocs.io/en/latest/)
-      - Daphne
-      - Hypercorn
-      - Uvicorn
+    - Daphne
+    - Hypercorn
+    - Uvicorn
 
 - Django
-      - [Django](https://docs.djangoproject.com/)
-      - [Awesome Django](https://github.com/shahraizali/awesome-django)
-      - [Awesome Django CN](https://github.com/haiiiiiyun/awesome-django-cn)
+    - [Django](https://docs.djangoproject.com/)
+    - [Awesome Django](https://github.com/shahraizali/awesome-django)
+    - [Awesome Django CN](https://github.com/haiiiiiyun/awesome-django-cn)
 
 - Flask
-      - [Flask](https://flask.palletsprojects.com/en/stable/)
-      - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
+    - [Flask](https://flask.palletsprojects.com/en/stable/)
+    - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
 
 - FastAPI
-      - [FastAPI](https://fastapi.tiangolo.com/)
-      - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
+    - [FastAPI](https://fastapi.tiangolo.com/)
+    - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
 
 - Tornado
-      - [Tornado](https://www.tornadoweb.org/en/stable/index.html)
+    - [Tornado](https://www.tornadoweb.org/en/stable/index.html)
 
 - Ohter
-      - Bottle
-      - CherryPy
-      - Pyramid
-      - Web2Py
-      - Sanic
+    - Bottle
+    - CherryPy
+    - Pyramid
+    - Web2Py
+    - Sanic
 
 ### Web Crawler
 
@@ -215,29 +215,29 @@
 - [精通Python爬虫框架Scrapy EPUB](https://files.evmix.top/computer-science/programming-languages/dynamic/python/advanced/精通Python爬虫框架Scrapy.epub)
 
 - Data Scraping
-      - HTTP/URL
-      - Playwright
-      - Puppeteer
-      - Selenium
+    - HTTP/URL
+    - Playwright
+    - Puppeteer
+    - Selenium
 - Data Processing
-      - BeautifulSoup
-      - lxml
+    - BeautifulSoup
+    - lxml
 - Data-Storage
-      - JSON/XML
-      - Databases
-      - Context
+    - JSON/XML
+    - Databases
+    - Context
 - Frameworks
-      - Scrapy
-      - PySpider
-      - EasySpider
+    - Scrapy
+    - PySpider
+    - EasySpider
 - JavaScript Reverse Engineering
 
 ### Database Programming
 
 - ORM
-      - SQLAlechemy
-      - Django ORM
-      - Peewee
+    - SQLAlechemy
+    - Django ORM
+    - Peewee
 
 |Databases|Python Connectors|
 |:-------:|:---------------:|
@@ -271,24 +271,24 @@
 ### Data-Science
 
 - Tools
-      - JupyterLab
-      - Marimo
+    - JupyterLab
+    - Marimo
 - Data Processing & Analysis
-      - Polars
-      - Pandas
-      - Numpy
-      - SciPy
+    - Polars
+    - Pandas
+    - Numpy
+    - SciPy
 - Data Visualization
-      - Matplotlib
-      - Seaborn
-      - Plotly
-      - Bokeh
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - Bokeh
 
 - Machine-Learing
-      - Scikit-learn
-      - TensorFlow
-      - PyTorch
-      - Keraas
+    - Scikit-learn
+    - TensorFlow
+    - PyTorch
+    - Keraas
 
 ### Cryptography
 
@@ -297,11 +297,11 @@
 - PyCryptodome
 - secrets
 - Hash
-      - hashlib
-      - Hmac
+    - hashlib
+    - Hmac
 - Password Auth
-      - bcrypt
-      - passlib
+    - bcrypt
+    - passlib
 - rsa
 - ecdsa
 - pynacl
