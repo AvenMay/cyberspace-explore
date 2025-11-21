@@ -80,8 +80,6 @@
 |RustPython   |Rust                   |Multiple OS       |
 |IronPython   |C#                     |.NET              |
 |Jython       |Java                   |JVM               |
-|MicroPython  |C                      |Embedded          |
-|CircuitPython|C                      |Embedded          |
 
 ### Compilers
 

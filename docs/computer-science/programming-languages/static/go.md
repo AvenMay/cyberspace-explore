@@ -20,7 +20,6 @@
 |:-----------:|:---------------------:|:----------------:|
 |gc    |go                      |Multiple OS       |
 |gccgo  |C++                      |Multiple OS        |
-|TinyGo       |Go                   |Embedded               |
 
 ### Resource
 
@@ -90,3 +89,7 @@
 - [Go Web编程.pdf](https://files.evmix.top/computer-science/programming-languages/static/go/Go%20Web%E7%BC%96%E7%A8%8B.pdf)
 - Gin
 - Echo
+
+### Embedded
+
+- [TinyGo](https://tinygo.org/)

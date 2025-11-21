@@ -1,6 +1,18 @@
 # Operating System
 
-## Core Content
+## CORE CONTENT
+
+### Resources
+
+- [南京大学计算机软件研究所 SPAR-JYY](https://jyywiki.cn/)
+
+### Books
+
+- [操作系统导论.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf)
+- [操作系统概念 9th.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%209th.pdf)
+- [操作系统设计与实现 3rd 上.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8A.pdf)
+- [操作系统设计与实现 3rd 下.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8B.pdf)
+- [现代操作系统 4th.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%204th.pdf)
 
 ### System-Call API
 
@@ -47,31 +59,29 @@
     - UEFI
 - Init System
 
-## Implementation
+## Popularity
 
-### Popularity
 - [UNIX](https://unix.org/)
 - [Unix-like/POSIX](https://pubs.opengroup.org/onlinepubs/9699919799.orig/)
 - [Linux](https://www.kernel.org/)
-- [Windows NT](https://learn.microsoft.com/zh-cn/windows/)
-- [XNU](https://github.com/apple-oss-distributions/xnu)
 - [FreeBSD](https://www.freebsd.org/)
-- [OpenBSD](https://www.openbsd.org/)
+- [XNU](https://github.com/apple-oss-distributions/xnu)
+- [Windows-NT](https://learn.microsoft.com/zh-cn/windows/)
 
-### Teaching
+## Teaching
 - [Minix 3](https://www.minix3.org/)
 - [Xv6](https://pdos.csail.mit.edu/6.828/2025/xv6.html)
 - [Nachos](https://homes.cs.washington.edu/~tom/nachos/)
 - [Pintos](https://docs.etao.net/)
 
-### Experimental
+## Experimental
+
 - [Mach](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
 - [Plan9](https://plan9.io/plan9/) / [9front](http://9front.org/)
 - [GNU Hurd](https://www.gnu.org/software/hurd/)
 - [Fuchsia](https://fuchsia.dev/?hl=zh-cn)
 - [Singularity](https://singularityos.org/)
 - [seL4](https://sel4.systems/)
-
 
 ## Special Fields
 
