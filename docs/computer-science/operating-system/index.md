@@ -8,11 +8,11 @@
 
 ### Books
 
-- [操作系统导论.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf)
-- [操作系统概念 9th.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%209th.pdf)
-- [操作系统设计与实现 3rd 上.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8A.pdf)
-- [操作系统设计与实现 3rd 下.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8B.pdf)
-- [现代操作系统 4th.pdf](http://192.168.100.31:9080/computer-science/operating-system/current/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%204th.pdf)
+- [操作系统导论.pdf]({{ files_server }}/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf)
+- [操作系统概念 9th.pdf]({{ files_server }}/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%209th.pdf)
+- [操作系统设计与实现 3rd 上.pdf]({{ files_server }}/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8A.pdf)
+- [操作系统设计与实现 3rd 下.pdf]({{ files_server }}/computer-science/operating-system/current/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%203rd%20%E4%B8%8B.pdf)
+- [现代操作系统 4th.pdf]({{ files_server }}/computer-science/operating-system/current/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%204th.pdf)
 
 ### System-Call API
 

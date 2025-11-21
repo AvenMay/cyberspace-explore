@@ -204,6 +204,7 @@ nav:
 
 plugins:
   - search
+  - macros
 
 markdown_extensions:
   - admonition
@@ -228,6 +229,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true 
 
+extra:
+  files_server: "https://files.evmix.top"
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js 
