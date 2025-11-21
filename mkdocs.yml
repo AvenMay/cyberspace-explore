@@ -230,7 +230,7 @@ markdown_extensions:
       generic: true 
 
 extra:
-  files_server: "https://files.evmix.top"
+  files_server: "https://files.cyberspace.bar"
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js 
