@@ -32,6 +32,7 @@
 - [编程指北 X 计算机学习指南](https://csguide.cn/)
 - [OSSU Computer-Science](https://github.com/ossu/computer-science)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [Papers We Love](https://paperswelove.org/)
 
 ## Standard
 

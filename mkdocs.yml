@@ -199,9 +199,6 @@ nav:
     - CyberDeck:
       - interesting-practice/cyberdeck/index.md
 
-
-
-
 plugins:
   - search
   - macros
