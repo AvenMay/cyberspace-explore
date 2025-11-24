@@ -1,4 +1,4 @@
-### Real-time OS
+# Real-time OS
 
 - FreeRTOS
 - Zephyr
