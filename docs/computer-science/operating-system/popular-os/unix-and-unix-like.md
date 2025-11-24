@@ -1,4 +1,4 @@
-# UNIX/Unix-like
+# UNIX / Unix-like
 
 ### UNIX and Unix-like
 
