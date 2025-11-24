@@ -107,6 +107,20 @@ nav:
       - computer-science/computer-architecture/index.md
     - Operating System: 
       - computer-science/operating-system/index.md
+      - Popular-OS Cases:
+        - computer-science/operating-system/popular-os-cases/unix-and-unix-cases.md
+        - computer-science/operating-system/popular-os-cases/windows-nt.md
+      - Teaching Purposes:
+        - computer-science/operating-system/teaching-purposes/xv6.md
+        - computer-science/operating-system/teaching-purposes/pintos.md
+        - computer-science/operating-system/teaching-purposes/minix.md
+        - computer-science/operating-system/teaching-purposes/nachos.md
+      - computer-science/operating-system/experimental-os.md
+      - Special Use-Cases:
+        - computer-science/operating-system/special-use-cases/virtualization.md
+        - computer-science/operating-system/special-use-cases/containerization.md
+        - computer-science/operating-system/special-use-cases/real-time-os.md
+
     - Computer Networking:
       - computer-science/computer-networking/index.md
     - Mathematics:
