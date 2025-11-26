@@ -1,11 +1,18 @@
+# Project information
 site_name: Cyberspace Explore 
 use_directory_urls: true
 
+# Repository
+# repo_name: Cyberspace-Explore
+# repo_url: https://github.com/AvenMay/cyberspace-explore
+
+# Configuration
 theme:
   name: material
   custom_dir: overrides
   icon:
     logo: material/rocket-launch
+    # repo: fontawesome/brands/github
   palette:
     - scheme: default    # 浅色模式
       # primary: indigo
@@ -120,6 +127,7 @@ nav:
         - computer-science/operating-system/special-use-cases/virtualization.md
         - computer-science/operating-system/special-use-cases/containerization.md
         - computer-science/operating-system/special-use-cases/real-time-os.md
+      - computer-science/operating-system/boot-process.md
 
     - Computer Networking:
       - computer-science/computer-networking/index.md
