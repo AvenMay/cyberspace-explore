@@ -8,7 +8,6 @@
 
 ## Masters
 
-- [UNIX传奇：历史与回忆](https://weread.qq.com/web/reader/9a1323d0724b5da99a1fb47)
 - [自由软件，自由社会 PDF]({{ files_server }}/computer-science/current/free-software-free-society.pdf)
 - [Just for fun](https://github.com/elodiagit/module2-solution/blob/master/Just_For_Fun-Linus_Torvalds%E8%87%AA%E4%BC%A0_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 - [Fabrice Bellard's Home Page](https://www.bellard.org/)

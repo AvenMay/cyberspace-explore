@@ -114,9 +114,12 @@ nav:
       - computer-science/computer-architecture/index.md
     - Operating System: 
       - computer-science/operating-system/index.md
-      - Popular-OS:
-        - computer-science/operating-system/popular-os/unix-and-unix-like.md
-        - computer-science/operating-system/popular-os/windows-nt.md
+      - UNIX/Unix-like:
+        - computer-science/operating-system/unix-and-unix-like/index.md
+        - computer-science/operating-system/unix-and-unix-like/linux.md
+        - computer-science/operating-system/unix-and-unix-like/bsd.md
+        - computer-science/operating-system/unix-and-unix-like/darwin-xnu.md
+      - computer-science/operating-system/windows-nt.md
       - Teaching Purposes:
         - computer-science/operating-system/teaching-purposes/xv6.md
         - computer-science/operating-system/teaching-purposes/pintos.md
