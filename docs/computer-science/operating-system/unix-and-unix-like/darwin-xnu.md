@@ -1,7 +1,5 @@
 # Darwin/XNU
 
-## XNU
-
 ### XNU APIs
 
 - [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API))
