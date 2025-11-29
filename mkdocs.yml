@@ -148,14 +148,13 @@ nav:
   # System-Architecture Topic
   - System-Architecture: 
     - system-architecture/index.md
+    - System-Design:
+      - system-architecture/system-design/index.md
+      - system-architecture/system-design/design-patterns.md
+      - system-architecture/system-design/application-type.md
+      - system-architecture/system-design/projects.md
     - Application:
-      - system-architecture/application/index.md
-      - system-architecture/application/system-desgin.md
-      - system-architecture/application/desgin-patterns.md
-      - system-architecture/application/application-type.md
-      - system-architecture/application/projects.md
-      - system-architecture/application/architecture.md
-      - system-architecture/application/api-desgin.md
+      - system-architecture/application/api-design.md
       - system-architecture/application/application-client.md
       - system-architecture/application/application-server.md
       - system-architecture/application/middleware.md
@@ -163,10 +162,12 @@ nav:
       - system-architecture/application/databases.md
     - Infrastructure:
       - system-architecture/infrastructure/index.md
-      - Enterprise IT:
-        - system-architecture/infrastructure/enterprise-it/index.md
-      - Mobile Computing:
-        - system-architecture/infrastructure/mobile-computing/index.md
+      - Sysadmin:
+        - system-architecture/infrastructure/sysadmin/index.md
+      - Storage Engineering:
+        - system-architecture/infrastructure/storage-engineering/index.md
+      - Network Engineering:
+        - system-architecture/infrastructure/network-engineering/index.md
       - Cloud Computing:
         - system-architecture/infrastructure/cloud-computing/cloud-providers.md
         - system-architecture/infrastructure/cloud-computing/x_aas.md
@@ -174,6 +175,8 @@ nav:
         - system-architecture/infrastructure/cloud-computing/containerization.md
         - system-architecture/infrastructure/cloud-computing/networking.md
         - system-architecture/infrastructure/cloud-computing/storage.md
+      - Mobile Computing:
+        - system-architecture/infrastructure/mobile-computing/index.md
     - Embedded/IoT:
         - system-architecture/embedded-iot-system/index.md
 
@@ -189,7 +192,6 @@ nav:
       - system-construction/development/testing.md
     - Operations:
       - system-construction/operations/index.md
-      - system-construction/operations/sysadmin.md
       - system-construction/operations/sre.md
       - system-construction/operations/iac.md
       - system-construction/operations/observability.md

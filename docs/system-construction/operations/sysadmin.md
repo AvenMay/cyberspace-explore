@@ -1,3 +1,0 @@
-# Sysadmin
-
-## Operating System
