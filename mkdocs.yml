@@ -154,6 +154,7 @@ nav:
       - system-architecture/system-design/application-type.md
       - system-architecture/system-design/projects.md
     - Application:
+      - system-architecture/application/index.md
       - system-architecture/application/api-design.md
       - system-architecture/application/application-client.md
       - system-architecture/application/application-server.md
