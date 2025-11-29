@@ -15,6 +15,6 @@
 
 ## Networking Engineering
 
-- [Application Networking](/system-architecture/application/networking.md)
-- [Network Engineering](/system-architecture/infrastructure/network-engineering/index.md)
-- [Cloud Networking](/system-architecture/infrastructure/cloud-computing/networking.md) 
+- [Application Networking](/system-architecture/application/networking/)
+- [Network Engineering](/system-architecture/infrastructure/network-engineering/)
+- [Cloud Networking](/system-architecture/infrastructure/cloud-computing/networking/) 
