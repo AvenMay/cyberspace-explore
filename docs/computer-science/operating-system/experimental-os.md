@@ -4,5 +4,3 @@
 - [Fuchsia](https://fuchsia.dev/?hl=zh-cn)
 - [seL4](https://sel4.systems/)
 - [Mach](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
-- [GNU Hurd](https://www.gnu.org/software/hurd/)
-- [Singularity](https://singularityos.org/)
