@@ -47,12 +47,12 @@
 
 ## Foundation
 
-- Programming Languages
-- Algorithms & Data-Strucures
-- Computer Architecture
-- Operating Systems
-- Computer Networking
-- Mathematics
+- [Programming Languages](/computer-science/programming-languages/preparation/ranking-analysis/)
+- [Algorithms & Data-Strucures](/computer-science/algorithms-data-structures/)
+- [Computer Architecture](/computer-science/computer-architecture/)
+- [Operating Systems](/computer-science/operating-system/)
+- [Computer Networking](/computer-science/compilers-languages/)
+- [Mathematics](/computer-science/mathematics/)
 
 ## Advanced
 

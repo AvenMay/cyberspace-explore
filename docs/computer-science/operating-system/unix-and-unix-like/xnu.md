@@ -1,4 +1,4 @@
-# Darwin/XNU
+# XNU
 
 ### XNU APIs
 

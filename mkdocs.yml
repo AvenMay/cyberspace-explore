@@ -114,23 +114,23 @@ nav:
       - computer-science/computer-architecture/index.md
     - Operating System: 
       - computer-science/operating-system/index.md
-      - UNIX/Unix-like:
+      - Unix-like:
         - computer-science/operating-system/unix-and-unix-like/index.md
         - computer-science/operating-system/unix-and-unix-like/linux.md
         - computer-science/operating-system/unix-and-unix-like/bsd.md
-        - computer-science/operating-system/unix-and-unix-like/darwin-xnu.md
+        - computer-science/operating-system/unix-and-unix-like/xnu.md
       - computer-science/operating-system/windows-nt.md
       - Teaching Purposes:
         - computer-science/operating-system/teaching-purposes/xv6.md
         - computer-science/operating-system/teaching-purposes/pintos.md
         - computer-science/operating-system/teaching-purposes/nachos.md
         - computer-science/operating-system/teaching-purposes/minix3.md
-      - computer-science/operating-system/experimental-os.md
       - Special Use-Cases:
         - computer-science/operating-system/special-use-cases/virtualization.md
         - computer-science/operating-system/special-use-cases/containerization.md
         - computer-science/operating-system/special-use-cases/real-time-os.md
       - computer-science/operating-system/boot-process.md
+      - computer-science/operating-system/experimental-os.md
 
     - Computer Networking:
       - computer-science/computer-networking/index.md
