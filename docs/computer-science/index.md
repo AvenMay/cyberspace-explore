@@ -33,6 +33,30 @@
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [Papers We Love](https://paperswelove.org/)
 
+## Open Source
+
+
+- [The Linux Foundation](https://www.linuxfoundation.org/)
+- [The Apache Software Foundation](https://www.apache.org/)
+- [Eclipse Foundation](https://www.eclipse.org/)
+- [Mozilla Foundation](https://www.mozillafoundation.org/)
+- [Wikimedia Foundation](https://wikimediafoundation.org/)
+- [Free Software Foundation](https://www.fsf.org/)
+- [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+- [OpenJS Foundation](https://openjsf.org/)
+- [OpenInfra Foundation](https://openinfra.dev/)
+
+- [Apple Open Source](https://opensource.apple.com/)
+- [Microsoft Open Source](https://opensource.microsoft.com/)
+- [Google Open Source](https://opensource.google/)
+- [Meta Open Source](https://opensource.fb.com/)
+- [Amazon Open Source](https://aws.amazon.com/opensource/)
+
+- [Alibaba Open Source](https://opensource.alibaba.com/)
+- [Tencent Open Source](https://opensource.tencent.com/)
+- [Baidu Open Source](https://opensource.baidu.com/)
+- [ByteDance Open Source](https://opensource.bytedance.com/)
+
 ## Standard
 
 - [ISO 国际标准化组织](https://www.iso.org/home.html)
