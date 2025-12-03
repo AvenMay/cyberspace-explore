@@ -2,7 +2,8 @@
 
 ## Books
 
-- [计算机科学中的数学.pdf]({{ files_server }}/computer-science/mathematics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
+- [具体数学-计算机科学基础 2nd.epub]({{ files_server }}/computer-science/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%202nd.epub)
+- [计算机科学中的数学.pdf]({{ files_server }}/computer-science/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
 
 ## 核心
 
