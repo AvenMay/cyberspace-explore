@@ -1,5 +1,9 @@
 # Introduction
 
+## Books
+
+- [计算机科学中的数学.pdf]({{ files_url }}/computer-science/mathematics/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)
+
 ## 核心
 
 	1.	离散数学
