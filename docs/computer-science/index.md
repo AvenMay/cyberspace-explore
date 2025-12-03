@@ -80,7 +80,7 @@
 
 ## Advanced
 
-- Compilers Languages
-- Databases Systems
-- Distributed Systems
-- Computer Graphics
+- [Compilers](/computer-science/compilers/)
+- [Databases Systems](/computer-science/databases-systems/)
+- [Distributed Systems](/computer-science/distributed-systems/)
+- [Computer Graphics](/computer-science/computer-graphics/)
