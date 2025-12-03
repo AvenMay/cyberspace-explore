@@ -136,8 +136,8 @@ nav:
       - computer-science/computer-networking/index.md
     - Mathematics:
       - computer-science/mathematics/index.md
-    - Compilers Languages:
-      - computer-science/compilers-languages/index.md
+    - Compilers:
+      - computer-science/compilers/index.md
     - Databases Systems:
       - computer-science/databases-systems/index.md
     - Distributed Systems:

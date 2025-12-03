@@ -31,4 +31,5 @@ Shell/Utilities (bash, ls, ps, cd, etc.)
 
 ### Linux Kernel
 
+- [The Linux Kernel documentation¶](https://docs.kernel.org/next/index.html)
 - [Linux Kernel](https://www.kernel.org/)
