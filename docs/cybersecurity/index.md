@@ -50,6 +50,11 @@
 
 > 每个主题内的分析对象从二进制到源码，从二进制到协议，从静态到动态，黑盒，白盒或灰盒
 
+- IAM Security
+  - 4A
+  - Zero-Trust
+  - Anti-brute force attack
+
 - Application-Security
     - Web Security
     - API Security
@@ -64,11 +69,9 @@
     - Android APK
     - iOS iPA
 
-
-
 - Infrastructure-Security
     - Endpoint Security
-        - Windows / AD / Server
+        - Windows / Active Directory/ Server
         - Linux 
         - macOS
     - Mobile Security
@@ -88,6 +91,7 @@
         - KVM
 
 - IoT-Secuirty
+    - IoT Certificates
     - Firmware Analysis
     - Industrial Control
     - Smart Home
