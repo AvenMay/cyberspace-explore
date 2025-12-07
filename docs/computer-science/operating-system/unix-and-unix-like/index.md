@@ -4,6 +4,8 @@
 
 - [UNIX传奇：历史与回忆](https://weread.qq.com/web/reader/9a1323d0724b5da99a1fb47)
 - [UNIX](https://unix.org/)
+- [UNIX System V](https://zh.wikipedia.org/wiki/UNIX_System_V)
+- [UNIX® Certified Products](http://www.opengroup.org/openbrand/register)
 
 ## POSIX/Unix-like
 
@@ -11,6 +13,7 @@
 
 - [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799.orig/)
 - [Unix-like](https://en.wikipedia.org/wiki/Unix-like)
+- [Unix-like 发展史](https://book.bsdcn.org/di-1-zhang-freebsd-chu-jian/di-1.1-unix)
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 
 ### Books 

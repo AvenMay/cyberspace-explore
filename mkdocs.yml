@@ -145,42 +145,6 @@ nav:
     - Computer Graphics:
       - computer-science/computer-graphics/index.md
 
-  # Internet-technology Topic
-  - Internet-Technology: 
-    - internet-technology/index.md
-    - System-Design:
-      - internet-technology/system-design/index.md
-      - internet-technology/system-design/design-patterns.md
-      - internet-technology/system-design/application-type.md
-      - internet-technology/system-design/projects.md
-    - Application:
-      - internet-technology/application/index.md
-      - internet-technology/application/api-design.md
-      - internet-technology/application/application-client.md
-      - internet-technology/application/application-server.md
-      - internet-technology/application/middleware.md
-      - internet-technology/application/networking.md
-      - internet-technology/application/databases.md
-    - Infrastructure:
-      - internet-technology/infrastructure/index.md
-      - Sysadmin:
-        - internet-technology/infrastructure/sysadmin/index.md
-      - Storage Engineering:
-        - internet-technology/infrastructure/storage-engineering/index.md
-      - Network Engineering:
-        - internet-technology/infrastructure/network-engineering/index.md
-      - Cloud Computing:
-        - internet-technology/infrastructure/cloud-computing/cloud-providers.md
-        - internet-technology/infrastructure/cloud-computing/x_aas.md
-        - internet-technology/infrastructure/cloud-computing/virtualization.md
-        - internet-technology/infrastructure/cloud-computing/containerization.md
-        - internet-technology/infrastructure/cloud-computing/networking.md
-        - internet-technology/infrastructure/cloud-computing/storage.md
-      - Mobile Computing:
-        - internet-technology/infrastructure/mobile-computing/index.md
-    - IoT:
-        - internet-technology/iot/index.md
-
   # Software-Engineering Topic
   - Software-Engineering:
     - software-engineering/index.md
@@ -193,6 +157,7 @@ nav:
       - software-engineering/development/testing.md
     - Operations:
       - software-engineering/operations/index.md
+      - software-engineering/operations/sysadmin.md
       - software-engineering/operations/sre.md
       - software-engineering/operations/iac.md
       - software-engineering/operations/observability.md
@@ -202,6 +167,42 @@ nav:
   # Hardware-Engineering Topic
   - Hardware-Engineering:
     - hardware-engineering/index.md
+
+  # Internet-System Topic
+  - Internet-System: 
+    - internet-system/index.md
+    - System-Design:
+      - internet-system/system-design/index.md
+      - internet-system/system-design/design-patterns.md
+      - internet-system/system-design/application-type.md
+      - internet-system/system-design/projects.md
+    - Application:
+      - internet-system/application/index.md
+      - internet-system/application/api-design.md
+      - internet-system/application/application-client.md
+      - internet-system/application/application-server.md
+      - internet-system/application/middleware.md
+      - internet-system/application/networking.md
+      - internet-system/application/databases.md
+    - Infrastructure:
+      - internet-system/infrastructure/index.md
+      - Sysadmin:
+        - internet-system/infrastructure/sysadmin/index.md
+      - Storage Engineering:
+        - internet-system/infrastructure/storage-engineering/index.md
+      - Network Engineering:
+        - internet-system/infrastructure/network-engineering/index.md
+      - Cloud Computing:
+        - internet-system/infrastructure/cloud-computing/cloud-providers.md
+        - internet-system/infrastructure/cloud-computing/x_aas.md
+        - internet-system/infrastructure/cloud-computing/virtualization.md
+        - internet-system/infrastructure/cloud-computing/containerization.md
+        - internet-system/infrastructure/cloud-computing/networking.md
+        - internet-system/infrastructure/cloud-computing/storage.md
+      - Mobile Computing:
+        - internet-system/infrastructure/mobile-computing/index.md
+    - IoT:
+        - internet-system/iot/index.md
 
   # Cybersecurity Topic
   - Cybersecurity:
