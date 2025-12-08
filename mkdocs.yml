@@ -75,35 +75,8 @@ nav:
     - computer-science/index.md
     - Programming Languages:
       - computer-science/programming-languages/index.md
-      - Preparation:
-        - computer-science/programming-languages/preparation/ranking-analysis.md
-        - computer-science/programming-languages/preparation/editor.md
-        - computer-science/programming-languages/preparation/encoding.md
-      - Dynamic:
-        - computer-science/programming-languages/dynamic/python.md
-        - computer-science/programming-languages/dynamic/javascript.md
-        - computer-science/programming-languages/dynamic/ruby.md
-        - computer-science/programming-languages/dynamic/php.md
-        - computer-science/programming-languages/dynamic/lua.md
-        - computer-science/programming-languages/dynamic/perl.md
-      - Static:
-        - computer-science/programming-languages/static/go.md
-        - computer-science/programming-languages/static/typescript.md
-        - computer-science/programming-languages/static/java.md
-        - computer-science/programming-languages/static/c-sharp.md
-        - computer-science/programming-languages/static/kotlin.md
-        - computer-science/programming-languages/static/swift.md
-
-      - System Level:
-        - computer-science/programming-languages/system-level/c.md
-        - computer-science/programming-languages/system-level/cpp.md
-        - computer-science/programming-languages/system-level/rust.md
-        - computer-science/programming-languages/system-level/assembly.md
-      - Functional:
-        - computer-science/programming-languages/functional/haskell.md
-        - computer-science/programming-languages/functional/scala.md
-        - computer-science/programming-languages/functional/ocaml.md
-        - computer-science/programming-languages/functional/elixir.md
+      - Compilers:
+        - computer-science/programming-languages/compilers/index.md
 
     - Algorithms & Data-Structures:
       - computer-science/algorithms-data-structures/index.md
@@ -119,6 +92,7 @@ nav:
         - computer-science/operating-system/unix-and-unix-like/linux.md
         - computer-science/operating-system/unix-and-unix-like/bsd.md
         - computer-science/operating-system/unix-and-unix-like/xnu.md
+        - computer-science/operating-system/unix-and-unix-like/android.md
       - computer-science/operating-system/windows-nt.md
       - Teaching Purposes:
         - computer-science/operating-system/teaching-purposes/xv6.md
@@ -136,8 +110,6 @@ nav:
       - computer-science/computer-networking/index.md
     - Mathematics:
       - computer-science/mathematics/index.md
-    - Compilers:
-      - computer-science/compilers/index.md
     - Databases Systems:
       - computer-science/databases-systems/index.md
     - Distributed Systems:
@@ -149,6 +121,38 @@ nav:
   - Software-Engineering:
     - software-engineering/index.md
     - software-engineering/devops.md
+    - Programming Languages:
+      - software-engineering/programming-languages/index.md
+      - Preparation:
+        - software-engineering/programming-languages/preparation/ranking-analysis.md
+        - software-engineering/programming-languages/preparation/editor.md
+        - software-engineering/programming-languages/preparation/encoding.md
+      - Dynamic:
+        - software-engineering/programming-languages/dynamic/python.md
+        - software-engineering/programming-languages/dynamic/javascript.md
+        - software-engineering/programming-languages/dynamic/ruby.md
+        - software-engineering/programming-languages/dynamic/php.md
+        - software-engineering/programming-languages/dynamic/lua.md
+        - software-engineering/programming-languages/dynamic/perl.md
+      - Static:
+        - software-engineering/programming-languages/static/go.md
+        - software-engineering/programming-languages/static/typescript.md
+        - software-engineering/programming-languages/static/java.md
+        - software-engineering/programming-languages/static/c-sharp.md
+        - software-engineering/programming-languages/static/kotlin.md
+        - software-engineering/programming-languages/static/swift.md
+
+      - System Level:
+        - software-engineering/programming-languages/system-level/c.md
+        - software-engineering/programming-languages/system-level/cpp.md
+        - software-engineering/programming-languages/system-level/rust.md
+        - software-engineering/programming-languages/system-level/assembly.md
+      - Functional:
+        - software-engineering/programming-languages/functional/haskell.md
+        - software-engineering/programming-languages/functional/scala.md
+        - software-engineering/programming-languages/functional/ocaml.md
+        - software-engineering/programming-languages/functional/elixir.md
+
     - Development:
       - software-engineering/development/index.md
       - software-engineering/development/vibe-coding.md
@@ -157,33 +161,36 @@ nav:
       - software-engineering/development/testing.md
     - Operations:
       - software-engineering/operations/index.md
-      - software-engineering/operations/sysadmin.md
+      - Sysadmin:
+        - software-engineering/operations/sysadmin/unix-linux.md
+        - software-engineering/operations/sysadmin/windows.md
       - software-engineering/operations/sre.md
       - software-engineering/operations/iac.md
       - software-engineering/operations/observability.md
     - Collaboration:
       - software-engineering/collaboration/index.md
 
-  # Hardware-Engineering Topic
-  - Hardware-Engineering:
-    - hardware-engineering/index.md
+  # Computer-Engineering Topic
+  - Computer-Engineering:
+    - computer-engineering/index.md
+    - Electronic-Engineering:
+      - electronic-engineering/index.md
 
   # Internet-System Topic
   - Internet-System: 
     - internet-system/index.md
     - System-Design:
       - internet-system/system-design/index.md
-      - internet-system/system-design/design-patterns.md
-      - internet-system/system-design/application-type.md
-      - internet-system/system-design/projects.md
     - Application:
       - internet-system/application/index.md
+      - internet-system/application/architecture.md
       - internet-system/application/api-design.md
       - internet-system/application/application-client.md
       - internet-system/application/application-server.md
       - internet-system/application/middleware.md
-      - internet-system/application/networking.md
+      - internet-system/application/protocols.md
       - internet-system/application/databases.md
+      - internet-system/application/use-cases.md
     - Infrastructure:
       - internet-system/infrastructure/index.md
       - Sysadmin:

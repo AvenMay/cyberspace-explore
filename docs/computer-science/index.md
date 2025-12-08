@@ -71,7 +71,7 @@
 
 ## Foundation
 
-- [Programming Languages](/computer-science/programming-languages/preparation/ranking-analysis/)
+- [Programming Languages](/computer-science/programming-languages/)
 - [Algorithms & Data-Strucures](/computer-science/algorithms-data-structures/)
 - [Computer Architecture](/computer-science/computer-architecture/)
 - [Operating Systems](/computer-science/operating-system/)
@@ -80,7 +80,6 @@
 
 ## Advanced
 
-- [Compilers](/computer-science/compilers/)
 - [Databases Systems](/computer-science/databases-systems/)
 - [Distributed Systems](/computer-science/distributed-systems/)
 - [Computer Graphics](/computer-science/computer-graphics/)

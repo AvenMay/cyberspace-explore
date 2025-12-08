@@ -36,8 +36,8 @@
 
 ## Regular Expressions
 
-- [正则表达式必知必会](https://files.evmix.top/computer-science/programming-languages/preparation/正则表达式必知必会(修订版).pdf)
-- [精通正则表达式 3rd](https://files.evmix.top/computer-science/programming-languages/preparation/精通正则表达式(第3版).epub)
+- [正则表达式必知必会](https://files.evmix.top/software-engineering/programming-languages/preparation/正则表达式必知必会(修订版).pdf)
+- [精通正则表达式 3rd](https://files.evmix.top/software-engineering/programming-languages/preparation/精通正则表达式(第3版).epub)
 - [RegExr](https://regexr.com/)
 - [Regex Vis](https://regex-vis.com/)
 - grep

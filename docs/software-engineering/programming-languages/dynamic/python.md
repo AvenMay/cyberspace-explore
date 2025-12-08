@@ -48,24 +48,24 @@
 
 ### Foundation
 
-- [Python编程从入门到实践.pdf](http://192.168.100.99:9090/computer-science/programming-languages/dynamic/python/Python编程从入门到实践.pdf)
-- [Python工匠.epub]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python工匠.epub)
-- [Python学习手册.epub]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python学习手册.epub)
-- [简明Python教程.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/简明Python教程.pdf)
+- [Python编程从入门到实践.pdf](http://192.168.100.99:9090/software-engineering/programming-languages/dynamic/python/Python编程从入门到实践.pdf)
+- [Python工匠.epub]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python工匠.epub)
+- [Python学习手册.epub]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python学习手册.epub)
+- [简明Python教程.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/简明Python教程.pdf)
 
 ### Intermediate
 
-- [Python3标准库.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python3标准库.pdf)
-- [流畅的Python.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/流畅的Python.pdf)
-- [Python Cookbook.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python%20Cookbook.pdf)
-- [Effective Python.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/Effective%20Python.pdf)
-- [Python语言及其应用.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python语言及其应用.pdf)
+- [Python3标准库.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python3标准库.pdf)
+- [流畅的Python.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/流畅的Python.pdf)
+- [Python Cookbook.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python%20Cookbook.pdf)
+- [Effective Python.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Effective%20Python.pdf)
+- [Python语言及其应用.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python语言及其应用.pdf)
 
 ### Advanced
 
-- [Python 3 面向对象编程.pdf]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python%203%20面向对象编程.pdf)
-- [Python高级编程.epub]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python高级编程.epub)
-- [Python高性能编程.epub]({{ files_server }}/computer-science/programming-languages/dynamic/python/Python高性能编程.epub)
+- [Python 3 面向对象编程.pdf]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python%203%20面向对象编程.pdf)
+- [Python高级编程.epub]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python高级编程.epub)
+- [Python高性能编程.epub]({{ files_server }}/software-engineering/programming-languages/dynamic/python/Python高性能编程.epub)
 
 ### Resource
 
@@ -117,13 +117,13 @@
 
 ### Network Programming
 
-- [Python网络编程攻略 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python网络编程攻略.pdf)
+- [Python网络编程攻略 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python网络编程攻略.pdf)
 
 - Application Protocols (With Built-in Module)
 
 |Application Protocols|Built-in Module|Third Party|
 |:-------------------:|:-------------:|:---------:|
-|HTTP/HTTPS|http.client, urllib.request, http.server, wsgiref|pycurl, requests, aiohttps, httpx, [Application-Server](http://192.168.100.36:8000/computer-science/programming-languages/dynamic/python/#application-server)|
+|HTTP/HTTPS|http.client, urllib.request, http.server, wsgiref|pycurl, requests, aiohttps, httpx, [Application-Server](http://192.168.100.36:8000/software-engineering/programming-languages/dynamic/python/#application-server)|
 |FTP/FTPS|ftplib|aioftp|
 |SMTP/SMTPS|smtplib|aiosmtplib, yagmail|
 |POP3/IMAP|poplib, imaplib|imapclient, mail-aprser|
@@ -206,11 +206,11 @@
 
 ### Web Crawler
 
-- [Python3 反爬虫原理与绕过实战 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python3%20反爬虫原理与绕过实战.pdf)
-- [Python3 网络爬虫开发实战 第2版 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python3%20网络爬虫开发实战%20第2版.pdf)
-- [Python网络数据采集 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python网络数据采集.pdf)
-- [反爬虫AST原理与还原混淆实战 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/反爬虫AST原理与还原混淆实战.pdf)
-- [精通Python爬虫框架Scrapy EPUB]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/精通Python爬虫框架Scrapy.epub)
+- [Python3 反爬虫原理与绕过实战 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python3%20反爬虫原理与绕过实战.pdf)
+- [Python3 网络爬虫开发实战 第2版 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python3%20网络爬虫开发实战%20第2版.pdf)
+- [Python网络数据采集 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python网络数据采集.pdf)
+- [反爬虫AST原理与还原混淆实战 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/反爬虫AST原理与还原混淆实战.pdf)
+- [精通Python爬虫框架Scrapy EPUB]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/精通Python爬虫框架Scrapy.epub)
 
 - Data Scraping
     - HTTP/URL
@@ -255,15 +255,15 @@
 
 ### Automated Testing
 
-- [Python自动化测试实战 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python自动化测试实战%20.pdf)
+- [Python自动化测试实战 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python自动化测试实战%20.pdf)
 - pytest
 - Robot-Framework
 - unittest
 
 ### Automated-Operations
 
-- [Python Linux系统管理与自动化运维 PDF]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python%20Linux系统管理与自动化运维.pdf)
-- [Python自动化运维 EPUB]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python自动化运维.epub)
+- [Python Linux系统管理与自动化运维 PDF]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python%20Linux系统管理与自动化运维.pdf)
+- [Python自动化运维 EPUB]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python自动化运维.epub)
 - Diamond
 
 ### Data-Science
@@ -290,7 +290,7 @@
 
 ### Cryptography
 
-- [Python密码学编程 EPUB]({{ files_server }}/computer-science/programming-languages/dynamic/python/advanced/Python密码学编程.epub)
+- [Python密码学编程 EPUB]({{ files_server }}/software-engineering/programming-languages/dynamic/python/advanced/Python密码学编程.epub)
 - cryptography
 - PyCryptodome
 - secrets
