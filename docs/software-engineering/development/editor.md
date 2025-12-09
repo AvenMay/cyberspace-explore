@@ -2,7 +2,7 @@
 
 ## Vim
 
-- [Vim实用技巧 PDF](https://files.evmix.top/software-engineering/programming-languages/preparation/Vim实用技巧.pdf)
+- [Vim实用技巧 PDF]({{ files_server }}/software-engineering/development/editor/Vim实用技巧.pdf)
 - 基于“模式化编辑”，键盘操作快到让人忘了鼠标存在。
 - 体积极小，几乎所有类 Unix 系统自带。
 - 熟练后速度极快，写代码像在玩乐器。
@@ -42,7 +42,7 @@
 
 ## Visual Studio Code
 
-- [Visual Studio Code 权威指南 PDF](https://files.evmix.top/software-engineering/programming-languages/preparation/Visual%20Studio%20Code%20权威指南.pdf)
+- [Visual Studio Code 权威指南 PDF]({{ files_server }}/software-engineering/development/editor/Visual%20Studio%20Code%20权威指南.pdf)
 - 开源、跨平台，启动轻量但功能可通过插件无限扩展。
 - 内建 Git 集成，前端、后端、运维都能用。
 - 插件市场极其繁荣，可以快速变成 IDE。
@@ -61,8 +61,8 @@
 
 ## Jetbrains
 
-- [IntelliJ IDEA 中文文档](https://files.evmix.top/software-engineering/programming-languages/preparation/IntelliJ%20IDEA%20中文文档.epub)
-- [PyCharm 中文指南](https://files.evmix.top/software-engineering/programming-languages/preparation/PyCharm%20中文指南.epub)
+- [IntelliJ IDEA 中文文档]({{ files_server }}/software-engineering/development/editor/IntelliJ%20IDEA%20中文文档.epub)
+- [PyCharm 中文指南]({{ files_server }}/software-engineering/development/editor/PyCharm%20中文指南.epub)
 - 强大的代码分析和智能提示（IntelliSense 升级版）。
 - 针对不同语言有专门 IDE（如 PyCharm、GoLand）。
 - 重构工具极强，能安全快速地重构复杂代码。

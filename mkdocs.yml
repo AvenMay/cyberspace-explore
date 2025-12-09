@@ -120,41 +120,46 @@ nav:
   # Software-Engineering Topic
   - Software-Engineering:
     - software-engineering/index.md
-    - software-engineering/devops.md
-    - Programming Languages:
-      - software-engineering/programming-languages/index.md
+    - Programming:
+      - software-engineering/programming/index.md
       - Preparation:
-        - software-engineering/programming-languages/preparation/ranking-analysis.md
-        - software-engineering/programming-languages/preparation/editor.md
-        - software-engineering/programming-languages/preparation/encoding.md
+        - software-engineering/programming/preparation/ranking-analysis.md
+        - software-engineering/programming/preparation/encoding.md
+      # - Design Patterns:
+      - software-engineering/programming/design-patterns.md
+        # - software-engineering/programming/design-patterns/creational.md
+        # - software-engineering/programming/design-patterns/structural.md
+        # - software-engineering/programming/design-patterns/behavioral.md
+      - software-engineering/programming/interfaces.md
       - Dynamic:
-        - software-engineering/programming-languages/dynamic/python.md
-        - software-engineering/programming-languages/dynamic/javascript.md
-        - software-engineering/programming-languages/dynamic/ruby.md
-        - software-engineering/programming-languages/dynamic/php.md
-        - software-engineering/programming-languages/dynamic/lua.md
-        - software-engineering/programming-languages/dynamic/perl.md
+        - software-engineering/programming/dynamic/python.md
+        - software-engineering/programming/dynamic/javascript.md
+        - software-engineering/programming/dynamic/ruby.md
+        - software-engineering/programming/dynamic/php.md
+        - software-engineering/programming/dynamic/lua.md
+        - software-engineering/programming/dynamic/perl.md
       - Static:
-        - software-engineering/programming-languages/static/go.md
-        - software-engineering/programming-languages/static/typescript.md
-        - software-engineering/programming-languages/static/java.md
-        - software-engineering/programming-languages/static/c-sharp.md
-        - software-engineering/programming-languages/static/kotlin.md
-        - software-engineering/programming-languages/static/swift.md
-
-      - System Level:
-        - software-engineering/programming-languages/system-level/c.md
-        - software-engineering/programming-languages/system-level/cpp.md
-        - software-engineering/programming-languages/system-level/rust.md
-        - software-engineering/programming-languages/system-level/assembly.md
+        - software-engineering/programming/static/go.md
+        - software-engineering/programming/static/typescript.md
+        - software-engineering/programming/static/java.md
+        - software-engineering/programming/static/c-sharp.md
+        - software-engineering/programming/static/kotlin.md
+        - software-engineering/programming/static/swift.md
+      - System-Level:
+        - software-engineering/programming/system-level/c.md
+        - software-engineering/programming/system-level/cpp.md
+        - software-engineering/programming/system-level/rust.md
+        - software-engineering/programming/system-level/assembly.md
       - Functional:
-        - software-engineering/programming-languages/functional/haskell.md
-        - software-engineering/programming-languages/functional/scala.md
-        - software-engineering/programming-languages/functional/ocaml.md
-        - software-engineering/programming-languages/functional/elixir.md
+        - software-engineering/programming/functional/haskell.md
+        - software-engineering/programming/functional/scala.md
+        - software-engineering/programming/functional/ocaml.md
+        - software-engineering/programming/functional/elixir.md
 
     - Development:
       - software-engineering/development/index.md
+      - software-engineering/development/devops.md
+      - software-engineering/development/editor.md
       - software-engineering/development/vibe-coding.md
       - software-engineering/development/git.md
       - software-engineering/development/cicd.md
@@ -162,11 +167,19 @@ nav:
     - Operations:
       - software-engineering/operations/index.md
       - Sysadmin:
+        - software-engineering/operations/sysadmin/index.md
         - software-engineering/operations/sysadmin/unix-linux.md
         - software-engineering/operations/sysadmin/windows.md
+      - Infrastructure:
+        - software-engineering/operations/infrastructure/configuration.md
+        - software-engineering/operations/infrastructure/environment.md
+        - software-engineering/operations/infrastructure/iac.md
+        - software-engineering/operations/infrastructure/gitops.md
+        - software-engineering/operations/infrastructure/monitoring.md
+        - software-engineering/operations/infrastructure/observability.md
+      - software-engineering/operations/deployment.md
       - software-engineering/operations/sre.md
-      - software-engineering/operations/iac.md
-      - software-engineering/operations/observability.md
+      - software-engineering/operations/platform-engineering.md
     - Collaboration:
       - software-engineering/collaboration/index.md
 
@@ -193,21 +206,34 @@ nav:
       - internet-system/application/use-cases.md
     - Infrastructure:
       - internet-system/infrastructure/index.md
-      - Sysadmin:
-        - internet-system/infrastructure/sysadmin/index.md
-      - Storage Engineering:
-        - internet-system/infrastructure/storage-engineering/index.md
-      - Network Engineering:
+      - Network-Engineering:
         - internet-system/infrastructure/network-engineering/index.md
-      - Cloud Computing:
-        - internet-system/infrastructure/cloud-computing/cloud-providers.md
-        - internet-system/infrastructure/cloud-computing/x_aas.md
-        - internet-system/infrastructure/cloud-computing/virtualization.md
-        - internet-system/infrastructure/cloud-computing/containerization.md
-        - internet-system/infrastructure/cloud-computing/networking.md
-        - internet-system/infrastructure/cloud-computing/storage.md
-      - Mobile Computing:
-        - internet-system/infrastructure/mobile-computing/index.md
+        # - internet-system/infrastructure/network-engineering/layer-1-physical.md
+        # - internet-system/infrastructure/network-engineering/layer-2-data-link.md
+        # - internet-system/infrastructure/network-engineering/layer-3-network.md
+        # - internet-system/infrastructure/network-engineering/layer-4-transport.md
+        # - internet-system/infrastructure/network-engineering/layer-5-session.md
+        # - internet-system/infrastructure/network-engineering/layer-6-presentation.md
+        # - internet-system/infrastructure/network-engineering/layer-7-application.md
+      - Compute:
+        - internet-system/infrastructure/compute/index.md
+        - internet-system/infrastructure/compute/operating-systems.md
+        - internet-system/infrastructure/compute/virtualization.md
+        - internet-system/infrastructure/compute/containerization.md
+      - Storage:
+        - internet-system/infrastructure/storage/index.md
+        - internet-system/infrastructure/storage/block-storage.md
+        - internet-system/infrastructure/storage/file-storage.md
+        - internet-system/infrastructure/storage/object-storage.md
+      - Cloud-Platforms:
+        - internet-system/infrastructure/cloud-platforms/index.md
+        - internet-system/infrastructure/cloud-platforms/public-cloud.md
+        - internet-system/infrastructure/cloud-platforms/private-cloud.md
+        - internet-system/infrastructure/cloud-platforms/hybrid-cloud.md
+        - internet-system/infrastructure/cloud-platforms/edge-computing.md
+      - Client-Devices:
+        - internet-system/infrastructure/client-devices/index.md
+
     - IoT:
         - internet-system/iot/index.md
 

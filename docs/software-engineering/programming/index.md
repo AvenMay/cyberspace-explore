@@ -2,19 +2,11 @@
 
 ## Books
 
-### Coding Standards
-
-- [代码大全 2nd PDF]({{ files_server }}/software-engineering/programming-languages/current/代码大全%202ND.pdf)
-- [代码整洁之道 EPUB]({{ files_server }}/software-engineering/programming-languages/current/代码整洁之道.epub)
-- [修改代码的艺术 PDF]({{ files_server }}/software-engineering/programming-languages/current/修改代码的艺术.pdf)
-- [重构与模式 EPUB]({{ files_server }}/software-engineering/programming-languages/current/重构与模式.epub)
-- [重构-改善既有代码的设计 PDF]({{ files_server }}/software-engineering/programming-languages/current/重构-改善既有代码的设计.pdf)
-
-### Desgin Patterns
-
-- [大话设计模式 EPUB]({{ files_server }}/software-engineering/programming-languages/current/大话设计模式.epub)
-- [设计模式-可复用面向对象软件的基础 PDF]({{ files_server }}/software-engineering/programming-languages/current/设计模式-可复用面向对象软件的基础.pdf)
-- [面向对象分析与设计 PDF]({{ files_server }}/software-engineering/programming-languages/current/面向对象分析与设计.pdf)
+- [代码大全 2nd PDF]({{ files_server }}/software-engineering/programming/current/代码大全%202ND.pdf)
+- [代码整洁之道 EPUB]({{ files_server }}/software-engineering/programming/current/代码整洁之道.epub)
+- [修改代码的艺术 PDF]({{ files_server }}/software-engineering/programming/current/修改代码的艺术.pdf)
+- [重构与模式 EPUB]({{ files_server }}/software-engineering/programming/current/重构与模式.epub)
+- [重构-改善既有代码的设计 PDF]({{ files_server }}/software-engineering/programming/current/重构-改善既有代码的设计.pdf)
 
 ## Projects
 

@@ -8,9 +8,9 @@
 
 ### Books
 
-- [C Primer Plus.epub]({{ files_server }}/software-engineering/programming-languages/system-level/c/C%20Primer%20Plus.epub)
-- [C和指针.pdf]({{ files_server }}/software-engineering/programming-languages/system-level/c/C%E5%92%8C%E6%8C%87%E9%92%88.pdf)
-- [C标准库(The Standard C Library).pdf]({{ files_server }}/software-engineering/programming-languages/system-level/c/C%E6%A0%87%E5%87%86%E5%BA%93%28The%20Standard%20C%20Library%29.pdf)
+- [C Primer Plus.epub]({{ files_server }}/software-engineering/programming/system-level/c/C%20Primer%20Plus.epub)
+- [C和指针.pdf]({{ files_server }}/software-engineering/programming/system-level/c/C%E5%92%8C%E6%8C%87%E9%92%88.pdf)
+- [C标准库(The Standard C Library).pdf]({{ files_server }}/software-engineering/programming/system-level/c/C%E6%A0%87%E5%87%86%E5%BA%93%28The%20Standard%20C%20Library%29.pdf)
 
 ### Compilers
 
