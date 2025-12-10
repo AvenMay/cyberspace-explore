@@ -16,6 +16,5 @@
 
 ## Networking Engineering
 
-- [Application Networking](/system-architecture/application/networking/)
-- [Network Engineering](/system-architecture/infrastructure/network-engineering/)
-- [Cloud Networking](/system-architecture/infrastructure/cloud-computing/networking/) 
+- [Application Protocols](/internet-system/application/protocols/)
+- [Network Engineering](/internet-system/infrastructure/network-engineering/)

@@ -7,16 +7,7 @@
 - 让你理解各种加密协议背后的数学原理，而不仅仅是“使用”。
 - 在 CTF 和实际安全研究中，能分析弱加密实现或破解不安全的系统。
 - 对进入区块链安全、密码学研究、或零信任架构等方向有重要意义。
-- [Encoding](https://mindi.evmix.top/computer-science/programming-languages/encoding/)
-- Classical-Cryptography
-- Asymmetric-key-Algorithm
-- Digital-Signatures
-- Hash-Function
-- Message-Authentication-Code
-- Pseudo-Random Number Generator
-- Symmetric-key-Algorithm
-- Cryptography Applications
-    - Blockchain
+
 
 ## CTF
 - 作为信息安全的“实验场”，CTF（夺旗赛）让学习者通过实战题目练习各种攻击与防御技巧。
@@ -25,79 +16,6 @@
 - 帮助初学者快速接触广泛的安全知识。
 - 通过比赛驱动学习，提升解决问题的思维能力。
 - 为职业发展积累技术深度，很多安全工程师和研究员就是从 CTF 社区成长起来的。
-- MISC
-- Crypto
-- Web
-- Reverse
-- PWN
-- More
-- APK
-- Blockchain
-- IoT
-
-## Security Skills
-
-- Network traffic analysis
-- Binary program analysis
-- Source code analysis
-
-## Security Topic
-> Vulnerability analysis for various security topics: principles, exploitation, and protection
-
-> 以安全主题为划分的漏洞分析：原理，利用与防护
-
-> From binary to source code, from binary to protocol
-
-> 每个主题内的分析对象从二进制到源码，从二进制到协议，从静态到动态，黑盒，白盒或灰盒
-
-- IAM Security
-  - 4A
-  - Zero-Trust
-  - Anti-brute force attack
-
-- Application-Security
-    - Web Security
-    - API Security
-    - Web Browser
-    - Middleware Security
-    - Database Security
-    - Basic Network Program (SSH, DNS, Telnet, SNMP, FTP)
-
-    - Windows Executable file
-    - Linux Executable file
-    - macOS Executable file
-    - Android APK
-    - iOS iPA
-
-- Infrastructure-Security
-    - Endpoint Security
-        - Windows / Active Directory/ Server
-        - Linux 
-        - macOS
-    - Mobile Security
-        - Android
-        - iOS   
-    - Network Security
-        - LAN attack
-        - Transport layer
-        - IP Layer
-        - Link layer
-        - Wireless
-            - WiFi
-            - Bluetooth
-    - Cloud Security
-        - Docker
-        - K8s Cluster
-        - KVM
-
-- IoT-Secuirty
-    - IoT Certificates
-    - Firmware Analysis
-    - Industrial Control
-    - Smart Home
-    - Internet of Vehicles
-
-- Data-Security
 
 
 ## Offensive Security
@@ -110,11 +28,6 @@
 - 帮助安全人员理解黑客如何入侵，从而更好地防御。
 - 对个人职业发展（渗透测试工程师、红队、安全研究员）有直接帮助。
 - 对企业而言，能在“真实攻击发生前”发现潜在风险。
-- ATT&CK
-- Cyber Kill Chain
-- Penetration Testing
-- Red Teaming
-- Bug Bounty
 
 
 ## Defensive Security
@@ -128,13 +41,6 @@
 - 帮助企业应对安全事件，降低攻击带来的损失。
 - 让防御人员学会如何发现异常、追踪溯源、制定改进措施。
 - 对职业发展（SOC 工程师、威胁分析师、蓝队成员）非常重要。
-- Defense in Depth System
-- Digital Forensics
-- Incident Response
-- Malware Analysis
-- Security Baseline
-- Security Operations
-- Threat Hunting
 
 ## Summary
 

@@ -186,8 +186,17 @@ nav:
   # Computer-Engineering Topic
   - Computer-Engineering:
     - computer-engineering/index.md
+    - Embedded-System:
+      - computer-engineering/embedded-system/index.md
+    - 3D-Printing:
+      - computer-engineering/3d-printing/index.md
+    - Digital-Logic:
+      - computer-engineering/digital-logic/index.md
     - Electronic-Engineering:
-      - electronic-engineering/index.md
+      - computer-engineering/electronic-engineering/index.md
+    - VLSI-Design:
+      - computer-engineering/vlsi-design/index.md
+    
 
   # Internet-System Topic
   - Internet-System: 
@@ -196,25 +205,25 @@ nav:
       - internet-system/system-design/index.md
     - Application:
       - internet-system/application/index.md
+      - Protocols:
+        - internet-system/application/protocols/index.md
+        - internet-system/application/protocols/http-https.md
+        - internet-system/application/protocols/dns.md
+        - internet-system/application/protocols/websockets.md
+        - internet-system/application/protocols/ssh.md
+        # - internet-system/application/protocols/ftp.md
+        # - internet-system/application/protocols/smtp.md
+      - internet-system/application/api.md
       - internet-system/application/architecture.md
-      - internet-system/application/api-design.md
       - internet-system/application/application-client.md
       - internet-system/application/application-server.md
       - internet-system/application/middleware.md
-      - internet-system/application/protocols.md
       - internet-system/application/databases.md
       - internet-system/application/use-cases.md
     - Infrastructure:
       - internet-system/infrastructure/index.md
       - Network-Engineering:
         - internet-system/infrastructure/network-engineering/index.md
-        # - internet-system/infrastructure/network-engineering/layer-1-physical.md
-        # - internet-system/infrastructure/network-engineering/layer-2-data-link.md
-        # - internet-system/infrastructure/network-engineering/layer-3-network.md
-        # - internet-system/infrastructure/network-engineering/layer-4-transport.md
-        # - internet-system/infrastructure/network-engineering/layer-5-session.md
-        # - internet-system/infrastructure/network-engineering/layer-6-presentation.md
-        # - internet-system/infrastructure/network-engineering/layer-7-application.md
       - Compute:
         - internet-system/infrastructure/compute/index.md
         - internet-system/infrastructure/compute/operating-systems.md
@@ -242,12 +251,12 @@ nav:
     - cybersecurity/index.md
     - Cryptography:
       - cybersecurity/cryptography/index.md
-    - CTF:
-      - cybersecurity/ctf/index.md
     - Security-Skills:
       - cybersecurity/security-skills/index.md
     - Security-Topics:
       - cybersecurity/security-topics/index.md
+    - CTF:
+      - cybersecurity/ctf/index.md
     - Offensive-Security:
       - cybersecurity/offensive-security/index.md
     - Defensive-Security:
