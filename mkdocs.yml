@@ -158,9 +158,9 @@ nav:
 
     - Development:
       - software-engineering/development/index.md
-      - software-engineering/development/devops.md
       - software-engineering/development/editor.md
       - software-engineering/development/vibe-coding.md
+      - software-engineering/development/devops.md
       - software-engineering/development/git.md
       - software-engineering/development/cicd.md
       - software-engineering/development/testing.md
@@ -170,14 +170,14 @@ nav:
         - software-engineering/operations/sysadmin/index.md
         - software-engineering/operations/sysadmin/unix-linux.md
         - software-engineering/operations/sysadmin/windows.md
-      - Infrastructure:
-        - software-engineering/operations/infrastructure/configuration.md
-        - software-engineering/operations/infrastructure/environment.md
-        - software-engineering/operations/infrastructure/iac.md
-        - software-engineering/operations/infrastructure/gitops.md
-        - software-engineering/operations/infrastructure/monitoring.md
-        - software-engineering/operations/infrastructure/observability.md
       - software-engineering/operations/deployment.md
+      - Infrastructure Management:
+        - software-engineering/operations//infrastructure-management/configuration.md
+        - software-engineering/operations//infrastructure-management/environment.md
+        - software-engineering/operations/infrastructure-management/iac.md
+        - software-engineering/operations/infrastructure-management/gitops.md
+        - software-engineering/operations/infrastructure-management/monitoring.md
+        - software-engineering/operations/infrastructure-management/observability.md
       - software-engineering/operations/sre.md
       - software-engineering/operations/platform-engineering.md
     - Collaboration:

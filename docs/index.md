@@ -1,6 +1,6 @@
 # Cyberspace Explore
 
-<div align="center"><h2><strong>《机枢寰宇之求索》</strong></h2></div>
+<div align="center"><h2><strong>机枢寰宇之求索</strong></h2></div>
 
 &emsp;&emsp;盖闻上古结绳，中古筹策，迄至今日，机枢肇兴，夺造化之工，穷宇宙之理。此物非止于算，实乃通灵之器。世人谓之电脑，余谓之“机枢”。此学浩如烟海，综其要旨，不过八字：**科、软、硬、网、安、智、行、工**。
 
