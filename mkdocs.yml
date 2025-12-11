@@ -158,7 +158,7 @@ nav:
 
     - Development:
       - software-engineering/development/index.md
-      - software-engineering/development/editor.md
+      - software-engineering/development/editor-ide.md
       - software-engineering/development/vibe-coding.md
       - software-engineering/development/devops.md
       - software-engineering/development/git.md
