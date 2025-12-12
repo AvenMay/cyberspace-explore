@@ -190,6 +190,8 @@ nav:
       - computer-engineering/embedded-system/index.md
     - 3D-Printing:
       - computer-engineering/3d-printing/index.md
+    - HMI-Design:
+      - computer-engineering/hmi-design/index.md
     - Digital-Logic:
       - computer-engineering/digital-logic/index.md
     - Electronic-Engineering:

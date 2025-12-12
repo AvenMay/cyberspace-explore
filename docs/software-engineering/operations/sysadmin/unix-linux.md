@@ -2,12 +2,8 @@
 
 ## Resources
 
-
-
 ## GNU/Linux
 
 ## FreeBSD
-
-## Unix/Linux GUI
 
 ## Darwin
