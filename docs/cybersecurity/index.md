@@ -9,17 +9,18 @@
 - 在 CTF 和实际安全研究中，能分析弱加密实现或破解不安全的系统。
 - 对进入区块链安全、密码学研究、或零信任架构等方向有重要意义。
 
+------
+
 ## Security-Topics
 
-
-- Application-Security
+- Application Security
 - Network Security
 - Endpoint Security
-- IAM
 - Cloud Security
 - Mobile Security
 - IoT Secuirty
-- Data Security
+
+------
 
 ## CTF
 
@@ -30,6 +31,7 @@
 - 通过比赛驱动学习，提升解决问题的思维能力。
 - 为职业发展积累技术深度，很多安全工程师和研究员就是从 CTF 社区成长起来的。
 
+------
 
 ## Offensive Security
 
@@ -43,6 +45,7 @@
 - 对个人职业发展（渗透测试工程师、红队、安全研究员）有直接帮助。
 - 对企业而言，能在“真实攻击发生前”发现潜在风险。
 
+------
 
 ## Defensive Security
 
@@ -56,6 +59,26 @@
 - 帮助企业应对安全事件，降低攻击带来的损失。
 - 让防御人员学会如何发现异常、追踪溯源、制定改进措施。
 - 对职业发展（SOC 工程师、威胁分析师、蓝队成员）非常重要。
+
+------
+
+## Data Security
+
+- 专注于“资产保护视角”，是安全体系的上游治理者和规则制定者。
+- 核心目标是保障数据在整个生命周期（创建、存储、传输、使用、销毁）的 CIA 三要素：机密性 (Confidentiality)、完整性 (Integrity)、可用性 (Availability)。
+- 跨越攻防边界：它规定了防御者（蓝队）必须达到的最低防护标准，也为攻击者（红队）提供了渗透测试的最高价值目标。
+- 对企业而言，是降低法律风险、维护客户信任、支撑业务合规的关键支柱。
+- 对个人职业发展（数据安全架构师、数据治理专员、隐私保护专家 PIS/DPO）有重要意义，需要同时具备技术深度和法律合规知识。
+
+关键技术和领域包括：
+
+  - 数据分类分级 (Data Classification)：识别和标记数据敏感度。
+  - 数据加密 (Encryption)：实现数据静止 (At Rest) 和传输 (In Transit) 的安全。
+  - 数据防泄露 (DLP)：监控和阻止敏感数据未经授权地离开边界。
+  - 数据驻留与合规 (Data Residency & Compliance)：满足 GDPR、CCPA、中国数据安全法等法律法规要求。
+  - 敏感数据访问控制 (Access Control)：基于最小权限原则精细化管理数据访问权限。 
+
+------
 
 ## Summary
 

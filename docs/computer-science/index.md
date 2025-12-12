@@ -6,12 +6,16 @@
 - [计算机科学精粹 PDF]({{ files_server }}current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%B2%B9.pdf)
 - [计算机简史 3rd PDF]({{ files_server }}current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%80%E5%8F%B2%203rd.pdf)
 
+------
+
 ## Masters
 
 - [自由软件，自由社会 PDF]({{ files_server }}current/free-software-free-society.pdf)
 - [Just for fun](https://github.com/elodiagit/module2-solution/blob/master/Just_For_Fun-Linus_Torvalds%E8%87%AA%E4%BC%A0_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 - [Fabrice Bellard's Home Page](https://www.bellard.org/)
 - [DHH](https://dhh.dk/)
+
+------
 
 ## Extended Books
 
@@ -20,6 +24,8 @@
 - [硅谷之火 EPUB]({{ files_server }}current/%E7%A1%85%E8%B0%B7%E4%B9%8B%E7%81%AB.epub)
 - [神经漫游者 EPUB]({{ files_server }}current/%E7%A5%9E%E7%BB%8F%E6%BC%AB%E6%B8%B8%E8%80%85.epub)
 - [雪崩 EPUB]({{ files_server }}current/%E9%9B%AA%E5%B4%A9.epub)
+
+------
 
 ## Resources
 
@@ -32,6 +38,8 @@
 - [OSSU Computer-Science](https://github.com/ossu/computer-science)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [Papers We Love](https://paperswelove.org/)
+
+------
 
 ## Open Source
 
@@ -57,6 +65,8 @@
 - [Baidu Open Source](https://opensource.baidu.com/)
 - [ByteDance Open Source](https://opensource.bytedance.com/)
 
+------
+
 ## Standard
 
 - [ISO 国际标准化组织](https://www.iso.org/home.html)
@@ -69,6 +79,8 @@
 - [OASIS 结构化信息标准促进组织](https://www.oasis-open.org/)
 - [ITIL 信息技术基础架构库](https://www.ibm.com/cn-zh/think/topics/it-infrastructure-library)
 
+------
+
 ## Foundation
 
 - [Programming Languages](programming-languages/index.md)
@@ -77,6 +89,8 @@
 - [Operating Systems](operating-system/index.md)
 - [Computer Networking](computer-networking/index.md)
 - [Mathematics](mathematics/index.md)
+
+------
 
 ## Advanced
 

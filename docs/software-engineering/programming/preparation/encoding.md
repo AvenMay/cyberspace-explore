@@ -7,6 +7,8 @@
 - ASCII
 - Unicode/UTF
 
+------
+
 ### Regional-Language
 
 | Character Set | Language |
@@ -19,6 +21,8 @@
 |KOI8-R/KOI8-U | 俄语/乌克兰语 （Single Byte）|
 |Latin-1 | 西欧语言|
 
+------
+
 ## Text Serialization
 
 - JSON
@@ -27,12 +31,16 @@
 - TOML
 - CSV
 
+------
+
 ## Text Escape
 
 - HTML-Entities
 - URL-Encoding
 - Quoted-Printable (MIME)
 - Base64/Base32/Base16
+
+------
 
 ## Regular Expressions
 

@@ -253,16 +253,33 @@ nav:
     - cybersecurity/index.md
     - Cryptography:
       - cybersecurity/cryptography/index.md
-    - Security-Skills:
+      - cybersecurity/cryptography/cryptographic-attack.md
+    - IAM:
+        - cybersecurity/iam/index.md
+    - Security Skills:
       - cybersecurity/security-skills/index.md
-    - Security-Topics:
+    - Security Topics:
       - cybersecurity/security-topics/index.md
+      - Application Security:
+        - cybersecurity/security-topics/application-security/index.md
+      - Network Security:
+        - cybersecurity/security-topics/network-security/index.md
+      - Endpoint Security:
+        - cybersecurity/security-topics/endpoint-security/index.md
+      - Cloud Security:
+        - cybersecurity/security-topics/application-security/index.md
+      - Mobile Security:
+        - cybersecurity/security-topics/application-security/index.md
+      - IoT Security:
+        - cybersecurity/security-topics/application-security/index.md
     - CTF:
       - cybersecurity/ctf/index.md
-    - Offensive-Security:
+    - Offensive Security:
       - cybersecurity/offensive-security/index.md
-    - Defensive-Security:
+    - Defensive Security:
       - cybersecurity/defensive-security/index.md
+    - Data Security:
+      - cybersecurity/data-security/index.md
 
   # Artificial-Intelligence Topic
   - Artificial-Intelligence:

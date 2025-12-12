@@ -8,6 +8,8 @@
 - [MDN JavaScript Guide](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
+------
+
 ### JavaScript Engines
 
 - [WHATWG](https://whatwg.org/)
@@ -17,10 +19,14 @@
 - [QuickJS](https://bellard.org/quickjs/)
 - [Hermes](https://github.com/facebook/hermes/blob/main/README.md)
 
+------
+
 ### Books
 
 - [JavaScript权威指南 7th PDF]({{ files_server }}/software-engineering/programming/dynamic/javascript/JavaScript权威指南（第七版）.pdf)
 - [JavaScript高级程序设计 4th PDF]({{ files_server }}/software-engineering/programming/dynamic/javascript/JavaScript高级程序设计（第4版）.pdf)
+
+------
 
 ### Resources
 
@@ -29,9 +35,13 @@
 - [JSLinux](https://bellard.org/jslinux/)
 - [Javascript-Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
+------
+
 ### TypeScript
 
 - [TypeScript](https://www.typescriptlang.org/)
+
+------
 
 ## Web Browser
 
@@ -44,11 +54,15 @@
 - Web Browser API
 - Web Browser Built-in Module
 
+------
+
 ### Client-Frameworks
 
 - React/Next.js
 - Vue
 - Angular
+
+------
 
 ## General Use-Cases
 
@@ -60,6 +74,8 @@
     - yarn
 - [Bun](https://bun.com/)
 - [Deno](https://deno.com/)
+
+------
 
 ### CLI/TUI Programming
 
@@ -73,15 +89,21 @@
     - Prompt Toolkit
     - Terminal Kit
 
+------
+
 ### GUI Programming
 
 - Electron
 - NW.js
 - React-Native
 
+------
+
 ### Network Programming
 
 - [Node.js Docs](https://nodejs.org/docs/latest/api/)
+
+------
 
 ### Web/API Application Server
 
@@ -112,15 +134,27 @@
     - Next.js
     - Nuxt.js
 
+------
+
 ### Monitoring
+
+------
 
 ### Testing
 
+------
+
 ### Scripting
+
+------
 
 ### Cryptography
 
+------
+
 ## Edge Computing Use-Cases
+
+------
 
 ### Edge-Runtimes
 
@@ -185,6 +219,8 @@
     - 正则/压缩/加密加速
     - 金融运算安全沙箱
     - 👉 JS + WASM 在边缘是趋势（更快、更安全）
+
+------
 
 ## Embedded
 

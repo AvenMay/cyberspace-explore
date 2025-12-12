@@ -2,6 +2,8 @@
 
 软件系统的交互接口（Interface）是用户、开发者或其他系统与程序进行沟通与操作的方式。在软件工程领域，常见的交互接口主要包括 **API、CLI、GUI** 三类。它们分别面向不同的使用场景，提供不同层次的控制方式和易用性。
 
+------
+
 ## API
 > API（Application Programming Interface）是一种面向程序之间或模块之间的交互接口。  
 它允许其他程序、模块或函数以结构化的方式访问系统功能，而无需了解内部实现细节。
@@ -23,6 +25,8 @@ API 适合用于：
 - 程序内部功能调用
 - 系统之间的集成
 - 脚本自动化与服务扩展
+
+------
 
 ## CLI
 
@@ -55,6 +59,8 @@ Teletypewriter > Video Terminal > Terminal Emulator
 - [Linux 终端(TTY)](https://www.cnblogs.com/sparkdev/p/11460821.html)
 - [Linux 伪终端(pty)](https://www.cnblogs.com/sparkdev/p/11605804.html)
 - [Windows Pseudo Console (ConPTY)](https://learn.microsoft.com/zh-cn/windows/console/creating-a-pseudoconsole-session)
+
+------
 
 ## GUI
 

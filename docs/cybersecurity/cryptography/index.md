@@ -2,6 +2,27 @@
 
 ## Resources
 
+### Books
+
+- [图解密码技术 第三版.pdf]({{ files_server }}/cybersecurity/cryptography/%E5%9B%BE%E8%A7%A3%E5%AF%86%E7%A0%81%E6%8A%80%E6%9C%AF%20%E7%AC%AC%E4%B8%89%E7%89%88.pdf)
+- [应用密码学协议、算法与C源程序.pdf]({{ files_server }}/cybersecurity/cryptography/%E5%BA%94%E7%94%A8%E5%AF%86%E7%A0%81%E5%AD%A6%E5%8D%8F%E8%AE%AE%E3%80%81%E7%AE%97%E6%B3%95%E4%B8%8EC%E6%BA%90%E7%A8%8B%E5%BA%8F.pdf)
+
+### Tools
+
+Pretty Good Privacy:
+
+- OpenPGP
+- GNU Privacy Guard
+
+SSL/TLS Protocol:
+
+- OpenSSL
+- LibreSSL
+
+Encrypt/Decrypt:
+
+- Cyber Chef
+- Python
 
 ## Getting Started
 
@@ -19,6 +40,7 @@
 - Message-Authentication-Code
 - Pseudo-Random Number Generator
 
+## PKI
 
 ## Use-Cases
 

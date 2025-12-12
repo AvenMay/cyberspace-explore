@@ -9,7 +9,7 @@
 - [Python Standard Library](https://docs.python.org/zh-cn/3/library/index.html)
 - [PyPI - The Python Package Index](https://pypi.org/)
 
-### Python Enhancement Proposals (PEPs)
+Python Enhancement Proposals (PEPs)
 
 - [PEP 0 - Index of Python Enhancement Proposals](https://peps.python.org/)
 - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/)
@@ -19,41 +19,56 @@
 - [PEP 498 – Literal String Interpolation](https://peps.python.org/pep-0498/)
 - [PEP 572 – Assignment Expressions](https://peps.python.org/pep-0572/)
 
-### Python Project Management
+------
 
-- Official Dependency Management
-    - pip
-    - requirements.txt / pyprojcet.toml
-- Official Virtual Environment Management
-    - venv
-    - virtualenv
+### Project Management
 
-- Morden Management Tools
-    - uv
-    - Poetry
+Official Dependency Management
+
+- pip
+- requirements.txt / pyprojcet.toml
+
+Official Virtual Environment Management
+
+- venv
+- virtualenv
+
+Morden Management Tools
+
+- uv
+- Poetry
 - PDM
 
-- Three-party Packaging and Release
-    - setuptools
-    - Flit
-    - Hatch
-    - twine
-- Automated tasks and tests
-    - tox
-    - nox
-    - pytest
-    - mypy
-- Beautiful Code
-    - Ruff
+Three-party Packaging and Release
 
-### Foundation
+- setuptools
+- Flit
+- Hatch
+- twine
+
+Automated tasks and tests
+
+- tox
+- nox
+- pytest
+- mypy
+
+Beautiful Code
+
+- Ruff
+
+------
+
+### Books
+
+Foundation
 
 - [Python编程从入门到实践.pdf](http://192.168.100.99:9090/software-engineering/programming/dynamic/python/Python编程从入门到实践.pdf)
 - [Python工匠.epub]({{ files_server }}/software-engineering/programming/dynamic/python/Python工匠.epub)
 - [Python学习手册.epub]({{ files_server }}/software-engineering/programming/dynamic/python/Python学习手册.epub)
 - [简明Python教程.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/简明Python教程.pdf)
 
-### Intermediate
+Intermediate
 
 - [Python3标准库.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/Python3标准库.pdf)
 - [流畅的Python.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/流畅的Python.pdf)
@@ -61,15 +76,19 @@
 - [Effective Python.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/Effective%20Python.pdf)
 - [Python语言及其应用.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/Python语言及其应用.pdf)
 
-### Advanced
+Advanced
 
 - [Python 3 面向对象编程.pdf]({{ files_server }}/software-engineering/programming/dynamic/python/Python%203%20面向对象编程.pdf)
 - [Python高级编程.epub]({{ files_server }}/software-engineering/programming/dynamic/python/Python高级编程.epub)
 - [Python高性能编程.epub]({{ files_server }}/software-engineering/programming/dynamic/python/Python高性能编程.epub)
 
+------
+
 ### Resource
 
 [Awesome-Python](https://github.com/vinta/awesome-python)
+
+------
 
 ### Interpreters
 
@@ -81,6 +100,8 @@
 |IronPython   |C#                     |.NET              |
 |Jython       |Java                   |JVM               |
 
+------
+
 ### Compilers
 
 |Compiler   |Implementation Language|Target Format |
@@ -89,6 +110,8 @@
 |Cython     |Python/C               |C/C++ Code    |
 |Nuitka     |Python/C               |C/C++ Code    |
 |PyInstaller|Python                 |Package       |
+
+------
 
 ## BASIC USE-CASES
 
@@ -109,11 +132,15 @@
 |urwid|❌|✅|
 |Textual|✅|✅|
 
+------
+
 ### GUI Programming
 
 - Tkinter
 - PyQt/PySide
 - Kivy
+
+------
 
 ### Network Programming
 
@@ -163,10 +190,14 @@
     - Pcapy
     - dpkt
 
+------
+
 ### Scripting
 
 - subprosess
 - sh
+
+------
 
 ### Web/API Application-Server
 
@@ -204,6 +235,8 @@
     - Web2Py
     - Sanic
 
+------
+
 ### Web Crawler
 
 - [Python3 反爬虫原理与绕过实战 PDF]({{ files_server }}/software-engineering/programming/dynamic/python/advanced/Python3%20反爬虫原理与绕过实战.pdf)
@@ -230,6 +263,8 @@
     - EasySpider
 - JavaScript Reverse Engineering
 
+------
+
 ### Database Programming
 
 - ORM
@@ -247,11 +282,17 @@
 |MongoDB|pymongo|
 |Redis|redis-py|
 
+------
+
 ### Logging Tools
 
 - Loguru
 
+------
+
 ## ADVANCED USE-CASES
+
+------
 
 ### Automated Testing
 
@@ -260,11 +301,15 @@
 - Robot-Framework
 - unittest
 
+------
+
 ### Automated-Operations
 
 - [Python Linux系统管理与自动化运维 PDF]({{ files_server }}/software-engineering/programming/dynamic/python/advanced/Python%20Linux系统管理与自动化运维.pdf)
 - [Python自动化运维 EPUB]({{ files_server }}/software-engineering/programming/dynamic/python/advanced/Python自动化运维.epub)
 - Diamond
+
+------
 
 ### Data-Science
 
@@ -288,6 +333,8 @@
     - PyTorch
     - Keraas
 
+------
+
 ### Cryptography
 
 - [Python密码学编程 EPUB]({{ files_server }}/software-engineering/programming/dynamic/python/advanced/Python密码学编程.epub)
@@ -306,6 +353,8 @@
 - ssl
 - m2crypto
 
+------
+
 ### Embedded/IoT
 
 - MicroPython
@@ -317,6 +366,8 @@
 - PyModbus
 - paho-mqtt
 - PyCom
+
+------
 
 ### Game Development
 
