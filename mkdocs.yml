@@ -160,7 +160,6 @@ nav:
       - software-engineering/development/index.md
       - software-engineering/development/editor-ide.md
       - software-engineering/development/vibe-coding.md
-      - software-engineering/development/devops.md
       - software-engineering/development/git.md
       - software-engineering/development/cicd.md
       - software-engineering/development/testing.md
@@ -170,6 +169,7 @@ nav:
         - software-engineering/operations/sysadmin/index.md
         - software-engineering/operations/sysadmin/unix-linux.md
         - software-engineering/operations/sysadmin/windows.md
+      - software-engineering/operations/devops.md
       - software-engineering/operations/deployment.md
       - Infrastructure Management:
         - software-engineering/operations//infrastructure-management/configuration.md
@@ -182,6 +182,10 @@ nav:
       - software-engineering/operations/platform-engineering.md
     - Collaboration:
       - software-engineering/collaboration/index.md
+      - software-engineering/collaboration/documentation.md
+      - software-engineering/collaboration/agile.md
+      - software-engineering/collaboration/issue-tracking.md
+      
 
   # Computer-Engineering Topic
   - Computer-Engineering:
@@ -228,7 +232,7 @@ nav:
         - internet-system/infrastructure/network-engineering/index.md
       - Compute:
         - internet-system/infrastructure/compute/index.md
-        - internet-system/infrastructure/compute/operating-systems.md
+        - internet-system/infrastructure/compute/operating-system.md
         - internet-system/infrastructure/compute/virtualization.md
         - internet-system/infrastructure/compute/containerization.md
       - Storage:
@@ -242,8 +246,8 @@ nav:
         - internet-system/infrastructure/cloud-platforms/private-cloud.md
         - internet-system/infrastructure/cloud-platforms/hybrid-cloud.md
         - internet-system/infrastructure/cloud-platforms/edge-computing.md
-      - Client-Devices:
-        - internet-system/infrastructure/client-devices/index.md
+      - Endpoint-Devices:
+        - internet-system/infrastructure/endpoint-devices/index.md
 
     - IoT:
         - internet-system/iot/index.md
@@ -289,9 +293,9 @@ nav:
     - Data Security:
       - cybersecurity/data-security/index.md
 
-  # Artificial-Intelligence Topic
-  - Artificial-Intelligence:
-    - artificial-intelligence/index.md
+  # Explore-AI Topic
+  - Explore-AI:
+    - explore-ai/index.md
 
   # Interesting Topic
   - Interesting-Practice:
