@@ -255,34 +255,39 @@ nav:
   # Cybersecurity Topic
   - Cybersecurity:
     - cybersecurity/index.md
-    - Cryptography:
-      - cybersecurity/cryptography/index.md
-      - cybersecurity/cryptography/cryptographic-attack.md
-    - Security Skills:
-      - cybersecurity/security-skills/index.md
-    - Security Topics:
-      - cybersecurity/security-topics/index.md
+    - Security Core:
+      - cybersecurity/security-core/index.md
+      - Cryptography:
+        - cybersecurity/security-core/cryptography/index.md
+        - cybersecurity/security-core/cryptography/cryptographic-attack.md
       - IAM:
-        - cybersecurity/security-topics/iam/index.md
-      - Application Security:
-        - cybersecurity/security-topics/application-security/index.md
-      - Network Security:
-        - cybersecurity/security-topics/network-security/index.md
+        - cybersecurity/security-core/iam/index.md
+      - Data Security:
+        - cybersecurity/security-core/data-security/index.md
+    - Application Security:
+        - cybersecurity/application-security/index.md
+    - Network Security:
+        - cybersecurity/network-security/index.md
+    - Reverse Engineering:
+        - cybersecurity/network-security/index.md
+    - Binary Security:
+        - cybersecurity/network-security/index.md
+    - Platforms Security:
+      - cybersecurity/platforms-security/index.md
       - Endpoint Security:
-        - cybersecurity/security-topics/endpoint-security/index.md
+        - cybersecurityplatforms-security/endpoint-security/index.md
       - Cloud Security:
-        - cybersecurity/security-topics/application-security/index.md
+        - cybersecurity/platforms-security/application-security/index.md
       - Mobile Security:
-        - cybersecurity/security-topics/application-security/index.md
+        - cybersecurity/platforms-security/application-security/index.md
       - IoT Security:
-        - cybersecurity/security-topics/application-security/index.md
+        - cybersecurity/platforms-security/application-security/index.md
     - CTF:
       - cybersecurity/ctf/index.md
     - Offensive Security:
       - cybersecurity/offensive-security/index.md
       # - cybersecurity/offensive-security/penetration-testing.md
       # - cybersecurity/offensive-security/red-teaming.md
-
     - Defensive Security:
       - cybersecurity/defensive-security/index.md
       # - cybersecurity/defensive-security/blue-teaming.md
@@ -290,8 +295,8 @@ nav:
       # - cybersecurity/defensive-security/threat-hunting.md
       # - cybersecurity/defensive-security/digital-forensics.md
       
-    - Data Security:
-      - cybersecurity/data-security/index.md
+    - Vulnerability-Management:
+      - cybersecurity/vulnerability-management/index.md
 
   # Explore-AI Topic
   - Explore-AI:
