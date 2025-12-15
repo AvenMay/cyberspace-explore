@@ -216,9 +216,6 @@ nav:
         - internet-system/application/protocols/http-https.md
         - internet-system/application/protocols/dns.md
         - internet-system/application/protocols/websockets.md
-        - internet-system/application/protocols/ssh.md
-        # - internet-system/application/protocols/ftp.md
-        # - internet-system/application/protocols/smtp.md
       - internet-system/application/api.md
       - internet-system/application/architecture.md
       - internet-system/application/application-client.md
