@@ -295,8 +295,8 @@ nav:
       # - cybersecurity/defensive-security/threat-hunting.md
       # - cybersecurity/defensive-security/digital-forensics.md
       
-    - Vulnerability-Management:
-      - cybersecurity/vulnerability-management/index.md
+    - Vulnerability Databases:
+      - cybersecurity/vulnerability-databases/index.md
 
   # Explore-AI Topic
   - Explore-AI:
