@@ -23,8 +23,8 @@
 
 ### Books
 
-- [JavaScript权威指南 7th PDF]({{ files_server }}/software-engineering/programming/dynamic/javascript/JavaScript权威指南（第七版）.pdf)
-- [JavaScript高级程序设计 4th PDF]({{ files_server }}/software-engineering/programming/dynamic/javascript/JavaScript高级程序设计（第4版）.pdf)
+- [JavaScript权威指南 7th PDF]({{ files_server }}/software-engineering/programming/essentials/javascript/JavaScript权威指南（第七版）.pdf)
+- [JavaScript高级程序设计 4th PDF]({{ files_server }}/software-engineering/programming/essentials/javascript/JavaScript高级程序设计（第4版）.pdf)
 
 ------
 

@@ -12,9 +12,9 @@
 ### Books
 
 - [Go语言圣经](https://gopl-zh.github.io/preface-zh.html)
-- [Go语言圣经 EPUB]({{ files_server }}/software-engineering/programming/static/go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.epub)
-- [Go程序设计语言 PDF]({{ files_server }}/software-engineering/programming/static/go/Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)
-- [Go语言实战 PDF]({{ files_server }}/software-engineering/programming/static/go/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)
+- [Go语言圣经 EPUB]({{ files_server }}/software-engineering/programming/essentials/go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.epub)
+- [Go程序设计语言 PDF]({{ files_server }}/software-engineering/programming/essentials/go/Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)
+- [Go语言实战 PDF]({{ files_server }}/software-engineering/programming/essentials/go/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)
 
 ------
 
@@ -61,7 +61,7 @@
 
 ### Microservices
 
-- [Cloud Native Go.pdf]({{ files_server }}/software-engineering/programming/static/go/Cloud%20Native%20Go.pdf)
+- [Cloud Native Go.pdf]({{ files_server }}/software-engineering/programming/essentials/go/Cloud%20Native%20Go.pdf)
 - gRPC
 - fasthttp
 - Traefik
@@ -98,7 +98,7 @@
 
 ### Web/API Application Server
 
-- [Go Web编程.pdf]({{ files_server }}/software-engineering/programming/static/go/Go%20Web%E7%BC%96%E7%A8%8B.pdf)
+- [Go Web编程.pdf]({{ files_server }}/software-engineering/programming/essentials/go/Go%20Web%E7%BC%96%E7%A8%8B.pdf)
 - Gin
 - Echo
 
