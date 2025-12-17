@@ -18,6 +18,8 @@
 
 ## Choose a language 
 
+![pl-map](./images/pl-map.png)
+
 Getting Started
 
 **1. Python** - ★★★★★
@@ -67,6 +69,8 @@ Advanced
 - 提供面向对象编程和泛型编程支持。
 - **适合人群**：对性能和底层理解要求高的开发者。
 - **趋势**：需求稳定，但学习曲线陡峭，逐渐被Rust取代部分市场。
+
+![pl-tier](./images/pl-tier.png)
 
 ------
 

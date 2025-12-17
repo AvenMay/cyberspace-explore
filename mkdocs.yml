@@ -168,14 +168,15 @@ nav:
       - software-engineering/development/git.md
       - software-engineering/development/cicd.md
       - software-engineering/development/testing.md
+      - software-engineering/development/deployment.md
     - Operations:
       - software-engineering/operations/index.md
+      - software-engineering/operations/devops.md
       - Sysadmin:
         - software-engineering/operations/sysadmin/index.md
-        - software-engineering/operations/sysadmin/unix-linux.md
+        - software-engineering/operations/sysadmin/gnu-linux.md
         - software-engineering/operations/sysadmin/windows.md
-      - software-engineering/operations/devops.md
-      - software-engineering/operations/deployment.md
+        - software-engineering/operations/sysadmin/freebsd.md
       - Infrastructure Management:
         - software-engineering/operations//infrastructure-management/configuration.md
         - software-engineering/operations//infrastructure-management/environment.md
@@ -270,10 +271,10 @@ nav:
         - cybersecurity/application-security/index.md
     - Network Security:
         - cybersecurity/network-security/index.md
-    - Reverse Engineering:
-        - cybersecurity/network-security/index.md
     - Binary Security:
-        - cybersecurity/network-security/index.md
+        - cybersecurity/binary-security/index.md
+        - Reverse Engineering:
+          - cybersecurity/binary-security/reverse-engineering/index.md
     - Platforms Security:
       - cybersecurity/platforms-security/index.md
       - Endpoint Security:
