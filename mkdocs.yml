@@ -141,16 +141,15 @@ nav:
         - software-engineering/programming/ultimate/cpp.md
       - Optional:
         - software-engineering/programming/optional/index.md
-        - Enterprises-Services:
-          - software-engineering/programming/optional/enterprises-services/java.md
-          - software-engineering/programming/optional/enterprises-services/typescript.md
+        - software-engineering/programming/optional/java.md
+        - software-engineering/programming/optional/c-sharp.md
         - Platform-Native:
           - software-engineering/programming/optional/platform-native/swift.md
           - software-engineering/programming/optional/platform-native/kotlin.md
-          - software-engineering/programming/optional/platform-native/c-sharp.md
         - Web-First:
           - software-engineering/programming/optional/web-first/ruby.md
           - software-engineering/programming/optional/web-first/php.md
+          - software-engineering/programming/optional/web-first/typescript.md
         - Hacker-Toolkit:
           - software-engineering/programming/optional/hacker-toolkit/lua.md
           - software-engineering/programming/optional/hacker-toolkit/perl.md
@@ -263,30 +262,33 @@ nav:
       - Cryptography:
         - cybersecurity/security-core/cryptography/index.md
         - cybersecurity/security-core/cryptography/cryptographic-attack.md
-      - IAM:
-        - cybersecurity/security-core/iam/index.md
       - Data Security:
         - cybersecurity/security-core/data-security/index.md
-    - Application Security:
-        - cybersecurity/application-security/index.md
-    - Network Security:
-        - cybersecurity/network-security/index.md
-    - Binary Security:
-        - cybersecurity/binary-security/index.md
-        - Reverse Engineering:
-          - cybersecurity/binary-security/reverse-engineering/index.md
+      - IAM:
+        - cybersecurity/security-core/iam/index.md
+    - Security Skills:
+      - cybersecurity/security-skills/index.md
+      - Application Security:
+        - cybersecurity/security-skills/application-security/index.md
+      - Network Security:
+        - cybersecurity/security-skills/network-security/index.md
+      - Reverse Engineering:
+        - cybersecurity/security-skills/reverse-engineering/index.md
+      - Binary Security:
+        - cybersecurity/security-skills/binary-security/index.md
+      # - Reverse Engineering:
+      #   - cybersecurity/security-skills/reverse-engineering/index.md
     - Platforms Security:
       - cybersecurity/platforms-security/index.md
-      - Endpoint Security:
-        - cybersecurityplatforms-security/endpoint-security/index.md
       - Cloud Security:
+        - cybersecurity/platforms-security/application-security/index.md
+      - Endpoint Security:
+        - cybersecurity/platforms-security/endpoint-security/index.md
+      - IoT Security:
         - cybersecurity/platforms-security/application-security/index.md
       - Mobile Security:
         - cybersecurity/platforms-security/application-security/index.md
-      - IoT Security:
-        - cybersecurity/platforms-security/application-security/index.md
-    - CTF:
-      - cybersecurity/ctf/index.md
+    
     - Offensive Security:
       - cybersecurity/offensive-security/index.md
       # - cybersecurity/offensive-security/penetration-testing.md
@@ -300,6 +302,14 @@ nav:
       
     - Vulnerability Databases:
       - cybersecurity/vulnerability-databases/index.md
+
+    - CTF:
+      - cybersecurity/ctf/index.md
+      - cybersecurity/ctf/crypto.md
+      - cybersecurity/ctf/misc.md
+      - cybersecurity/ctf/web.md
+      - cybersecurity/ctf/reverse.md
+      - cybersecurity/ctf/pwn.md
 
   # Explore-AI Topic
   - Explore-AI:
