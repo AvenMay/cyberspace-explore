@@ -1,0 +1,6 @@
+# SUSE
+
+## Distributions
+
+- SLE
+- OpenSUSE

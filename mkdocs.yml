@@ -168,14 +168,25 @@ nav:
       - software-engineering/development/cicd.md
       - software-engineering/development/testing.md
       - software-engineering/development/deployment.md
+
+    - Sysadmin:
+        - software-engineering/sysadmin/index.md
+        - GNU/Linux:
+          - software-engineering/sysadmin/gnu-linux/index.md
+          - software-engineering/sysadmin/gnu-linux/debian.md
+          - software-engineering/sysadmin/gnu-linux/rhel.md
+          - software-engineering/sysadmin/gnu-linux/suse.md
+          - software-engineering/sysadmin/gnu-linux/arch.md
+          - software-engineering/sysadmin/gnu-linux/alpine.md
+        - Windows:
+          - software-engineering/sysadmin/windows/index.md
+          - software-engineering/sysadmin/windows/windows-server.md
+          - software-engineering/sysadmin/windows/windows-iot.md
+        - software-engineering/sysadmin/freebsd.md
+    
     - Operations:
       - software-engineering/operations/index.md
       - software-engineering/operations/devops.md
-      - Sysadmin:
-        - software-engineering/operations/sysadmin/index.md
-        - software-engineering/operations/sysadmin/gnu-linux.md
-        - software-engineering/operations/sysadmin/windows.md
-        - software-engineering/operations/sysadmin/freebsd.md
       - Infrastructure Management:
         - software-engineering/operations//infrastructure-management/configuration.md
         - software-engineering/operations//infrastructure-management/environment.md
@@ -232,11 +243,10 @@ nav:
       - internet-system/infrastructure/index.md
       - Network-Engineering:
         - internet-system/infrastructure/network-engineering/index.md
-      - Compute:
+      - Container:
         - internet-system/infrastructure/compute/index.md
-        - internet-system/infrastructure/compute/operating-system.md
-        - internet-system/infrastructure/compute/virtualization.md
-        - internet-system/infrastructure/compute/containerization.md
+      - Virtualization:
+        - internet-system/infrastructure/virtualization/index.md
       - Storage:
         - internet-system/infrastructure/storage/index.md
         - internet-system/infrastructure/storage/block-storage.md
