@@ -125,12 +125,10 @@ nav:
       - Preparation:
         - software-engineering/programming/preparation/ranking-analysis.md
         - software-engineering/programming/preparation/encoding.md
-      # - Design Patterns:
-      - software-engineering/programming/design-patterns.md
-        # - software-engineering/programming/design-patterns/creational.md
-        # - software-engineering/programming/design-patterns/structural.md
-        # - software-engineering/programming/design-patterns/behavioral.md
       - software-engineering/programming/interfaces.md
+      - Coding Toolkit:
+        - software-engineering/programming/coding-toolkit/editor-ide.md
+        - software-engineering/programming/coding-toolkit/git.md
       - Essentials:
         - software-engineering/programming/essentials/python.md
         - software-engineering/programming/essentials/javascript.md
@@ -159,34 +157,39 @@ nav:
           - software-engineering/programming/optional/paradigm-shifters/scala.md
           - software-engineering/programming/optional/paradigm-shifters/elixir.md
           - software-engineering/programming/optional/paradigm-shifters/ocaml.md
+      - software-engineering/programming/debugging.md
+      - software-engineering/programming/code-review.md
+      - Best Practices:
+        - software-engineering/programming/best-practices/index.md
+        - software-engineering/programming/design-patterns.md
+        - software-engineering/programming/best-practices/coding-style.md
+        - software-engineering/programming/best-practices/code-documentation.md
+        - software-engineering/programming/best-practices/version-control.md
+        - software-engineering/programming/best-practices/testing.md
+        - software-engineering/programming/best-practices/code-optimization.md
+      - software-engineering/programming/vibe-coding.md
 
-    - Development:
-      - software-engineering/development/index.md
-      - software-engineering/development/editor-ide.md
-      - software-engineering/development/vibe-coding.md
-      - software-engineering/development/git.md
-      - software-engineering/development/cicd.md
-      - software-engineering/development/testing.md
-      - software-engineering/development/deployment.md
-
-    - Sysadmin:
-        - software-engineering/sysadmin/index.md
+    - System-Internals:
+        - software-engineering/system-internals/index.md
         - GNU/Linux:
-          - software-engineering/sysadmin/gnu-linux/index.md
-          - software-engineering/sysadmin/gnu-linux/debian.md
-          - software-engineering/sysadmin/gnu-linux/rhel.md
-          - software-engineering/sysadmin/gnu-linux/suse.md
-          - software-engineering/sysadmin/gnu-linux/arch.md
-          - software-engineering/sysadmin/gnu-linux/alpine.md
+          - software-engineering/system-internals/gnu-linux/index.md
+          - software-engineering/system-internals/gnu-linux/debian.md
+          - software-engineering/system-internals/gnu-linux/rhel.md
+          - software-engineering/system-internals/gnu-linux/suse.md
+          - software-engineering/system-internals/gnu-linux/arch.md
+          - software-engineering/system-internals/gnu-linux/alpine.md
         - Windows:
-          - software-engineering/sysadmin/windows/index.md
-          - software-engineering/sysadmin/windows/windows-server.md
-          - software-engineering/sysadmin/windows/windows-iot.md
-        - software-engineering/sysadmin/freebsd.md
-    
+          - software-engineering/system-internals/windows/index.md
+          - software-engineering/system-internals/windows/windows-server.md
+          - software-engineering/system-internals/windows/windows-iot.md
+        - software-engineering/system-internals/freebsd.md
+        - software-engineering/system-internals/macos.md
+        - software-engineering/system-internals/container-os.md
+        - software-engineering/system-internals/virtualization.md
     - Operations:
       - software-engineering/operations/index.md
       - software-engineering/operations/devops.md
+      - software-engineering/operations/cicd.md
       - Infrastructure Management:
         - software-engineering/operations//infrastructure-management/configuration.md
         - software-engineering/operations//infrastructure-management/environment.md
@@ -194,8 +197,23 @@ nav:
         - software-engineering/operations/infrastructure-management/gitops.md
         - software-engineering/operations/infrastructure-management/monitoring.md
         - software-engineering/operations/infrastructure-management/observability.md
+      - software-engineering/operations/deployment-strategies.md
       - software-engineering/operations/sre.md
       - software-engineering/operations/platform-engineering.md
+
+    - Testing:
+      - software-engineering/testing/index.md
+      # - Unit-Testing:
+      #   - software-engineering/testing/unit-testing/index.md
+      # - Integration-Testing:
+      #   - software-engineering/testing/integration-testing/index.md
+      # - End-to-End-Testing:
+      #   - software-engineering/testing/end-to-end-testing/index.md
+      # - Performance-Testing:
+      #   - software-engineering/testing/performance-testing/index.md
+      # - Security-Testing:
+      #   - software-engineering/testing/security-testing/index.md
+    
     - Collaboration:
       - software-engineering/collaboration/index.md
       - software-engineering/collaboration/documentation.md
