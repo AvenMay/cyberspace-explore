@@ -257,27 +257,22 @@ nav:
   # Cybersecurity Topic
   - Cybersecurity:
     - cybersecurity/index.md
-    - Security Core:
-      - cybersecurity/security-core/index.md
+    - Essential Skills:
+      - cybersecurity/essential-skills/index.md
       - Cryptography:
-        - cybersecurity/security-core/cryptography/index.md
-        - cybersecurity/security-core/cryptography/cryptographic-attack.md
-      - Data Security:
-        - cybersecurity/security-core/data-security/index.md
+        - cybersecurity/essential-skills/cryptography/index.md
+        - cybersecurity/essential-skills/cryptography/cryptographic-attack.md
       - IAM:
-        - cybersecurity/security-core/iam/index.md
-    - Security Skills:
-      - cybersecurity/security-skills/index.md
+        - cybersecurity/essential-skills/iam/index.md
       - Application Security:
-        - cybersecurity/security-skills/application-security/index.md
+        - cybersecurity/essential-skills/application-security/index.md
       - Network Security:
-        - cybersecurity/security-skills/network-security/index.md
+        - cybersecurity/essential-skills/network-security/index.md
       - Reverse Engineering:
-        - cybersecurity/security-skills/reverse-engineering/index.md
+        - cybersecurity/essential-skills/reverse-engineering/index.md
       - Binary Security:
-        - cybersecurity/security-skills/binary-security/index.md
-      # - Reverse Engineering:
-      #   - cybersecurity/security-skills/reverse-engineering/index.md
+        - cybersecurity/essential-skills/binary-security/index.md
+
     - Platforms Security:
       - cybersecurity/platforms-security/index.md
       - Cloud Security:
@@ -289,6 +284,14 @@ nav:
       - Mobile Security:
         - cybersecurity/platforms-security/application-security/index.md
     
+    - CTF:
+      - cybersecurity/ctf/index.md
+      # - cybersecurity/ctf/crypto.md
+      # - cybersecurity/ctf/misc.md
+      # - cybersecurity/ctf/web.md
+      # - cybersecurity/ctf/reverse.md
+      # - cybersecurity/ctf/pwn.md
+
     - Offensive Security:
       - cybersecurity/offensive-security/index.md
       # - cybersecurity/offensive-security/penetration-testing.md
@@ -303,13 +306,19 @@ nav:
     - Vulnerability Databases:
       - cybersecurity/vulnerability-databases/index.md
 
-    - CTF:
-      - cybersecurity/ctf/index.md
-      - cybersecurity/ctf/crypto.md
-      - cybersecurity/ctf/misc.md
-      - cybersecurity/ctf/web.md
-      - cybersecurity/ctf/reverse.md
-      - cybersecurity/ctf/pwn.md
+    - Data Security & Privacy:
+      - cybersecurity/data-security/index.md
+      # - Data Privacy:
+      #   - cybersecurity/security-core/data-privacy/index.md
+      # - Data Protection:
+      #   - cybersecurity/security-core/data-protection/index.md
+      # - Data Integrity:
+      #   - cybersecurity/security-core/data-integrity/index.md
+      # - Data Availability:
+      #   - cybersecurity/security-core/data-availability/index.md
+      # - GRC:
+      #   - cybersecurity/security-core/grc/index.md
+
 
   # Explore-AI Topic
   - Explore-AI:
