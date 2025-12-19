@@ -1,5 +1,0 @@
-# Containerization
-
-- Docker
-- Podman
-- containerd

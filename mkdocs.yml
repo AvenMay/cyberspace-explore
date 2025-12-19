@@ -87,24 +87,26 @@ nav:
       - computer-science/computer-architecture/index.md
     - Operating System: 
       - computer-science/operating-system/index.md
-      - Unix-like:
-        - computer-science/operating-system/unix-and-unix-like/index.md
-        - computer-science/operating-system/unix-and-unix-like/linux.md
-        - computer-science/operating-system/unix-and-unix-like/bsd.md
-        - computer-science/operating-system/unix-and-unix-like/xnu.md
-        - computer-science/operating-system/unix-and-unix-like/android.md
-      - computer-science/operating-system/windows-nt.md
-      - Teaching Purposes:
+      - Teaching OS:
         - computer-science/operating-system/teaching-purposes/xv6.md
         - computer-science/operating-system/teaching-purposes/pintos.md
         - computer-science/operating-system/teaching-purposes/nachos.md
         - computer-science/operating-system/teaching-purposes/minix3.md
-      - Special Use-Cases:
-        - computer-science/operating-system/special-use-cases/virtualization.md
-        - computer-science/operating-system/special-use-cases/containerization.md
-        - computer-science/operating-system/special-use-cases/real-time-os.md
       - computer-science/operating-system/boot-process.md
       - computer-science/operating-system/experimental-os.md
+      # - Unix-like:
+      #   - computer-science/operating-system/unix-and-unix-like/index.md
+      #   - computer-science/operating-system/unix-and-unix-like/linux.md
+      #   - computer-science/operating-system/unix-and-unix-like/bsd.md
+      #   - computer-science/operating-system/unix-and-unix-like/xnu.md
+      #   - computer-science/operating-system/unix-and-unix-like/android.md
+      # - computer-science/operating-system/windows-nt.md
+      
+      # - Special Use-Cases:
+      #   - computer-science/operating-system/special-use-cases/virtualization.md
+      #   - computer-science/operating-system/special-use-cases/containerization.md
+      #   - computer-science/operating-system/special-use-cases/real-time-os.md
+      
 
     - Computer Networking:
       - computer-science/computer-networking/index.md
@@ -165,15 +167,19 @@ nav:
           - software-engineering/programming/optional/web-first/ruby.md
           - software-engineering/programming/optional/web-first/php.md
           - software-engineering/programming/optional/web-first/typescript.md
-        - Hacker-Toolkit:
-          - software-engineering/programming/optional/hacker-toolkit/lua.md
-          - software-engineering/programming/optional/hacker-toolkit/perl.md
-          - software-engineering/programming/optional/hacker-toolkit/assembly.md
-        - Paradigm-Shifters:
-          - software-engineering/programming/optional/paradigm-shifters/haskell.md
-          - software-engineering/programming/optional/paradigm-shifters/scala.md
-          - software-engineering/programming/optional/paradigm-shifters/elixir.md
-          - software-engineering/programming/optional/paradigm-shifters/ocaml.md
+        - Assembly:
+          - software-engineering/programming/optional/assembly/index.md
+          - software-engineering/programming/optional/assembly/x86.md
+          - software-engineering/programming/optional/assembly/arm.md
+          - software-engineering/programming/optional/assembly/riscv.md
+        - Geek:
+          - software-engineering/programming/optional/geek/lua.md
+          - software-engineering/programming/optional/geek/perl.md
+        - Functional:
+          - software-engineering/programming/optional/functional/haskell.md
+          - software-engineering/programming/optional/functional/scala.md
+          - software-engineering/programming/optional/functional/elixir.md
+          - software-engineering/programming/optional/functional/ocaml.md
       - Best Practices:
         - software-engineering/programming/best-practices/index.md
         - software-engineering/programming/design-patterns.md
@@ -233,8 +239,7 @@ nav:
         - software-engineering/databases/column-family/index.md
       - Graph:
         - software-engineering/databases/graph/index.md
-      
-
+  
     - Testing:
       - software-engineering/testing/index.md
       # - Unit-Testing:
@@ -251,18 +256,55 @@ nav:
   # Internet-System Topic
   - Internet-System: 
     - internet-system/index.md
-    - Application:
-      - internet-system/application/index.md
-      - Protocols:
-        - internet-system/application/protocols/index.md
-        - internet-system/application/protocols/http-https.md
-        - internet-system/application/protocols/dns.md
-        - internet-system/application/protocols/websockets.md
-      - internet-system/application/api.md
-      - internet-system/application/architecture.md
-      - internet-system/application/application-client.md
-      - internet-system/application/application-server.md
-      - internet-system/application/use-cases.md
+    - Application-System:
+      - internet-system/application-system/index.md
+      - System-Design:
+        - internet-system/application-system/system-design/index.md
+        # - internet-system/application-system/system-design/scalability.md
+        # - internet-system/application-system/system-design/availability.md
+        # - internet-system/application-system/system-design/reliability.md
+        # - internet-system/application-system/system-design/maintainability.md
+        # - internet-system/application-system/system-design/consistency.md
+        # - internet-system/application-system/system-design/partition-tolerance.md
+      - internet-system/application-system/application-client.md
+      - Entry:
+        - internet-system/application-system/entry/index.md
+        - internet-system/application-system/entry/dns.md
+        - internet-system/application-system/entry/cdn.md
+        - internet-system/application-system/entry/load-balancing.md
+        - internet-system/application-system/entry/reverse-proxy.md
+        - internet-system/application-system/entry/api-gateway.md
+      - Communication:
+        - internet-system/application-system/communication/index.md
+        - Protocols:
+          - internet-system/application-system/protocols/index.md
+          - internet-system/application-system/protocols/http-https.md
+          - internet-system/application-system/protocols/dns.md
+          - internet-system/application-system/protocols/websockets.md
+        - API:
+          - internet-system/application-system/api/index.md
+          - internet-system/application-system/api/restful.md
+          - internet-system/application-system/api/graphql.md
+          - internet-system/application-system/api/grpc.md
+        - Transport:
+          - internet-system/application-system/transport/index.md
+          - internet-system/application-system/transport/tcp.md
+          - internet-system/application-system/transport/udp.md
+          - internet-system/application-system/transport/quic.md
+      - internet-system/application-system/application-server.md
+      - internet-system/application-system/architecture.md
+      - Asynchronous:
+        - internet-system/application-system/asynchronous-processing/index.md
+        - internet-system/application-system/asynchronous-processing/message-queues.md
+        # - internet-system/application-system/asynchronous-processing/pub-sub.md
+        - internet-system/application-system/asynchronous-processing/task-queues.md
+        # - internet-system/application-system/asynchronous-processing/event-driven.md
+      - Caching:
+        - internet-system/application-system/caching/index.md
+        - internet-system/application-system/caching/in-memory-caching.md
+        - internet-system/application-system/caching/distributed-caching.md
+      - internet-system/application-system/data-persistence.md
+      - internet-system/application-system/use-cases.md
     
     - Network-Engineering:
       - internet-system/network-engineering/index.md
@@ -301,7 +343,31 @@ nav:
 
   # Distributed-Systems
   - Data-System:
-    - data-systems/index.md
+    - data-system/index.md
+    - Data Engineering:
+      - data-system/data-engineering/index.md
+      # - ETL Processes:
+      #   - data-system/data-engineering/etl-processes/index.md
+      # - Data Warehousing:
+      #   - data-system/data-engineering/data-warehousing/index.md
+      # - Data Lakes:
+      #   - data-system/data-engineering/data-lakes/index.md
+      # - Big Data Technologies:
+      #   - data-system/data-engineering/big-data-technologies/index.md
+      # - Data Pipelines:
+      #   - data-system/data-engineering/data-pipelines/index.md
+      # - Data Integration:
+      #   - data-system/data-engineering/data-integration/index.md
+      # -  Data Governance:
+      #   - data-system/data-engineering/data-governance/index.md
+    - Data Analysis:
+      - data-system/data-analysis/index.md
+      - Data Visualization:
+        - data-system/data-visualization/index.md
+    - Data Science:
+      - data-system/data-science/index.md
+    - DataOps:
+      - data-system/dataops/index.md
 
 
   # Cybersecurity Topic
