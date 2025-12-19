@@ -117,6 +117,23 @@ nav:
     - Computer Graphics:
       - computer-science/computer-graphics/index.md
 
+  # Computer-Engineering Topic
+  - Computer-Engineering:
+    - computer-engineering/index.md
+    - Embedded-System:
+      - computer-engineering/embedded-system/index.md
+    - 3D-Printing:
+      - computer-engineering/3d-printing/index.md
+    - HMI-Design:
+      - computer-engineering/hmi-design/index.md
+    - Digital-Logic:
+      - computer-engineering/digital-logic/index.md
+    - Electronic-Engineering:
+      - computer-engineering/electronic-engineering/index.md
+    - VLSI-Design:
+      - computer-engineering/vlsi-design/index.md
+    
+
   # Software-Engineering Topic
   - Software-Engineering:
     - software-engineering/index.md
@@ -125,10 +142,10 @@ nav:
       - Preparation:
         - software-engineering/programming/preparation/ranking-analysis.md
         - software-engineering/programming/preparation/encoding.md
-      - software-engineering/programming/interfaces.md
-      - Coding Toolkit:
-        - software-engineering/programming/coding-toolkit/editor-ide.md
-        - software-engineering/programming/coding-toolkit/git.md
+        - software-engineering/programming/preparation/interfaces.md
+      - Basic Tools:
+        - software-engineering/programming/basic-tools/editor-ide.md
+        - software-engineering/programming/basic-tools/git.md
       - Essentials:
         - software-engineering/programming/essentials/python.md
         - software-engineering/programming/essentials/javascript.md
@@ -157,8 +174,6 @@ nav:
           - software-engineering/programming/optional/paradigm-shifters/scala.md
           - software-engineering/programming/optional/paradigm-shifters/elixir.md
           - software-engineering/programming/optional/paradigm-shifters/ocaml.md
-      - software-engineering/programming/debugging.md
-      - software-engineering/programming/code-review.md
       - Best Practices:
         - software-engineering/programming/best-practices/index.md
         - software-engineering/programming/design-patterns.md
@@ -169,37 +184,56 @@ nav:
         - software-engineering/programming/best-practices/code-optimization.md
       - software-engineering/programming/vibe-coding.md
 
-    - System-Internals:
-        - software-engineering/system-internals/index.md
+    - Sysadmin:
+        - software-engineering/sysadmin/index.md
+        - Basic Tools:
+          - software-engineering/sysadmin/basic-tools/terminal.md
+          - software-engineering/sysadmin/basic-tools/ssh.md
         - GNU/Linux:
-          - software-engineering/system-internals/gnu-linux/index.md
-          - software-engineering/system-internals/gnu-linux/debian.md
-          - software-engineering/system-internals/gnu-linux/rhel.md
-          - software-engineering/system-internals/gnu-linux/suse.md
-          - software-engineering/system-internals/gnu-linux/arch.md
-          - software-engineering/system-internals/gnu-linux/alpine.md
+          - software-engineering/sysadmin/gnu-linux/index.md
+          - software-engineering/sysadmin/gnu-linux/debian.md
+          - software-engineering/sysadmin/gnu-linux/rhel.md
+          - software-engineering/sysadmin/gnu-linux/suse.md
+          - software-engineering/sysadmin/gnu-linux/arch.md
+          - software-engineering/sysadmin/gnu-linux/alpine.md
         - Windows:
-          - software-engineering/system-internals/windows/index.md
-          - software-engineering/system-internals/windows/windows-server.md
-          - software-engineering/system-internals/windows/windows-iot.md
-        - software-engineering/system-internals/freebsd.md
-        - software-engineering/system-internals/macos.md
-        - software-engineering/system-internals/container-os.md
-        - software-engineering/system-internals/virtualization.md
-    - Operations:
-      - software-engineering/operations/index.md
-      - software-engineering/operations/devops.md
-      - software-engineering/operations/cicd.md
-      - Infrastructure Management:
-        - software-engineering/operations//infrastructure-management/configuration.md
-        - software-engineering/operations//infrastructure-management/environment.md
-        - software-engineering/operations/infrastructure-management/iac.md
-        - software-engineering/operations/infrastructure-management/gitops.md
-        - software-engineering/operations/infrastructure-management/monitoring.md
-        - software-engineering/operations/infrastructure-management/observability.md
-      - software-engineering/operations/deployment-strategies.md
-      - software-engineering/operations/sre.md
-      - software-engineering/operations/platform-engineering.md
+          - software-engineering/sysadmin/windows/index.md
+          - software-engineering/sysadmin/windows/windows-server.md
+          - software-engineering/sysadmin/windows/windows-iot.md
+        - Container:
+          - software-engineering/sysadmin/container/index.md
+          - software-engineering/sysadmin/container/docker.md
+          - software-engineering/sysadmin/container/k8s.md
+        - Virtualization:
+          - software-engineering/sysadmin/virtualization/index.md
+          - software-engineering/sysadmin/virtualization/kvm.md
+          - software-engineering/sysadmin/virtualization/qemu.md
+        - software-engineering/sysadmin/android.md
+        - software-engineering/sysadmin/freebsd.md
+        - software-engineering/sysadmin/darwin-xun.md
+
+    - Databases:
+      - software-engineering/databases/index.md
+      - RDBMS:
+        - software-engineering/databases/rdbms/index.md
+        - software-engineering/databases/rdbms/postgresql.md
+        - software-engineering/databases/rdbms/sqlite.md
+        - software-engineering/databases/rdbms/mysql.md
+        - software-engineering/databases/rdbms/oracle.md
+        - software-engineering/databases/rdbms/sql-server.md
+      - Key-Value:
+        - software-engineering/databases/key-value/index.md
+      - Document:
+        - software-engineering/databases/document/index.md
+      - Search-Engine:
+        - software-engineering/databases/search-engine/index.md
+      - Time-Series:
+        - software-engineering/databases/time-series/index.md
+      - Column-Family:
+        - software-engineering/databases/column-family/index.md
+      - Graph:
+        - software-engineering/databases/graph/index.md
+      
 
     - Testing:
       - software-engineering/testing/index.md
@@ -213,36 +247,10 @@ nav:
       #   - software-engineering/testing/performance-testing/index.md
       # - Security-Testing:
       #   - software-engineering/testing/security-testing/index.md
-    
-    - Collaboration:
-      - software-engineering/collaboration/index.md
-      - software-engineering/collaboration/documentation.md
-      - software-engineering/collaboration/agile.md
-      - software-engineering/collaboration/issue-tracking.md
       
-
-  # Computer-Engineering Topic
-  - Computer-Engineering:
-    - computer-engineering/index.md
-    - Embedded-System:
-      - computer-engineering/embedded-system/index.md
-    - 3D-Printing:
-      - computer-engineering/3d-printing/index.md
-    - HMI-Design:
-      - computer-engineering/hmi-design/index.md
-    - Digital-Logic:
-      - computer-engineering/digital-logic/index.md
-    - Electronic-Engineering:
-      - computer-engineering/electronic-engineering/index.md
-    - VLSI-Design:
-      - computer-engineering/vlsi-design/index.md
-    
-
   # Internet-System Topic
   - Internet-System: 
     - internet-system/index.md
-    - System-Design:
-      - internet-system/system-design/index.md
     - Application:
       - internet-system/application/index.md
       - Protocols:
@@ -254,33 +262,47 @@ nav:
       - internet-system/application/architecture.md
       - internet-system/application/application-client.md
       - internet-system/application/application-server.md
-      - internet-system/application/middleware.md
-      - internet-system/application/databases.md
       - internet-system/application/use-cases.md
+    
+    - Network-Engineering:
+      - internet-system/network-engineering/index.md
+
     - Infrastructure:
       - internet-system/infrastructure/index.md
-      - Network-Engineering:
-        - internet-system/infrastructure/network-engineering/index.md
-      - Container:
-        - internet-system/infrastructure/compute/index.md
-      - Virtualization:
-        - internet-system/infrastructure/virtualization/index.md
-      - Storage:
-        - internet-system/infrastructure/storage/index.md
-        - internet-system/infrastructure/storage/block-storage.md
-        - internet-system/infrastructure/storage/file-storage.md
-        - internet-system/infrastructure/storage/object-storage.md
       - Cloud-Platforms:
         - internet-system/infrastructure/cloud-platforms/index.md
         - internet-system/infrastructure/cloud-platforms/public-cloud.md
         - internet-system/infrastructure/cloud-platforms/private-cloud.md
         - internet-system/infrastructure/cloud-platforms/hybrid-cloud.md
         - internet-system/infrastructure/cloud-platforms/edge-computing.md
+        - internet-system/infrastructure/storage/object-storage.md
+      - internet-system/infrastructure/index.md
+      - DevOps:
+        - internet-system/infrastructure/devops/index.md
+        - internet-system/infrastructure/devops/cicd.md
+        - internet-system/infrastructure/devops/configuration.md
+        - internet-system/infrastructure/devops/environment.md
+        - internet-system/infrastructure/devops/iac.md
+        - internet-system/infrastructure/devops/gitops.md
+        - internet-system/infrastructure/devops/monitoring.md
+        - internet-system/infrastructure/devops/observability.md
+        - internet-system/infrastructure/deployment-strategies.md
+      - Observability:
+        - internet-system/infrastructure/observability/index.md
+      - SRE:
+        - internet-system/infrastructure/sre/index.md
+      - Platform-Engineering:
+        - internet-system/infrastructure/platform-engineering/index.md
       - Endpoint-Devices:
         - internet-system/infrastructure/endpoint-devices/index.md
 
     - IoT:
         - internet-system/iot/index.md
+
+  # Distributed-Systems
+  - Data-System:
+    - data-systems/index.md
+
 
   # Cybersecurity Topic
   - Cybersecurity:
