@@ -73,7 +73,7 @@ nav:
   # Computer-Science Topic
   - Computer-Science: 
     - computer-science/index.md
-    - Programming Languages:
+    - Programming-Languages:
       - computer-science/programming-languages/index.md
       - Compilers:
         - computer-science/programming-languages/compilers/index.md
@@ -83,11 +83,11 @@ nav:
       - computer-science/algorithms-data-structures/foundation.md
       - computer-science/algorithms-data-structures/advanced.md
       - computer-science/algorithms-data-structures/problem-solving-techniques.md
-    - Computer Architecture:
+    - Computer-Architecture:
       - computer-science/computer-architecture/index.md
-    - Operating System: 
+    - Operating-System: 
       - computer-science/operating-system/index.md
-      - Teaching OS:
+      - Teaching-OS:
         - computer-science/operating-system/teaching-purposes/xv6.md
         - computer-science/operating-system/teaching-purposes/pintos.md
         - computer-science/operating-system/teaching-purposes/nachos.md
@@ -108,15 +108,15 @@ nav:
       #   - computer-science/operating-system/special-use-cases/real-time-os.md
       
 
-    - Computer Networking:
+    - Computer-Networking:
       - computer-science/computer-networking/index.md
     - Mathematics:
       - computer-science/mathematics/index.md
-    - Databases Systems:
+    - Databases-Systems:
       - computer-science/databases-systems/index.md
-    - Distributed Systems:
+    - Distributed-Systems:
       - computer-science/distributed-systems/index.md
-    - Computer Graphics:
+    - Computer-Graphics:
       - computer-science/computer-graphics/index.md
 
   # Computer-Engineering Topic
@@ -128,13 +128,10 @@ nav:
       - computer-engineering/3d-printing/index.md
     - HMI-Design:
       - computer-engineering/hmi-design/index.md
-    - Digital-Logic:
-      - computer-engineering/digital-logic/index.md
-    - Electronic-Engineering:
-      - computer-engineering/electronic-engineering/index.md
-    - VLSI-Design:
-      - computer-engineering/vlsi-design/index.md
-    
+    - Hardware-Debugging:
+      - computer-engineering/hardware-debugging/index.md
+    - PCB-Design:
+      - computer-engineering/pcb-design/index.md
 
   # Software-Engineering Topic
   - Software-Engineering:
@@ -145,7 +142,7 @@ nav:
         - software-engineering/programming/preparation/ranking-analysis.md
         - software-engineering/programming/preparation/encoding.md
         - software-engineering/programming/preparation/interfaces.md
-      - Basic Tools:
+      - Basic-Tools:
         - software-engineering/programming/basic-tools/editor-ide.md
         - software-engineering/programming/basic-tools/git.md
       - software-engineering/programming/design-patterns.md
@@ -173,15 +170,15 @@ nav:
           - software-engineering/programming/optional/assembly/x86.md
           - software-engineering/programming/optional/assembly/arm.md
           - software-engineering/programming/optional/assembly/riscv.md
-        - Geek:
-          - software-engineering/programming/optional/geek/lua.md
-          - software-engineering/programming/optional/geek/perl.md
+        - Small-Script:
+          - software-engineering/programming/optional/small-script/lua.md
+          - software-engineering/programming/optional/small-script/perl.md
         - Functional:
           - software-engineering/programming/optional/functional/haskell.md
           - software-engineering/programming/optional/functional/scala.md
           - software-engineering/programming/optional/functional/elixir.md
           - software-engineering/programming/optional/functional/ocaml.md
-      - Best Practices:
+      - Best-Practices:
         - software-engineering/programming/best-practices/index.md
         - software-engineering/programming/design-patterns.md
         - software-engineering/programming/best-practices/coding-style.md
@@ -189,11 +186,12 @@ nav:
         - software-engineering/programming/best-practices/version-control.md
         - software-engineering/programming/best-practices/testing.md
         - software-engineering/programming/best-practices/code-optimization.md
-      - software-engineering/programming/vibe-coding.md
+      - Vibe-Coding:
+        - software-engineering/programming/vibe-coding/index.md
 
     - Sysadmin:
         - software-engineering/sysadmin/index.md
-        - Basic Tools:
+        - Basic-Tools:
           - software-engineering/sysadmin/basic-tools/terminal.md
           - software-engineering/sysadmin/basic-tools/ssh.md
         - GNU/Linux:
@@ -223,7 +221,7 @@ nav:
 
     - Databases:
       - software-engineering/databases/index.md
-      - RDBMS:
+      - RDBMS/SQL:
         - software-engineering/databases/rdbms/index.md
         - software-engineering/databases/rdbms/postgresql.md
         - software-engineering/databases/rdbms/sqlite.md
@@ -274,45 +272,67 @@ nav:
     - internet-system/index.md
     - Application System:
       - internet-system/application-system/index.md
-      - Web Client:
-        - interntt-system/application-system/web-client/index.md
-      - Entry:
-        - internet-system/application-system/entry/index.md
-        - internet-system/application-system/entry/dns.md
-        - internet-system/application-system/entry/cdn.md
-        - internet-system/application-system/entry/load-balancing.md
-        - internet-system/application-system/entry/reverse-proxy.md
-        - internet-system/application-system/entry/api-gateway.md
-      - Communication:
-        - internet-system/application-system/communication/index.md
-        - Protocols:
-          - internet-system/application-system/protocols/index.md
-          - internet-system/application-system/protocols/http-https.md
-          - internet-system/application-system/protocols/dns.md
-          - internet-system/application-system/protocols/websockets.md
-        - API:
-          - internet-system/application-system/api/index.md
-          - internet-system/application-system/api/restful.md
-          - internet-system/application-system/api/graphql.md
-          - internet-system/application-system/api/grpc.md
+      - Web Client/Server:
+        - internet-system/application-system/web-client-server/index.md
+        - internet-system/application-system/web-client-server/browser.md
+        - internet-system/application-system/web-client-server/nginx.md
+        - internet-system/application-system/web-client-server/apache.md
+        - internet-system/application-system/web-client-server/others.md
+        # - internet-system/application-system/web-client/html.md
+        # - internet-system/application-system/web-client/css.md
+        # - internet-system/application-system/web-client/javascript.md
+        # - internet-system/application-system/web-client/client-frameworks.md
+      - Application Server:
+        - internet-system/application-system/application-server/index.md
+        - internet-system/application-system/application-server/use-cases.md
+        # - internet-system/application-system/application-server/tomcat.md
+        # - internet-system/application-system/application-server/jboss.md
+        # - internet-system/application-system/application-server/django.md
+        # - internet-system/application-system/application-server/other-application-servers.md
+      - API:
+        - internet-system/application-system/api/index.md
+        - internet-system/application-system/api/restful.md
+        - internet-system/application-system/api/graphql.md
+        - internet-system/application-system/api/grpc.md
+      - Protocols:
+        - Application:
+          - internet-system/application-system/protocols/application/index.md
+          - internet-system/application-system/protocols/application/http-https.md
+          - internet-system/application-system/protocols/application/dns.md
+          - internet-system/application-system/protocols/application/email.md
+          - internet-system/application-system/protocols/application/ftp-sftp.md
+          - internet-system/application-system/protocols/application/telnet-ssh.md
+          - internet-system/application-system/protocols/application/ldap.md
+        - Logical-Transport:
+          - internet-system/application-system/protocols/logical-transport/index.md
+          - internet-system/application-system/protocols/logical-transport/ssl-tls.md
+          - internet-system/application-system/protocols/logical-transport/quic.md
+          - internet-system/application-system/protocols/logical-transport/websockets.md
+          - internet-system/application-system/protocols/logical-transport/webrtc.md
         - Transport:
-          - internet-system/application-system/transport/index.md
-          - internet-system/application-system/transport/tcp.md
-          - internet-system/application-system/transport/udp.md
-          - internet-system/application-system/transport/quic.md
-      - internet-system/application-system/architecture.md
+          - internet-system/application-system/protocols/transport/index.md
+          - internet-system/application-system/protocols/transport/tcp.md
+          - internet-system/application-system/protocols/transport/udp.md
+          - internet-system/application-system/protocols/transport/sctp.md
+      - Entry:
+          - internet-system/application-system/entry/index.md
+          - internet-system/application-system/entry/dns.md
+          - internet-system/application-system/entry/cdn.md
+          - internet-system/application-system/entry/load-balancing.md
+          - internet-system/application-system/entry/reverse-proxy.md
+          - internet-system/application-system/entry/api-gateway.md
+          - internet-system/application-system/communication/index.md
       - Asynchronous:
         - internet-system/application-system/asynchronous/index.md
         - internet-system/application-system/asynchronous/message-queues.md
-        # - internet-system/application-system/asynchronous-processing/pub-sub.md
+        - internet-system/application-system/asynchronous-processing/pub-sub.md
+        - internet-system/application-system/asynchronous-processing/event-driven.md
         - internet-system/application-system/asynchronous/task-queues.md
-        # - internet-system/application-system/asynchronous-processing/event-driven.md
       - Caching:
         - internet-system/application-system/caching/index.md
         - internet-system/application-system/caching/in-memory-caching.md
         - internet-system/application-system/caching/distributed-caching.md
       - internet-system/application-system/data-persistence.md
-      - internet-system/application-system/use-cases.md
     
     - Network-Engineering:
       - internet-system/network-engineering/index.md

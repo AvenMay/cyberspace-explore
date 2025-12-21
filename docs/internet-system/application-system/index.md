@@ -12,3 +12,9 @@
 - [The Architecture of Open Source Applications (AOSA)](https://aosabook.org/en/index.html)
 - [InfoQ - Architecture & Design](https://www.infoq.com/architecture-design/)
 - [High Scalability](https://highscalability.com/)
+
+## Software Architecture
+
+- [Azure System Desing](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-microsoft-foundry-landing-zone)
+- [Microservices Patterns](https://microservices.io/patterns/index.html)
+- [Cloud Design Patterns (Azure Architecture Center)](https://learn.microsoft.com/en-us/azure/architecture/patterns/)

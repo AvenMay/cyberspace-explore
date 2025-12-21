@@ -1,4 +1,4 @@
-# Desgin Patterns
+# Desgin-Patterns
 
 ## Books
 
