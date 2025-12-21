@@ -148,6 +148,7 @@ nav:
       - Basic Tools:
         - software-engineering/programming/basic-tools/editor-ide.md
         - software-engineering/programming/basic-tools/git.md
+      - software-engineering/programming/design-patterns.md
       - Essentials:
         - software-engineering/programming/essentials/python.md
         - software-engineering/programming/essentials/javascript.md
@@ -202,6 +203,11 @@ nav:
           - software-engineering/sysadmin/gnu-linux/suse.md
           - software-engineering/sysadmin/gnu-linux/arch.md
           - software-engineering/sysadmin/gnu-linux/alpine.md
+        - Unix-like:
+          - software-engineering/sysadmin/unix-like/index.md
+          - software-engineering/sysadmin/unix-like/freebsd.md
+          - software-engineering/sysadmin/unix-like/android.md
+          - software-engineering/sysadmin/unix-like/darwin-xnu.md
         - Windows:
           - software-engineering/sysadmin/windows/index.md
           - software-engineering/sysadmin/windows/windows-server.md
@@ -214,9 +220,6 @@ nav:
           - software-engineering/sysadmin/virtualization/index.md
           - software-engineering/sysadmin/virtualization/kvm.md
           - software-engineering/sysadmin/virtualization/qemu.md
-        - software-engineering/sysadmin/android.md
-        - software-engineering/sysadmin/freebsd.md
-        - software-engineering/sysadmin/darwin-xun.md
 
     - Databases:
       - software-engineering/databases/index.md
@@ -229,16 +232,29 @@ nav:
         - software-engineering/databases/rdbms/sql-server.md
       - Key-Value:
         - software-engineering/databases/key-value/index.md
+        - software-engineering/databases/key-value/redis.md
+        - software-engineering/databases/key-value/memcached.md
+        - software-engineering/databases/key-value/rocksdb.md
       - Document:
         - software-engineering/databases/document/index.md
+        - software-engineering/databases/document/mongodb.md
       - Search-Engine:
         - software-engineering/databases/search-engine/index.md
+        - software-engineering/databases/search-engine/elasticsearch.md
+        - software-engineering/databases/search-engine/lucene.md
+        - software-engineering/databases/search-engine/solr.md
+        - software-engineering/databases/search-engine/splunk.md
       - Time-Series:
         - software-engineering/databases/time-series/index.md
-      - Column-Family:
-        - software-engineering/databases/column-family/index.md
+        - software-engineering/databases/time-series/influxdb.md
+        - software-engineering/databases/time-series/prometheus.md
+      - Wide-Column:
+        - software-engineering/databases/wide-column/index.md
+        - software-engineering/databases/wide-column/cassandra.md
+        - software-engineering/databases/wide-column/hbase.md
       - Graph:
         - software-engineering/databases/graph/index.md
+        - software-engineering/databases/graph/neo4j.md
   
     - Testing:
       - software-engineering/testing/index.md
@@ -256,17 +272,10 @@ nav:
   # Internet-System Topic
   - Internet-System: 
     - internet-system/index.md
-    - Application-System:
+    - Application System:
       - internet-system/application-system/index.md
-      - System-Design:
-        - internet-system/application-system/system-design/index.md
-        # - internet-system/application-system/system-design/scalability.md
-        # - internet-system/application-system/system-design/availability.md
-        # - internet-system/application-system/system-design/reliability.md
-        # - internet-system/application-system/system-design/maintainability.md
-        # - internet-system/application-system/system-design/consistency.md
-        # - internet-system/application-system/system-design/partition-tolerance.md
-      - internet-system/application-system/application-client.md
+      - Web Client:
+        - interntt-system/application-system/web-client/index.md
       - Entry:
         - internet-system/application-system/entry/index.md
         - internet-system/application-system/entry/dns.md
@@ -291,13 +300,12 @@ nav:
           - internet-system/application-system/transport/tcp.md
           - internet-system/application-system/transport/udp.md
           - internet-system/application-system/transport/quic.md
-      - internet-system/application-system/application-server.md
       - internet-system/application-system/architecture.md
       - Asynchronous:
-        - internet-system/application-system/asynchronous-processing/index.md
-        - internet-system/application-system/asynchronous-processing/message-queues.md
+        - internet-system/application-system/asynchronous/index.md
+        - internet-system/application-system/asynchronous/message-queues.md
         # - internet-system/application-system/asynchronous-processing/pub-sub.md
-        - internet-system/application-system/asynchronous-processing/task-queues.md
+        - internet-system/application-system/asynchronous/task-queues.md
         # - internet-system/application-system/asynchronous-processing/event-driven.md
       - Caching:
         - internet-system/application-system/caching/index.md
@@ -360,14 +368,14 @@ nav:
       #   - data-system/data-engineering/data-integration/index.md
       # -  Data Governance:
       #   - data-system/data-engineering/data-governance/index.md
+    - DataOps:
+      - data-system/dataops/index.md
     - Data Analysis:
       - data-system/data-analysis/index.md
       - Data Visualization:
         - data-system/data-visualization/index.md
     - Data Science:
       - data-system/data-science/index.md
-    - DataOps:
-      - data-system/dataops/index.md
 
 
   # Cybersecurity Topic

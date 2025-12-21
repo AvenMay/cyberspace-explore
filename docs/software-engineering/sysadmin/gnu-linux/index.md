@@ -44,6 +44,10 @@ Shell/Utilities (bash, ls, ps, cd, etc.)
 
 - [syscalls](https://www.man7.org/linux/man-pages/man2/syscalls.2.html)
 
+### GNU Project
+
+- [The GNU Operating System](https://www.gnu.org/)
+
 ### Linux Kernel
 
 - [The Linux Kernel documentation¶](https://docs.kernel.org/next/index.html)
