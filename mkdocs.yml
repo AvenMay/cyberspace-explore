@@ -270,7 +270,7 @@ nav:
   # Internet-System Topic
   - Internet-System: 
     - internet-system/index.md
-    - Application System:
+    - Application-System:
       - internet-system/application-system/index.md
       - Web Client/Server:
         - internet-system/application-system/web-client-server/index.md

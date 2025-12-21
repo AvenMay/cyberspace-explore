@@ -2,9 +2,9 @@
 
 ## Introduction
 
-- [计算机科学导论 3rd PDF]({{ files_server }}current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%203rd.pdf)
-- [计算机科学精粹 PDF]({{ files_server }}current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%B2%B9.pdf)
-- [计算机简史 3rd PDF]({{ files_server }}current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%80%E5%8F%B2%203rd.pdf)
+- [计算机科学导论 3rd PDF]({{ files_server }}/computer-science/current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%203rd.pdf)
+- [计算机科学精粹 PDF]({{ files_server }}/computer-science/current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%B2%B9.pdf)
+- [计算机简史 3rd PDF]({{ files_server }}/computer-science/current/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%AE%80%E5%8F%B2%203rd.pdf)
 
 ------
 
