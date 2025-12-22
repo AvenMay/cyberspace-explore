@@ -143,7 +143,7 @@ nav:
         - software-engineering/programming/preparation/encoding.md
         - software-engineering/programming/preparation/interfaces.md
       - Basic-Tools:
-        - software-engineering/programming/basic-tools/editor-ide.md
+        - software-engineering/programming/basic-tools/editor.md
         - software-engineering/programming/basic-tools/git.md
       - software-engineering/programming/design-patterns.md
       - Essentials:

@@ -265,7 +265,7 @@ Advanced
 
 ------
 
-### Database Programming
+### Database Connecter
 
 - ORM
     - SQLAlechemy

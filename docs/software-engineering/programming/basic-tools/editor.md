@@ -1,4 +1,4 @@
-# Editor/IDE
+# Editor
 
 ## Vim
 
