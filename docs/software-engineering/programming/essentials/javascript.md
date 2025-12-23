@@ -37,9 +37,9 @@
 
 ------
 
-### TypeScript
+## TypeScript
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript Official](https://www.typescriptlang.org/)
 
 ------
 

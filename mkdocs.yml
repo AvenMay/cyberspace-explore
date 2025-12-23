@@ -132,6 +132,8 @@ nav:
       - computer-engineering/hardware-debugging/index.md
     - PCB-Design:
       - computer-engineering/pcb-design/index.md
+    - SDR:
+      - computer-engineering/sdr/index.md
 
   # Software-Engineering Topic
   - Software-Engineering:
@@ -151,33 +153,32 @@ nav:
         - software-engineering/programming/essentials/javascript.md
         - software-engineering/programming/essentials/c.md
         - software-engineering/programming/essentials/go.md
+        - software-engineering/programming/essentials/java.md
+      - Niche:
+        - software-engineering/programming/niche/index.md
+        - Platform-Native:
+          - software-engineering/programming/niche/platform-native/swift.md
+          - software-engineering/programming/niche/platform-native/kotlin.md
+          - software-engineering/programming/niche/platform-native/c-sharp.md
+        - Web-First:
+          - software-engineering/programming/niche/web-first/ruby.md
+          - software-engineering/programming/niche/web-first/php.md
+        - Assembly:
+          - software-engineering/programming/niche/assembly/index.md
+          - software-engineering/programming/niche/assembly/x86.md
+          - software-engineering/programming/niche/assembly/arm.md
+          - software-engineering/programming/niche/assembly/riscv.md
+        - Small-Script:
+          - software-engineering/programming/niche/small-script/lua.md
+          - software-engineering/programming/niche/small-script/perl.md
+        - Functional:
+          - software-engineering/programming/niche/functional/haskell.md
+          - software-engineering/programming/niche/functional/scala.md
+          - software-engineering/programming/niche/functional/elixir.md
+          - software-engineering/programming/niche/functional/ocaml.md
       - Ultimate:
         - software-engineering/programming/ultimate/rust.md
         - software-engineering/programming/ultimate/cpp.md
-      - Optional:
-        - software-engineering/programming/optional/index.md
-        - software-engineering/programming/optional/java.md
-        - software-engineering/programming/optional/c-sharp.md
-        - Platform-Native:
-          - software-engineering/programming/optional/platform-native/swift.md
-          - software-engineering/programming/optional/platform-native/kotlin.md
-        - Web-First:
-          - software-engineering/programming/optional/web-first/ruby.md
-          - software-engineering/programming/optional/web-first/php.md
-          - software-engineering/programming/optional/web-first/typescript.md
-        - Assembly:
-          - software-engineering/programming/optional/assembly/index.md
-          - software-engineering/programming/optional/assembly/x86.md
-          - software-engineering/programming/optional/assembly/arm.md
-          - software-engineering/programming/optional/assembly/riscv.md
-        - Small-Script:
-          - software-engineering/programming/optional/small-script/lua.md
-          - software-engineering/programming/optional/small-script/perl.md
-        - Functional:
-          - software-engineering/programming/optional/functional/haskell.md
-          - software-engineering/programming/optional/functional/scala.md
-          - software-engineering/programming/optional/functional/elixir.md
-          - software-engineering/programming/optional/functional/ocaml.md
       - Best-Practices:
         - software-engineering/programming/best-practices/index.md
         - software-engineering/programming/design-patterns.md
@@ -372,8 +373,16 @@ nav:
   # Distributed-Systems
   - Data-System:
     - data-system/index.md
-    - Data Engineering:
+    - Data-Analysis:
+      - data-system/data-analysis/index.md
+    - Data-Science:
+      - data-system/data-science/index.md
+    - Data-Visualization:
+        - data-system/data-visualization/index.md
+    - Data-Engineering:
       - data-system/data-engineering/index.md
+      - Web-Crawler:
+        - data-system/data-engineering/web-crawler/index.md
       # - ETL Processes:
       #   - data-system/data-engineering/etl-processes/index.md
       # - Data Warehousing:
@@ -390,12 +399,7 @@ nav:
       #   - data-system/data-engineering/data-governance/index.md
     - DataOps:
       - data-system/dataops/index.md
-    - Data Analysis:
-      - data-system/data-analysis/index.md
-      - Data Visualization:
-        - data-system/data-visualization/index.md
-    - Data Science:
-      - data-system/data-science/index.md
+
 
 
   # Cybersecurity Topic
