@@ -1,4 +1,4 @@
-# Ocaml
+# Scala
 
 ## CORE CONTENT
 

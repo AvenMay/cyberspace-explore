@@ -47,6 +47,10 @@
 - [Awesome-Java](https://github.com/akullpp/awesome-java)
 - [JavaGuide](https://javaguide.cn/)
 
+### Groovy
+
+- [Groovy](https://groovy-lang.org/)
+
 ## USE-CASES
 
 ### Enterprise Web/API Application Server
