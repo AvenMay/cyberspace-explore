@@ -1,15 +1,13 @@
 # Terminal
 
 
-## Cross-Platform
+## Unix-like 
 
-- Alacritty
-- WezTerm
 - Ghostty
-- Kitty
+- Alacritty
 - Tabby
 - Hyper
-- Cool-Retro-Term
+- Kitty
 
 ## macOS
 
