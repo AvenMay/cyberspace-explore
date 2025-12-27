@@ -17,6 +17,7 @@
 
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [Cmder](https://cmder.app/)
+- [MobaXterm](https://mobaxterm.mobatek.net/)
 
 ## Android
 
