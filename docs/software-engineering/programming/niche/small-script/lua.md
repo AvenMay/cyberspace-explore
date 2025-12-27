@@ -8,7 +8,7 @@
 
 ### Books
 
-- [Lua程序设计 4th PDF]({{ files_server }}/software-engineering/programming/optional/hacker-toolkit/lua/Lua程序设计(第4版)%20.pdf)
+- [Lua程序设计 4th PDF]({{ files_server }}/software-engineering/programming/niche/small-script/lua/Lua程序设计(第4版)%20.pdf)
 
 ### Interpreters
 

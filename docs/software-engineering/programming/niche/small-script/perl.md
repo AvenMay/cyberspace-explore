@@ -8,8 +8,8 @@
 
 ### Books
 
-- [Perl语言入门 5th PDF]({{ files_server }}/software-engineering/programming/optional/hacker-toolkit/perl/Perl语言入门%205nd.pdf)
-- [Perl语言入门 7th PDF]({{ files_server }}/software-engineering/programming/optional/hacker-toolkit/perl/Perl语言入门%207nd%20.pdf)
+- [Perl语言入门 5th PDF]({{ files_server }}/software-engineering/programming/niche/small-script/perl/Perl语言入门%205nd.pdf)
+- [Perl语言入门 7th PDF]({{ files_server }}/software-engineering/programming/niche/small-script/perl/Perl语言入门%207nd%20.pdf)
 
 ### Interpreters
 

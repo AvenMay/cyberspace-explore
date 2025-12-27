@@ -74,40 +74,38 @@ nav:
   - Computer-Science: 
     - computer-science/index.md
 
-    - Essentials:
-    
-      - Programming:
-        - computer-science/essentials/programming/index.md
-      - Algorithms & Data-Structures:
-        - computer-science/essentials/algorithms-data-structures/index.md
-        - computer-science/essentials/algorithms-data-structures/foundation.md
-        - computer-science/essentials/algorithms-data-structures/advanced.md
-        - computer-science/essentials/algorithms-data-structures/problem-solving-techniques.md
-      - Math for CS:
-        - computer-science/essentials/math-for-cs/index.md
-      - Computer-Architecture:
-        - computer-science/essentials/computer-architecture/index.md
-      - Operating-System: 
-        - computer-science/essentials/operating-system/index.md
-        - Teaching-OS:
-          - computer-science/essentials/operating-system/teaching-purposes/xv6.md
-          - computer-science/essentials/operating-system/teaching-purposes/pintos.md
-          - computer-science/essentials/operating-system/teaching-purposes/nachos.md
-          - computer-science/essentials/operating-system/teaching-purposes/minix3.md
-        - computer-science/essentials/operating-system/boot-process.md
-        - computer-science/essentials/operating-system/experimental-os.md
-      - Computer-Networking:
-        - computer-science/essentials/computer-networking/index.md
 
-    - Advanced-Topics:
-      - Databases:
-        - computer-science/advanced/databases/index.md
-      - Languages & Compilers:
-          - computer-science/advanced/compilers/index.md
-      - Distributed-Systems:
-        - computer-science/advanced/distributed-systems/index.md
-      - Computer-Graphics:
-        - computer-science/advanced/computer-graphics/index.md
+    
+    - Programming:
+      - computer-science/programming/index.md
+    - Algorithms & Data-Structures:
+      - computer-science/algorithms-data-structures/index.md
+      - computer-science/algorithms-data-structures/foundation.md
+      - computer-science/algorithms-data-structures/advanced.md
+      - computer-science/algorithms-data-structures/problem-solving-techniques.md
+    - Math for CS:
+      - computer-science/math-for-cs/index.md
+    - Computer-Architecture:
+      - computer-science/computer-architecture/index.md
+    - Operating-System: 
+      - computer-science/operating-system/index.md
+      - Teaching-OS:
+        - computer-science/operating-system/teaching-purposes/xv6.md
+        - computer-science/operating-system/teaching-purposes/pintos.md
+        - computer-science/operating-system/teaching-purposes/nachos.md
+        - computer-science/operating-system/teaching-purposes/minix3.md
+      - computer-science/operating-system/boot-process.md
+      - computer-science/operating-system/experimental-os.md
+    - Computer-Networking:
+      - computer-science/computer-networking/index.md
+    - Databases:
+      - computer-science/databases/index.md
+    - Languages & Compilers:
+        - computer-science/compilers/index.md
+    - Distributed-Systems:
+      - computer-science/distributed-systems/index.md
+    - Computer-Graphics:
+      - computer-science/computer-graphics/index.md
 
   # Software-Engineering Topic
   - Software-Engineering:
