@@ -3,26 +3,22 @@
 
 ## Unix-like 
 
-- [Ghostty](https://ghostty.org/)
-- [Alacritty](https://alacritty.org/)
-- [Tabby](https://tabby.sh/)
-- [Hyper](https://hyper.is/)
-- [Kitty](https://sw.kovidgoyal.net/kitty/)
+|Terminal| Languages | Rendering|
+|---|---|---|
+|[Alacritty](https://alacritty.org/)|Rust|OpenGL|
+|[Ghostty](https://ghostty.org/)|Zig|Metal/OpenGL|
+|[Kitty](https://sw.kovidgoyal.net/kitty/)|Python/C|OpenGL|
+|[Tabby](https://tabby.sh/)|TypeScript|Electron|
+|[Hyper](https://hyper.is/)|TypeScript/JavaScripot|Electron|
 
-## macOS
 
-- [iTerm2](https://iterm2.com/)
+## Platforms
 
-## Windows
+|Terminal| Platforms|
+|---|---|
+| [Windows Terminal](https://github.com/microsoft/terminal) |Windows|
+| [MobaXterm](https://mobaxterm.mobatek.net/)|Windows|
+| [iTerm2](https://iterm2.com/)|macOS|
+| [iSH](https://ish.app/)|iOS|
+| [Termux](https://termux.dev/en/) |Android|
 
-- [Windows Terminal](https://github.com/microsoft/terminal)
-- [Cmder](https://cmder.app/)
-- [MobaXterm](https://mobaxterm.mobatek.net/)
-
-## Android
-
-- [Termux](https://termux.dev/en/)
-
-## iOS
-
-- [iSH](https://ish.app/)

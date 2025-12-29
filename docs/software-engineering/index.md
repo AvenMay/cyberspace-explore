@@ -6,6 +6,7 @@
 - [Just for fun](https://github.com/elodiagit/module2-solution/blob/master/Just_For_Fun-Linus_Torvalds%E8%87%AA%E4%BC%A0_%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 - [Fabrice Bellard's Home Page](https://www.bellard.org/)
 - [DHH](https://dhh.dk/)
+- [Mitchell Hashimoto](https://mitchellh.com/)
 
 ------
 

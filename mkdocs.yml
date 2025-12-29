@@ -73,9 +73,6 @@ nav:
   # Computer-Science Topic
   - Computer-Science: 
     - computer-science/index.md
-
-
-    
     - Programming:
       - computer-science/programming/index.md
     - Algorithms & Data-Structures:
@@ -168,20 +165,26 @@ nav:
           - software-engineering/sysadmin/basic-tools/terminal.md
           - software-engineering/sysadmin/basic-tools/ssh.md
           - software-engineering/sysadmin/basic-tools/multiplexer.md
-        - GNU/Linux:
-          - software-engineering/sysadmin/gnu-linux/index.md
-          - software-engineering/sysadmin/gnu-linux/debian.md
-          - software-engineering/sysadmin/gnu-linux/rhel.md
-          - software-engineering/sysadmin/gnu-linux/suse.md
-          - software-engineering/sysadmin/gnu-linux/arch.md
-          - software-engineering/sysadmin/gnu-linux/alpine.md
         - Unix-like:
           - software-engineering/sysadmin/unix-like/index.md
           - software-engineering/sysadmin/unix-like/freebsd.md
           - software-engineering/sysadmin/unix-like/android.md
           - software-engineering/sysadmin/unix-like/darwin-xnu.md
+        - GNU/Linux:
+          - software-engineering/sysadmin/gnu-linux/index.md
+          - software-engineering/sysadmin/gnu-linux/shell.md
+          - software-engineering/sysadmin/gnu-linux/kernel.md
+          - software-engineering/sysadmin/gnu-linux/gui.md
+          - Distributions:
+            - software-engineering/sysadmin/gnu-linux/distr/debian.md
+            - software-engineering/sysadmin/gnu-linux/distr/rhel.md
+            - software-engineering/sysadmin/gnu-linux/distr/arch.md
+            - software-engineering/sysadmin/gnu-linux/distr/alpine.md
+            - software-engineering/sysadmin/gnu-linux/distr/suse.md
         - Windows:
           - software-engineering/sysadmin/windows/index.md
+          - software-engineering/sysadmin/windows/powershell.md
+          - software-engineering/sysadmin/windows/windows-internals.md
           - software-engineering/sysadmin/windows/windows-server.md
           - software-engineering/sysadmin/windows/windows-iot.md
         - Container:
@@ -244,6 +247,8 @@ nav:
   # Computer-Engineering Topic
   - Computer-Engineering:
     - computer-engineering/index.md
+    - Computer-Architecture:
+      - computer-engineering/computer-architecture/index.md
     - Embedded-System:
       - computer-engineering/embedded-system/index.md
     - 3D-Printing:
@@ -262,16 +267,20 @@ nav:
     - internet-system/index.md
     - Application-System:
       - internet-system/application-system/index.md
-      - Web Client/Server:
-        - internet-system/application-system/web-client-server/index.md
-        - internet-system/application-system/web-client-server/browser.md
-        - internet-system/application-system/web-client-server/nginx.md
-        - internet-system/application-system/web-client-server/apache.md
-        - internet-system/application-system/web-client-server/others.md
-        # - internet-system/application-system/web-client/html.md
-        # - internet-system/application-system/web-client/css.md
-        # - internet-system/application-system/web-client/javascript.md
-        # - internet-system/application-system/web-client/client-frameworks.md
+      - Web:
+        - internet-system/application-system/web/index.md
+        - Client:
+          - internet-system/application-system/web/client/browser.md
+          # - internet-system/application-system/client/web-crawler.md
+          # - internet-system/application-system/web-client/html.md
+          # - internet-system/application-system/web-client/css.md
+          # - internet-system/application-system/web-client/javascript.md
+          # - internet-system/application-system/web-client/client-frameworks.md
+        - Server:
+          - internet-system/application-system/web/server/nginx.md
+          - internet-system/application-system/web/server/apache.md
+          - internet-system/application-system/web/server/others.md        
+        
       - Application Server:
         - internet-system/application-system/application-server/index.md
         - internet-system/application-system/application-server/use-cases.md
