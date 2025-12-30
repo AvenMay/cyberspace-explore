@@ -43,28 +43,9 @@
 
 ------
 
-## Web Browser
+## Use-Cases
 
-### Web Browsers
-
-- [Chromium](https://www.chromium.org/chromium-projects/)
-- [Firefox](https://www.firefox.com/)
-- [Safari](https://www.apple.com/safari/)
-
-- Web Browser API
-- Web Browser Built-in Module
-
-------
-
-### Client-Frameworks
-
-- React/Next.js
-- Vue
-- Angular
-
-------
-
-## General Use-Cases
+- [Web Browser](/internet-system/application-system/web/client/browser/)
 
 ### Runtimes
 

@@ -278,11 +278,8 @@ nav:
         - internet-system/application-system/web/index.md
         - Client:
           - internet-system/application-system/web/client/browser.md
-          # - internet-system/application-system/client/web-crawler.md
-          # - internet-system/application-system/web-client/html.md
-          # - internet-system/application-system/web-client/css.md
-          # - internet-system/application-system/web-client/javascript.md
-          # - internet-system/application-system/web-client/client-frameworks.md
+          - internet-system/application-system/web/client/library.md
+          - internet-system/application-system/web/client/cli-tools.md 
         - Server:
           - internet-system/application-system/web/server/nginx.md
           - internet-system/application-system/web/server/apache.md
