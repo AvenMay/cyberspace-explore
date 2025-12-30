@@ -1,5 +1,9 @@
 # Linux Kernel
 
+## In-kernel API
+
+- [Linux内核API完全参考手册.epub]({{ files_server }}/software-engineering/sysadmin/gnu-linux/kernel/Linux%E5%86%85%E6%A0%B8API%E5%AE%8C%E5%85%A8%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.epub)
+
 ## System Internals
 
 - [Linux TCP IP 协议栈分析.pdf]({{ files_server }}/software-engineering/sysadmin/gnu-linux/kernel/Linux%20TCP%20IP%20%E5%8D%8F%E8%AE%AE%E6%A0%88%E5%88%86%E6%9E%90.pdf)

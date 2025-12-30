@@ -148,14 +148,7 @@ nav:
         - software-engineering/programming/ultimate/rust.md
         - software-engineering/programming/ultimate/cpp.md
         - software-engineering/programming/ultimate/zig.md
-      - Best-Practices:
-        - software-engineering/programming/best-practices/index.md
-        - software-engineering/programming/design-patterns.md
-        - software-engineering/programming/best-practices/coding-style.md
-        - software-engineering/programming/best-practices/code-documentation.md
-        - software-engineering/programming/best-practices/version-control.md
-        - software-engineering/programming/best-practices/testing.md
-        - software-engineering/programming/best-practices/code-optimization.md
+      - software-engineering/programming/best-practices.md
       - Vibe-Coding:
         - software-engineering/programming/vibe-coding/index.md
 
@@ -173,9 +166,9 @@ nav:
         - GNU/Linux:
           - software-engineering/sysadmin/gnu-linux/index.md
           - software-engineering/sysadmin/gnu-linux/shell.md
+          - software-engineering/sysadmin/gnu-linux/gui.md
           - software-engineering/sysadmin/gnu-linux/syscall.md
           - software-engineering/sysadmin/gnu-linux/kernel.md
-          - software-engineering/sysadmin/gnu-linux/gui.md
           - Distributions:
             - software-engineering/sysadmin/gnu-linux/distr/debian.md
             - software-engineering/sysadmin/gnu-linux/distr/rhel.md
@@ -185,53 +178,65 @@ nav:
         - Windows:
           - software-engineering/sysadmin/windows/index.md
           - software-engineering/sysadmin/windows/powershell.md
+          - software-engineering/sysadmin/windows/gui.md
           - software-engineering/sysadmin/windows/windows-api.md
           - software-engineering/sysadmin/windows/windows-internals.md
-          - software-engineering/sysadmin/windows/windows-server.md
-          - software-engineering/sysadmin/windows/windows-iot.md
-        - Container:
-          - software-engineering/sysadmin/container/index.md
-          - software-engineering/sysadmin/container/docker.md
-          - software-engineering/sysadmin/container/k8s.md
+          - Products:
+            - software-engineering/sysadmin/windows/products/index.md
+            - software-engineering/sysadmin/windows/products/windows-desktop.md
+            - software-engineering/sysadmin/windows/products/windows-iot.md
+            - software-engineering/sysadmin/windows/products/windows-server.md
         - Virtualization:
           - software-engineering/sysadmin/virtualization/index.md
-          - software-engineering/sysadmin/virtualization/kvm.md
-          - software-engineering/sysadmin/virtualization/qemu.md
+          - Virtual-Machines:
+            - software-engineering/sysadmin/virtualization/virtual-machines/index.md
+            - software-engineering/sysadmin/virtualization/virtual-machines/kvm.md
+            - software-engineering/sysadmin/virtualization/virtual-machines/hyper-v.md
+            - software-engineering/sysadmin/virtualization/virtual-machines/esxi.md
+            - software-engineering/sysadmin/virtualization/virtual-machines/hosted-vm.md
+          - Containers:
+            - software-engineering/sysadmin/virtualization/containers/index.md
+            - software-engineering/sysadmin/virtualization/containers/docker.md
+            - software-engineering/sysadmin/virtualization/containers/k8s.md
+            # - software-engineering/sysadmin/virtualization/containers/podman.md
+            - software-engineering/sysadmin/virtualization/containers/lxc.md
 
     - Databases:
       - software-engineering/databases/index.md
-      - RDBMS/SQL:
+      - RDBMS:
         - software-engineering/databases/rdbms/index.md
         - software-engineering/databases/rdbms/postgresql.md
         - software-engineering/databases/rdbms/sqlite.md
         - software-engineering/databases/rdbms/mysql.md
         - software-engineering/databases/rdbms/oracle.md
         - software-engineering/databases/rdbms/sql-server.md
-      - Key-Value:
-        - software-engineering/databases/key-value/index.md
-        - software-engineering/databases/key-value/redis.md
-        - software-engineering/databases/key-value/memcached.md
-        - software-engineering/databases/key-value/rocksdb.md
-      - Document:
-        - software-engineering/databases/document/index.md
-        - software-engineering/databases/document/mongodb.md
-      - Search-Engine:
-        - software-engineering/databases/search-engine/index.md
-        - software-engineering/databases/search-engine/elasticsearch.md
-        - software-engineering/databases/search-engine/lucene.md
-        - software-engineering/databases/search-engine/solr.md
-        - software-engineering/databases/search-engine/splunk.md
-      - Time-Series:
-        - software-engineering/databases/time-series/index.md
-        - software-engineering/databases/time-series/influxdb.md
-        - software-engineering/databases/time-series/prometheus.md
-      - Wide-Column:
-        - software-engineering/databases/wide-column/index.md
-        - software-engineering/databases/wide-column/cassandra.md
-        - software-engineering/databases/wide-column/hbase.md
-      - Graph:
-        - software-engineering/databases/graph/index.md
-        - software-engineering/databases/graph/neo4j.md
+      - NoSQL:
+        - software-engineering/databases/nosql/index.md
+        - Key-Value:
+          - software-engineering/databases/nosql/key-value/index.md
+          - software-engineering/databases/nosql/key-value/redis.md
+          - software-engineering/databases/nosql/key-value/memcached.md
+          - software-engineering/databases/nosql/key-value/rocksdb.md
+        - Document:
+          - software-engineering/databases/nosql/document/index.md
+          - software-engineering/databases/nosql/document/mongodb.md
+        - Search-Engine:
+          - software-engineering/databases/nosql/search-engine/index.md
+          - software-engineering/databases/nosql/search-engine/elasticsearch.md
+          - software-engineering/databases/nosql/search-engine/lucene.md
+          - software-engineering/databases/nosql/search-engine/solr.md
+          - software-engineering/databases/nosql/search-engine/splunk.md
+        - Time-Series:
+          - software-engineering/databases/nosql/time-series/index.md
+          - software-engineering/databases/nosql/time-series/influxdb.md
+          - software-engineering/databases/nosql/time-series/prometheus.md
+        - Wide-Column:
+          - software-engineering/databases/nosql/wide-column/index.md
+          - software-engineering/databases/nosql/wide-column/cassandra.md
+          - software-engineering/databases/nosql/wide-column/hbase.md
+        - Graph:
+          - software-engineering/databases/nosql/graph/index.md
+          - software-engineering/databases/nosql/graph/neo4j.md
   
     - Testing:
       - software-engineering/testing/index.md

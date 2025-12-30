@@ -1,10 +1,22 @@
-# API/Syscall
+# UAPI/Syscall
 
 ## Resources
 
-- [syscalls](https://www.man7.org/linux/man-pages/man2/syscalls.2.html)
-- [Linux内核API完全参考手册.epub]({{ files_server }}/software-engineering/sysadmin/gnu-linux/kernel/Linux%E5%86%85%E6%A0%B8API%E5%AE%8C%E5%85%A8%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.epub)
+```bash
+Application
+   |
+   | runtimes / frameworks
+   v
+libc / POSIX
+   |
+   | syscall
+   v
+Kernel
+```
 
+- [syscalls](https://www.man7.org/linux/man-pages/man2/syscalls.2.html)
+- libc
+- runtimes/frameworks
 
 ## System Programming
 
