@@ -173,6 +173,7 @@ nav:
         - GNU/Linux:
           - software-engineering/sysadmin/gnu-linux/index.md
           - software-engineering/sysadmin/gnu-linux/shell.md
+          - software-engineering/sysadmin/gnu-linux/syscall.md
           - software-engineering/sysadmin/gnu-linux/kernel.md
           - software-engineering/sysadmin/gnu-linux/gui.md
           - Distributions:
@@ -184,6 +185,7 @@ nav:
         - Windows:
           - software-engineering/sysadmin/windows/index.md
           - software-engineering/sysadmin/windows/powershell.md
+          - software-engineering/sysadmin/windows/windows-api.md
           - software-engineering/sysadmin/windows/windows-internals.md
           - software-engineering/sysadmin/windows/windows-server.md
           - software-engineering/sysadmin/windows/windows-iot.md
