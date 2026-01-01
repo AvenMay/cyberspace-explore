@@ -1,6 +1,20 @@
 # Darwin/XNU
 
-## Package-Manager
+## Darwin/XNU
+
+### Distribution
+
+- [macOS](https://www.apple.com.cn/os/macos/)
+- [iOS](https://www.apple.com.cn/os/ios/)
+- [PureDarwin](https://www.puredarwin.org/)
+
+### Books
+
+- 最强iOS和macOS安全宝典
+
+## CLI/Shell
+
+### Package-Manager
 
 - Homebrew
 - MacPorts
