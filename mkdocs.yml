@@ -258,16 +258,15 @@ nav:
       - computer-engineering/computer-architecture/index.md
     - Embedded-System:
       - computer-engineering/embedded-system/index.md
-    - 3D-Printing:
-      - computer-engineering/3d-printing/index.md
-    - HMI-Design:
-      - computer-engineering/hmi-design/index.md
     - Hardware-Debugging:
       - computer-engineering/hardware-debugging/index.md
-    - PCB-Design:
-      - computer-engineering/pcb-design/index.md
+    - PCB:
+      - computer-engineering/pcb/index.md
     - SDR:
       - computer-engineering/sdr/index.md
+    - 3D-Printing:
+      - computer-engineering/3d-printing/index.md
+      - computer-engineering/3d-printing/hmi-design.md
      
   # Internet-System Topic
   - Internet-System: 
@@ -398,10 +397,10 @@ nav:
 
     - Data-Analysis:
       - data-system/data-analysis/index.md
-    - Data-Science:
-      - data-system/data-science/index.md
     - Data-Visualization:
         - data-system/data-visualization/index.md
+    - Data-Science:
+      - data-system/data-science/index.md
 
 
   # Cybersecurity Topic

@@ -1,6 +1,6 @@
 # Internet System
 
-把整个Internet-System的技术架构，简化为Application层面、Infrastructure层面，以及IoT层面，是从功能和角色划分的角度来理解复杂系统。
+把整个Internet-System的技术架构，简化为Application层面、Networking-Engineering/Infrastructure层面，以及IoT层面，是从功能和角色划分的角度来理解复杂系统。
 
 ------
 
