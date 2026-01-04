@@ -11,3 +11,14 @@
 - [深入理解LINUX内核(第三版).pdf]({{ files_server }}/software-engineering/sysadmin/gnu-linux/kernel/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3LINUX%E5%86%85%E6%A0%B8%28%E7%AC%AC%E4%B8%89%E7%89%88%29.pdf)
 - [深入理解LINUX网络技术内幕.pdf]({{ files_server }}/software-engineering/sysadmin/gnu-linux/kernel/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3LINUX%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95.pdf)
 
+## Kernel Project Resources
+
+> Minimal Linux = Bootloader + Linux Kernel + C Library + Init System + Shell + Coreutils
+
+- [Linux Cross Referencer](https://lxr.linux.no/)
+- [Linux From Scratch](https://www.linuxfromscratch.org/)
+- [Linux Standard Base](https://wiki.linuxfoundation.org/lsb/start)
+- [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+- [snakeware](https://github.com/joshiemoore/snakeware)
+
+

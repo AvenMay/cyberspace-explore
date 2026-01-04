@@ -18,5 +18,5 @@
 ## Platform
 
 - OpenStack
+- CloudStack
 - ProxmoxVM
-- Kubernetes

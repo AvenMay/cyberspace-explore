@@ -152,54 +152,51 @@ nav:
       - Vibe-Coding:
         - software-engineering/programming/vibe-coding/index.md
 
-    - Sysadmin:
-        - software-engineering/sysadmin/index.md
+    - Operating-System:
+        - software-engineering/operating-system/index.md
         - Basic-Tools:
-          - software-engineering/sysadmin/basic-tools/terminal.md
-          - software-engineering/sysadmin/basic-tools/ssh.md
-          - software-engineering/sysadmin/basic-tools/multiplexer.md
+          - software-engineering/operating-system/basic-tools/terminal.md
+          - software-engineering/operating-system/basic-tools/ssh.md
+          - software-engineering/operating-system/basic-tools/multiplexer.md
         - Unix-like:
-          - software-engineering/sysadmin/unix-like/index.md
-          - software-engineering/sysadmin/unix-like/freebsd.md
-          - software-engineering/sysadmin/unix-like/android.md
-          - software-engineering/sysadmin/unix-like/darwin-xnu.md
+          - software-engineering/operating-system/unix-like/index.md
+          - software-engineering/operating-system/unix-like/freebsd.md
+          - software-engineering/operating-system/unix-like/android.md
+          - software-engineering/operating-system/unix-like/darwin-xnu.md
         - GNU/Linux:
-          - software-engineering/sysadmin/gnu-linux/index.md
-          - software-engineering/sysadmin/gnu-linux/shell.md
-          - software-engineering/sysadmin/gnu-linux/gui.md
-          - software-engineering/sysadmin/gnu-linux/syscall.md
-          - software-engineering/sysadmin/gnu-linux/kernel.md
-          - Distributions:
-            - software-engineering/sysadmin/gnu-linux/distr/debian.md
-            - software-engineering/sysadmin/gnu-linux/distr/rhel.md
-            - software-engineering/sysadmin/gnu-linux/distr/arch.md
-            - software-engineering/sysadmin/gnu-linux/distr/alpine.md
-            - software-engineering/sysadmin/gnu-linux/distr/suse.md
+          - software-engineering/operating-system/gnu-linux/index.md
+          - software-engineering/operating-system/gnu-linux/shell.md
+          - software-engineering/operating-system/gnu-linux/gui.md
+          - software-engineering/operating-system/gnu-linux/syscall.md
+          - software-engineering/operating-system/gnu-linux/kernel.md
+          - software-engineering/operating-system/gnu-linux/debian.md
+          - software-engineering/operating-system/gnu-linux/rhel.md
+          - More-Distrs:
+            - software-engineering/operating-system/gnu-linux/distr/arch.md
+            - software-engineering/operating-system/gnu-linux/distr/alpine.md
+            - software-engineering/operating-system/gnu-linux/distr/suse.md
         - Windows:
-          - software-engineering/sysadmin/windows/index.md
-          - software-engineering/sysadmin/windows/powershell.md
-          - software-engineering/sysadmin/windows/gui.md
-          - software-engineering/sysadmin/windows/windows-api.md
-          - software-engineering/sysadmin/windows/windows-internals.md
-          - Products:
-            - software-engineering/sysadmin/windows/products/index.md
-            - software-engineering/sysadmin/windows/products/windows-desktop.md
-            - software-engineering/sysadmin/windows/products/windows-iot.md
-            - software-engineering/sysadmin/windows/products/windows-server.md
+          - software-engineering/operating-system/windows/index.md
+          - software-engineering/operating-system/windows/powershell.md
+          - software-engineering/operating-system/windows/gui.md
+          - software-engineering/operating-system/windows/windows-api.md
+          - software-engineering/operating-system/windows/windows-internals.md
+          - software-engineering/operating-system/windows/windows-server.md
+          - software-engineering/operating-system/windows/windows-iot.md
         - Virtualization:
-          - software-engineering/sysadmin/virtualization/index.md
+          - software-engineering/operating-system/virtualization/index.md
           - Virtual-Machines:
-            - software-engineering/sysadmin/virtualization/virtual-machines/index.md
-            - software-engineering/sysadmin/virtualization/virtual-machines/kvm.md
-            - software-engineering/sysadmin/virtualization/virtual-machines/hyper-v.md
-            - software-engineering/sysadmin/virtualization/virtual-machines/esxi.md
-            - software-engineering/sysadmin/virtualization/virtual-machines/hosted-vm.md
+            - software-engineering/operating-system/virtualization/virtual-machines/index.md
+            - software-engineering/operating-system/virtualization/virtual-machines/kvm.md
+            - software-engineering/operating-system/virtualization/virtual-machines/hyper-v.md
+            - software-engineering/operating-system/virtualization/virtual-machines/esxi.md
+            - software-engineering/operating-system/virtualization/virtual-machines/hosted-vm.md
           - Containers:
-            - software-engineering/sysadmin/virtualization/containers/index.md
-            - software-engineering/sysadmin/virtualization/containers/docker.md
-            - software-engineering/sysadmin/virtualization/containers/k8s.md
-            # - software-engineering/sysadmin/virtualization/containers/podman.md
-            - software-engineering/sysadmin/virtualization/containers/lxc.md
+            - software-engineering/operating-system/virtualization/containers/index.md
+            - software-engineering/operating-system/virtualization/containers/docker.md
+            - software-engineering/operating-system/virtualization/containers/k8s.md
+            # - software-engineering/operating-system/virtualization/containers/podman.md
+            - software-engineering/operating-system/virtualization/containers/lxc.md
 
     - Databases:
       - software-engineering/databases/index.md
@@ -356,11 +353,10 @@ nav:
         - internet-system/infrastructure/devops/environment.md
         - internet-system/infrastructure/devops/iac.md
         - internet-system/infrastructure/devops/gitops.md
-        - internet-system/infrastructure/devops/monitoring.md
-        - internet-system/infrastructure/devops/observability.md
-        - internet-system/infrastructure/deployment-strategies.md
+        - internet-system/infrastructure/devops/deployment-strategies.md
       - Observability:
         - internet-system/infrastructure/observability/index.md
+        - internet-system/infrastructure/observability/monitoring.md
       - SRE:
         - internet-system/infrastructure/sre/index.md
       - Platform-Engineering:

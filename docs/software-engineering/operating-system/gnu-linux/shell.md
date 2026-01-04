@@ -13,13 +13,33 @@
 - [鸟哥的Linux私房菜-基础 4th.pdf]({{ files_server }}/software-engineering/sysadmin/gnu-linux/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E5%9F%BA%E7%A1%80%204th.pdf)
 - [鸟哥的Linux私房菜：服务器架设篇(第3版).epub]({{ files_server }}/software-engineering/sysadmin/gnu-linux/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%EF%BC%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87%28%E7%AC%AC3%E7%89%88%29.epub)
 
-## Shell
+## Shell Resources
 
-- Bourne Shell
-- Bash
-- zsh
-- Fish
+- `curl cht.sh`
+- `man/tldr`
+- [Linux Command Library](https://linuxcommandlibrary.com/)
+- [Linux Documentation Project](https://tldp.org/)
+- [CommandlineFu (Share Pipline Command)](https://www.commandlinefu.com/commands/browse)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+- [Pure Sh Bible](https://github.com/dylanaraps/pure-sh-bible)
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+- [Awesome Zsh](https://github.com/awesome-lists/awesome-bash)
+- [Oh My Zsh](https://ohmyz.sh/)
+- 
 
-## Standard Utilities
+## Utilities
 
 - GNU Coreutils
+- Busybox
+
+## Andvanced Resources
+
+- [Linux Perf Master](https://github.com/riboseyim/ebook-linuxperfmaster)
+- [Rescatux/Super Grub Disk](https://www.supergrubdisk.org/)
+- [Roderick W. Smith's Web Page](https://www.rodsbooks.com/)
+- [Brendan Gregg's Homepage](https://www.brendangregg.com/)
+
+## CLI Applications
+
+- wttr.in
+ 
