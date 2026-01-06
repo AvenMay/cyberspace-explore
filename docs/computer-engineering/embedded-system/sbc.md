@@ -10,5 +10,3 @@
 
 
 ## Milk-V Mars
-
-## Arduino Uno Q

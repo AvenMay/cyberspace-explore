@@ -252,6 +252,7 @@ nav:
       - computer-engineering/embedded-system/rtos.md
       - computer-engineering/embedded-system/sbc.md
       - computer-engineering/embedded-system/fpga.md
+      - computer-engineering/embedded-system/plc.md
     - Hardware-Debugging:
       - computer-engineering/hardware-debugging/index.md
     - PCB:
@@ -319,17 +320,17 @@ nav:
           - internet-system/application-system/entry/load-balancing.md
           - internet-system/application-system/entry/reverse-proxy.md
           - internet-system/application-system/entry/api-gateway.md
-          - internet-system/application-system/communication/index.md
       - Asynchronous:
         - internet-system/application-system/asynchronous/index.md
+        - internet-system/application-system/asynchronous/event-driven.md
+        - internet-system/application-system/asynchronous/pub-sub.md
         - internet-system/application-system/asynchronous/message-queues.md
-        - internet-system/application-system/asynchronous-processing/pub-sub.md
-        - internet-system/application-system/asynchronous-processing/event-driven.md
         - internet-system/application-system/asynchronous/task-queues.md
-      - Caching:
-        - internet-system/application-system/caching/index.md
-        - internet-system/application-system/caching/in-memory-caching.md
-        - internet-system/application-system/caching/distributed-caching.md
+      # - Caching:
+      #   - internet-system/application-system/caching/index.md
+        # - internet-system/application-system/caching/in-memory-caching.md
+        # - internet-system/application-system/caching/distributed-caching.md
+      - internet-system/application-system/caching.md
       - internet-system/application-system/data-persistence.md
     
     - Network-Engineering:
@@ -361,9 +362,6 @@ nav:
         - internet-system/infrastructure/sre/index.md
       - Platform-Engineering:
         - internet-system/infrastructure/platform-engineering/index.md
-      - Endpoint-Devices:
-        - internet-system/infrastructure/endpoint-devices/index.md
-
     - Internet-of-Things:
         - internet-system/iot/index.md
 
@@ -468,6 +466,19 @@ nav:
   # Explore-AI Topic
   - Explore-AI:
     - explore-ai/index.md
+    - ML/DL:
+      - explore-ai/ml-dl/index.md
+      - Machine-Learning:
+        - explore-ai/ml-dl/machine-learning/index.md
+      - Deep-Learning:
+        - explore-ai/ml-dl/deep-learning/index.md
+    - NLP/LLM:
+      - explore-ai/nlp-llm/index.md
+    - Computer-Vision:
+      - explore-ai/cv/index.md
+    - AI-Engineering:
+      - explore-ai/ai-engineering/index.md
+    
 
   # Interesting Topic
   - Interesting-Practice:
