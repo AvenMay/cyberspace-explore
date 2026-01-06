@@ -1,4 +1,4 @@
-## Edge Platforms
+# Edge Platforms
 
 ### Cloudfalre
 

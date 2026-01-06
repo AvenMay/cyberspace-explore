@@ -152,6 +152,37 @@ nav:
       - Vibe-Coding:
         - software-engineering/programming/vibe-coding/index.md
 
+    - Databases:
+      - software-engineering/databases/index.md
+      - RDBMS:
+        - software-engineering/databases/rdbms/index.md
+        - software-engineering/databases/rdbms/postgresql.md
+        - software-engineering/databases/rdbms/sqlite.md
+        - software-engineering/databases/rdbms/mysql.md
+        - software-engineering/databases/rdbms/oracle.md
+        - software-engineering/databases/rdbms/sql-server.md
+      - NoSQL:
+        - software-engineering/databases/nosql/index.md
+        - Key-Value:
+
+          - software-engineering/databases/nosql/key-value/redis.md
+          - software-engineering/databases/nosql/key-value/memcached.md
+        - Document:
+          - software-engineering/databases/nosql/document/mongodb.md
+        - Search-Engine:
+          - software-engineering/databases/nosql/search-engine/elasticsearch.md
+          - software-engineering/databases/nosql/search-engine/lucene.md
+          - software-engineering/databases/nosql/search-engine/solr.md
+          - software-engineering/databases/nosql/search-engine/splunk.md
+        - Time-Series:
+          - software-engineering/databases/nosql/time-series/influxdb.md
+          - software-engineering/databases/nosql/time-series/prometheus.md
+        - Wide-Column:
+          - software-engineering/databases/nosql/wide-column/cassandra.md
+          - software-engineering/databases/nosql/wide-column/hbase.md
+        - Graph:
+          - software-engineering/databases/nosql/graph/neo4j.md
+
     - Operating-System:
         - software-engineering/operating-system/index.md
         - Basic-Tools:
@@ -183,57 +214,19 @@ nav:
           - software-engineering/operating-system/windows/windows-internals.md
           - software-engineering/operating-system/windows/windows-server.md
           - software-engineering/operating-system/windows/windows-iot.md
-        - Virtualization:
-          - software-engineering/operating-system/virtualization/index.md
-          - Virtual-Machines:
-            - software-engineering/operating-system/virtualization/virtual-machines/index.md
-            - software-engineering/operating-system/virtualization/virtual-machines/kvm.md
-            - software-engineering/operating-system/virtualization/virtual-machines/hyper-v.md
-            - software-engineering/operating-system/virtualization/virtual-machines/esxi.md
-            - software-engineering/operating-system/virtualization/virtual-machines/hosted-vm.md
-          - Containers:
-            - software-engineering/operating-system/virtualization/containers/index.md
-            - software-engineering/operating-system/virtualization/containers/docker.md
-            - software-engineering/operating-system/virtualization/containers/k8s.md
-            # - software-engineering/operating-system/virtualization/containers/podman.md
-            - software-engineering/operating-system/virtualization/containers/lxc.md
-
-    - Databases:
-      - software-engineering/databases/index.md
-      - RDBMS:
-        - software-engineering/databases/rdbms/index.md
-        - software-engineering/databases/rdbms/postgresql.md
-        - software-engineering/databases/rdbms/sqlite.md
-        - software-engineering/databases/rdbms/mysql.md
-        - software-engineering/databases/rdbms/oracle.md
-        - software-engineering/databases/rdbms/sql-server.md
-      - NoSQL:
-        - software-engineering/databases/nosql/index.md
-        - Key-Value:
-          - software-engineering/databases/nosql/key-value/index.md
-          - software-engineering/databases/nosql/key-value/redis.md
-          - software-engineering/databases/nosql/key-value/memcached.md
-          - software-engineering/databases/nosql/key-value/rocksdb.md
-        - Document:
-          - software-engineering/databases/nosql/document/index.md
-          - software-engineering/databases/nosql/document/mongodb.md
-        - Search-Engine:
-          - software-engineering/databases/nosql/search-engine/index.md
-          - software-engineering/databases/nosql/search-engine/elasticsearch.md
-          - software-engineering/databases/nosql/search-engine/lucene.md
-          - software-engineering/databases/nosql/search-engine/solr.md
-          - software-engineering/databases/nosql/search-engine/splunk.md
-        - Time-Series:
-          - software-engineering/databases/nosql/time-series/index.md
-          - software-engineering/databases/nosql/time-series/influxdb.md
-          - software-engineering/databases/nosql/time-series/prometheus.md
-        - Wide-Column:
-          - software-engineering/databases/nosql/wide-column/index.md
-          - software-engineering/databases/nosql/wide-column/cassandra.md
-          - software-engineering/databases/nosql/wide-column/hbase.md
-        - Graph:
-          - software-engineering/databases/nosql/graph/index.md
-          - software-engineering/databases/nosql/graph/neo4j.md
+    - Virtualization:
+        - software-engineering/virtualization/index.md
+        - Virtual-Machines:
+          - software-engineering/virtualization/virtual-machines/index.md
+          - software-engineering/virtualization/virtual-machines/kvm.md
+          - software-engineering/virtualization/virtual-machines/hyper-v.md
+          - software-engineering/virtualization/virtual-machines/esxi.md
+          - software-engineering/virtualization/virtual-machines/hosted-vm.md
+        - Containers:
+          - software-engineering/virtualization/containers/index.md
+          - software-engineering/virtualization/containers/docker.md
+          - software-engineering/virtualization/containers/k8s.md
+          - software-engineering/virtualization/containers/lxc.md
   
     - Testing:
       - software-engineering/testing/index.md
@@ -255,6 +248,10 @@ nav:
       - computer-engineering/computer-architecture/index.md
     - Embedded-System:
       - computer-engineering/embedded-system/index.md
+      - computer-engineering/embedded-system/mcu.md
+      - computer-engineering/embedded-system/rtos.md
+      - computer-engineering/embedded-system/sbc.md
+      - computer-engineering/embedded-system/fpga.md
     - Hardware-Debugging:
       - computer-engineering/hardware-debugging/index.md
     - PCB:
@@ -264,6 +261,8 @@ nav:
     - 3D-Printing:
       - computer-engineering/3d-printing/index.md
       - computer-engineering/3d-printing/hmi-design.md
+    - Internte-of-Things:
+      - computer-engineering/iot/index.md
      
   # Internet-System Topic
   - Internet-System: 
@@ -340,11 +339,12 @@ nav:
       - internet-system/infrastructure/index.md
       - Cloud-Platforms:
         - internet-system/infrastructure/cloud-platforms/index.md
-        - internet-system/infrastructure/cloud-platforms/public-cloud.md
+        - internet-system/infrastructure/cloud-platforms/aws.md
+        - internet-system/infrastructure/cloud-platforms/azure.md
+        - internet-system/infrastructure/cloud-platforms/gcp.md
+        - internet-system/infrastructure/cloud-platforms/alibaba-cloud.md
+        - internet-system/infrastructure/cloud-platforms/edge-cloud.md
         - internet-system/infrastructure/cloud-platforms/private-cloud.md
-        - internet-system/infrastructure/cloud-platforms/hybrid-cloud.md
-        - internet-system/infrastructure/cloud-platforms/edge-computing.md
-        - internet-system/infrastructure/storage/object-storage.md
       - internet-system/infrastructure/index.md
       - DevOps:
         - internet-system/infrastructure/devops/index.md
@@ -364,7 +364,7 @@ nav:
       - Endpoint-Devices:
         - internet-system/infrastructure/endpoint-devices/index.md
 
-    - IoT:
+    - Internet-of-Things:
         - internet-system/iot/index.md
 
   # Distributed-Systems
