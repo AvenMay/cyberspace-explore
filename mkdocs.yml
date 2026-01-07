@@ -151,6 +151,8 @@ nav:
       - software-engineering/programming/best-practices.md
       - Vibe-Coding:
         - software-engineering/programming/vibe-coding/index.md
+      - Testing:
+        - software-engineering/programming/testing/index.md  
 
     - Databases:
       - software-engineering/databases/index.md
@@ -227,19 +229,6 @@ nav:
           - software-engineering/virtualization/containers/docker.md
           - software-engineering/virtualization/containers/k8s.md
           - software-engineering/virtualization/containers/lxc.md
-  
-    - Testing:
-      - software-engineering/testing/index.md
-      # - Unit-Testing:
-      #   - software-engineering/testing/unit-testing/index.md
-      # - Integration-Testing:
-      #   - software-engineering/testing/integration-testing/index.md
-      # - End-to-End-Testing:
-      #   - software-engineering/testing/end-to-end-testing/index.md
-      # - Performance-Testing:
-      #   - software-engineering/testing/performance-testing/index.md
-      # - Security-Testing:
-      #   - software-engineering/testing/security-testing/index.md
 
   # Computer-Engineering Topic
   - Computer-Engineering:
@@ -248,22 +237,32 @@ nav:
       - computer-engineering/computer-architecture/index.md
     - Embedded-System:
       - computer-engineering/embedded-system/index.md
-      - computer-engineering/embedded-system/mcu.md
-      - computer-engineering/embedded-system/rtos.md
-      - computer-engineering/embedded-system/sbc.md
-      - computer-engineering/embedded-system/fpga.md
-      - computer-engineering/embedded-system/plc.md
+      - Boards:
+        - computer-engineering/embedded-system/boards/mcu.md
+        - computer-engineering/embedded-system/boards/rtos.md
+        - computer-engineering/embedded-system/boards/sbc.md
+        - computer-engineering/embedded-system/boards/fpga.md
+        - computer-engineering/embedded-system/boards/plc.md
+      - Use-Cases:
+        - computer-engineering/embedded-system/use-cases/index.md
+        - computer-engineering/embedded-system/use-cases/cyberdeck.md
+        # - computer-engineering/embedded-system/use-cases/iot-device.md
+        # - computer-engineering/embedded-system/use-cases/industrial-control.md
+        # - computer-engineering/embedded-system/use-cases/consumer-electronics.md
+        # - computer-engineering/embedded-system/use-cases/automotive-systems.md
+        # - computer-engineering/embedded-system/use-cases/medical-devices.md
     - Hardware-Debugging:
       - computer-engineering/hardware-debugging/index.md
     - PCB:
       - computer-engineering/pcb/index.md
     - SDR:
       - computer-engineering/sdr/index.md
+    - Internte-of-Things:
+      - computer-engineering/iot/index.md
     - 3D-Printing:
       - computer-engineering/3d-printing/index.md
       - computer-engineering/3d-printing/hmi-design.md
-    - Internte-of-Things:
-      - computer-engineering/iot/index.md
+    
      
   # Internet-System Topic
   - Internet-System: 
@@ -485,8 +484,7 @@ nav:
     # - interesting-practice/index.md
     - HomeLab:
       - interesting-practice/homelab/index.md
-    - CyberDeck:
-      - interesting-practice/cyberdeck/index.md
+      
 
 plugins:
   - search
