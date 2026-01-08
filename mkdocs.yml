@@ -269,20 +269,22 @@ nav:
     - internet-system/index.md
     - Application-System:
       - internet-system/application-system/index.md
-      - Web:
-        - internet-system/application-system/web/index.md
-        - Client:
-          - internet-system/application-system/web/client/browser.md
-          - internet-system/application-system/web/client/library.md
-          - internet-system/application-system/web/client/cli-tools.md 
-        - Server:
-          - internet-system/application-system/web/server/nginx.md
-          - internet-system/application-system/web/server/apache.md
-          - internet-system/application-system/web/server/others.md        
+      - Web-Components:
+        - internet-system/application-system/web-components/index.md
+        - internet-system/application-system/web-components/web-browser.md
+        - internet-system/application-system/web-components/cli-client.md 
+        - internet-system/application-system/web-components/client-library.md
+        - Web-Server:
+          - internet-system/application-system/web-components/web-server/nginx.md
+          - internet-system/application-system/web-components/web-server/apache.md
+          - internet-system/application-system/web-components/web-server/openresty.md
+          - internet-system/application-system/web-components/web-server/lighttpd.md
+          - internet-system/application-system/web-components/web-server/more.md        
         
-      - Application Server:
-        - internet-system/application-system/application-server/index.md
-        - internet-system/application-system/application-server/use-cases.md
+      - internet-system/application-system/application-server.md
+      # - Application Server:
+      #   - internet-system/application-system/application-server/index.md
+      #   - internet-system/application-system/application-server/use-cases.md
         # - internet-system/application-system/application-server/tomcat.md
         # - internet-system/application-system/application-server/jboss.md
         # - internet-system/application-system/application-server/django.md
@@ -293,8 +295,8 @@ nav:
         - internet-system/application-system/api/graphql.md
         - internet-system/application-system/api/grpc.md
       - Protocols:
+        -  internet-system/application-system/protocols/index.md
         - Application:
-          - internet-system/application-system/protocols/application/index.md
           - internet-system/application-system/protocols/application/http-https.md
           - internet-system/application-system/protocols/application/dns.md
           - internet-system/application-system/protocols/application/email.md
@@ -334,6 +336,16 @@ nav:
     
     - Network-Engineering:
       - internet-system/network-engineering/index.md
+      - Data-Communication:
+        - internet-system/network-engineering/data-communication/index.md
+      - Protocols:
+        - internet-system/network-engineering/protocols/index.md
+      - NetDevOps:
+        - internet-system/network-engineering/netdevops/index.md
+      - Troubleshooting:
+        - internet-system/network-engineering/troubleshooting/index.md
+      - Use-Cases:
+        - internet-system/network-engineering/use-cases/index.md
 
     - Infrastructure:
       - internet-system/infrastructure/index.md
