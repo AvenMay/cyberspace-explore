@@ -338,14 +338,29 @@ nav:
       - internet-system/network-engineering/index.md
       - Data-Communication:
         - internet-system/network-engineering/data-communication/index.md
+        - internet-system/network-engineering/data-communication/routing.md
+        - internet-system/network-engineering/data-communication/switching.md
+        - internet-system/network-engineering/data-communication/emulator.md
+        - internet-system/network-engineering/data-communication/security-devices.md
+        - internet-system/network-engineering/data-communication/certification.md
       - Protocols:
         - internet-system/network-engineering/protocols/index.md
+        - internet-system/network-engineering/protocols/dhcp.md
+        - internet-system/network-engineering/protocols/ntp.md
+        - internet-system/network-engineering/protocols/snmap.md
       - NetDevOps:
         - internet-system/network-engineering/netdevops/index.md
+        - internet-system/network-engineering/netdevops/network-automation.md
+        - internet-system/network-engineering/netdevops/sdn.md
+        - internet-system/network-engineering/netdevops/hpdp.md
+        - internet-system/network-engineering/netdevops/cloud-networking.md
+        - internet-system/network-engineering/netdevops/nfv.md
       - Troubleshooting:
         - internet-system/network-engineering/troubleshooting/index.md
       - Use-Cases:
         - internet-system/network-engineering/use-cases/index.md
+        - internet-system/network-engineering/use-cases/enterprise-network.md
+        - internet-system/network-engineering/use-cases/dcn.md
 
     - Infrastructure:
       - internet-system/infrastructure/index.md
