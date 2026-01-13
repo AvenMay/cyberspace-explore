@@ -347,12 +347,12 @@ nav:
         - internet-system/network-engineering/protocols/index.md
         - internet-system/network-engineering/protocols/dhcp.md
         - internet-system/network-engineering/protocols/ntp.md
-        - internet-system/network-engineering/protocols/snmap.md
+        - internet-system/network-engineering/protocols/snmp.md
       - NetDevOps:
         - internet-system/network-engineering/netdevops/index.md
         - internet-system/network-engineering/netdevops/network-automation.md
         - internet-system/network-engineering/netdevops/sdn.md
-        - internet-system/network-engineering/netdevops/hpdp.md
+        - internet-system/network-engineering/netdevops/dpt.md
         - internet-system/network-engineering/netdevops/cloud-networking.md
         - internet-system/network-engineering/netdevops/nfv.md
       - Troubleshooting:
@@ -390,38 +390,7 @@ nav:
         - internet-system/infrastructure/platform-engineering/index.md
     - Internet-of-Things:
         - internet-system/iot/index.md
-
-  # Distributed-Systems
-  - Data-System:
-    - data-system/index.md
-    - Data-Engineering:
-      - data-system/data-engineering/index.md
-      - Web-Crawler:
-        - data-system/data-engineering/web-crawler/index.md
-      # - ETL Processes:
-      #   - data-system/data-engineering/etl-processes/index.md
-      # - Data Warehousing:
-      #   - data-system/data-engineering/data-warehousing/index.md
-      # - Data Lakes:
-      #   - data-system/data-engineering/data-lakes/index.md
-      # - Big Data Technologies:
-      #   - data-system/data-engineering/big-data-technologies/index.md
-      # - Data Pipelines:
-      #   - data-system/data-engineering/data-pipelines/index.md
-      # - Data Integration:
-      #   - data-system/data-engineering/data-integration/index.md
-      # -  Data Governance:
-      #   - data-system/data-engineering/data-governance/index.md
-      - DataOps:
-        - data-system/data-engineering/dataops/index.md
-
-    - Data-Analysis:
-      - data-system/data-analysis/index.md
-    - Data-Visualization:
-        - data-system/data-visualization/index.md
-    - Data-Science:
-      - data-system/data-science/index.md
-
+        
 
   # Cybersecurity Topic
   - Cybersecurity:
@@ -488,6 +457,36 @@ nav:
       # - GRC:
       #   - cybersecurity/security-core/grc/index.md
 
+  # Data-Systems
+  - Data-System:
+    - data-system/index.md
+    - Data-Engineering:
+      - data-system/data-engineering/index.md
+      - Web-Crawler:
+        - data-system/data-engineering/web-crawler/index.md
+      # - ETL Processes:
+      #   - data-system/data-engineering/etl-processes/index.md
+      # - Data Warehousing:
+      #   - data-system/data-engineering/data-warehousing/index.md
+      # - Data Lakes:
+      #   - data-system/data-engineering/data-lakes/index.md
+      # - Big Data Technologies:
+      #   - data-system/data-engineering/big-data-technologies/index.md
+      # - Data Pipelines:
+      #   - data-system/data-engineering/data-pipelines/index.md
+      # - Data Integration:
+      #   - data-system/data-engineering/data-integration/index.md
+      # -  Data Governance:
+      #   - data-system/data-engineering/data-governance/index.md
+      - DataOps:
+        - data-system/data-engineering/dataops/index.md
+
+    - Data-Analysis:
+      - data-system/data-analysis/index.md
+    - Data-Visualization:
+        - data-system/data-visualization/index.md
+    - Data-Science:
+      - data-system/data-science/index.md
 
   # Explore-AI Topic
   - Explore-AI:

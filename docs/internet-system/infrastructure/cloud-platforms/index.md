@@ -1,5 +1,9 @@
 # ☁️ Cloud Platforms
 
+## Books
+
+- [云计算 概念、技术与架构.pdf]({{ files_server }}/internet-system/infrastructure/cloud-platforms/current/%E4%BA%91%E8%AE%A1%E7%AE%97%20%E6%A6%82%E5%BF%B5%E3%80%81%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9E%B6%E6%9E%84.pdf)
+
 
 ## 🔬 云计算基础层级与模型 (Foundational Layers & Models)
 
