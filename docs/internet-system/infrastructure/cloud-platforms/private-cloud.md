@@ -7,3 +7,9 @@
 - [OpenStack运维指南.pdf]({{ files_server }}/internet-system/infrastructure/cloud-platforms/openstack/OpenStack%E8%BF%90%E7%BB%B4%E6%8C%87%E5%8D%97.pdf)
 
 ## Proxmox VE
+
+
+
+## MinIO
+
+## Ceph

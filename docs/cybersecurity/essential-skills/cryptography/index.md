@@ -9,20 +9,11 @@
 
 ### Tools
 
-Pretty Good Privacy:
-
 - OpenPGP
-- GNU Privacy Guard
-
-SSL/TLS Protocol:
-
+- GnuPG
 - OpenSSL
 - LibreSSL
-
-Encrypt/Decrypt:
-
 - Cyber Chef
-- Python
 
 ## Getting Started
 

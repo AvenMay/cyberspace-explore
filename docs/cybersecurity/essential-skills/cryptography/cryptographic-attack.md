@@ -1,5 +1,11 @@
 # Cryptographic Attack
 
+## Tools
+
+- Hashcat
+- John the Ripper
+- RsaCtfTool
+
 密码学研究中，将“攻击”视为评估安全性的工具。目的不是破坏系统，而是理解模型与算法的安全边界。
 
 ---

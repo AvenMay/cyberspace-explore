@@ -15,7 +15,7 @@
 - [CMake Cookbook.pdf]({{ files_server }}/software-engineering/programming/ultimate/cpp/CMake%20Cookbook.pdf)
 - [cpp-primer.7z]({{ files_server }}/software-engineering/programming/ultimate/cpp/cpp-primer.7z)
 - [Effective C++ 3rd.epub]({{ files_server }}/software-engineering/programming/ultimate/cpp/Effective%20C++%203rd.epub)
-
+- 现代C++编程 从入门到实践
 ------
 
 ### Compilers

@@ -4,7 +4,9 @@
 
 - [Git Official](https://git-scm.com/)
 - [Pro Git 第二版 简体中文](https://bingohuang.gitbooks.io/progit2/content/)
-    
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+
+
 ## Git Ecosystem
 
 - [Git - Command Line Tools](https://git-scm.com/tools/command-line)
