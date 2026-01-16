@@ -418,7 +418,7 @@ nav:
           - cybersecurity/security-stack/application-security/asp/waf.md
           - cybersecurity/security-stack/application-security/asp/rasp.md
         - SDL:
-          - cybersecurity/security-stack/application-security/sdl/index.md   
+          - cybersecurity/security-stack/application-security/sdl/index.md
       - Network-Security:
         - cybersecurity/security-stack/network-security/index.md
       - Reverse-Engineering:
@@ -453,7 +453,7 @@ nav:
       - Binary-Analysis:
         - cybersecurity/offensive-security/binary-analysis/index.md
         - Binary Exploitation:
-          - cybersecurity/offensive-security/binary-analysis/binary-exploitation/index.md
+          - cybersecurity/offensive-security/binary-analysis/binary-exploitation/index.md 
 
     - Defensive Security:
       - cybersecurity/defensive-security/index.md
