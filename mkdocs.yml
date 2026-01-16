@@ -395,30 +395,42 @@ nav:
   # Cybersecurity Topic
   - Cybersecurity:
     - cybersecurity/index.md
-    - Essential Skills:
-      - cybersecurity/essential-skills/index.md
+    - Security-Stack:
+      - cybersecurity/security-stack/index.md
       - Cryptography:
-        - cybersecurity/essential-skills/cryptography/index.md
-        - cybersecurity/essential-skills/cryptography/crypto-tools.md
-        - cybersecurity/essential-skills/cryptography/cryptographic-attack.md
+        - cybersecurity/security-stack/cryptography/index.md
+        - cybersecurity/security-stack/cryptography/crypto-tools.md
+        - cybersecurity/security-stack/cryptography/cryptographic-attack.md
       - IAM:
-        - cybersecurity/essential-skills/iam/index.md
-      - Application Security:
-        - cybersecurity/essential-skills/application-security/index.md
-      - Network Security:
-        - cybersecurity/essential-skills/network-security/index.md
-      - Reverse Engineering:
-        - cybersecurity/essential-skills/reverse-engineering/index.md
-      - Binary Security:
-        - cybersecurity/essential-skills/binary-security/index.md
-      - IoT Security:
-        - cybersecurity/essential-skills/iot-security/index.md
-      - Cloud Security:
-        - cybersecurity/essential-skills/cloud-security/index.md
-      - Endpoint Security:
-        - cybersecurity/essential-skills/endpoint-security/index.md
+        - cybersecurity/security-stack/iam/index.md
+      - Application-Security:
+        - cybersecurity/security-stack/application-security/index.md
+        - Vulnerability:
+          - cybersecurity/security-stack/application-security/vulnerability/index.md
+        - cybersecurity/security-stack/application-security/framework.md 
+        - AST:
+          - cybersecurity/security-stack/application-security/ast/dast.md
+          - cybersecurity/security-stack/application-security/ast/iast.md
+          - cybersecurity/security-stack/application-security/ast/sast.md
+          - cybersecurity/security-stack/application-security/ast/sca.md
+          - cybersecurity/security-stack/application-security/ast/javascript-reverse.md
+        - ASP:
+          - cybersecurity/security-stack/application-security/asp/waf.md
+          - cybersecurity/security-stack/application-security/asp/rasp.md
+        - SDL:
+          - cybersecurity/security-stack/application-security/sdl/index.md   
+      - Network-Security:
+        - cybersecurity/security-stack/network-security/index.md
+      - Reverse-Engineering:
+        - cybersecurity/security-stack/reverse-engineering/index.md
+      - OS-Security:
+        - cybersecurity/security-stack/os-security/index.md
         - Mobile Security:
-          - cybersecurity/essential-skills/endpoint-security/mobile-security/index.md
+          - cybersecurity/security-stack/os-security/mobile-security/index.md
+      - IoT-Security:
+        - cybersecurity/security-stack/iot-security/index.md
+      - Cloud-Security:
+        - cybersecurity/security-stack/cloud-security/index.md
     
     - CTF:
       - cybersecurity/ctf/index.md
@@ -430,20 +442,36 @@ nav:
 
     - Offensive Security:
       - cybersecurity/offensive-security/index.md
-      # - cybersecurity/offensive-security/penetration-testing.md
-      # - cybersecurity/offensive-security/red-teaming.md
+      - Reconnaissance:
+        - cybersecurity/offensive-security/reconnaissance/index.md
+      - Red-Teaming:
+        - cybersecurity/offensive-security/red-teaming/index.md
+      - Penetration-Testing:
+        - cybersecurity/offensive-security/penetration-testing/index.md
+      - Bug-Bounty:
+        - cybersecurity/offensive-security/bug-bounty/index.md
+      - Binary-Analysis:
+        - cybersecurity/offensive-security/binary-analysis/index.md
+        - Binary Exploitation:
+          - cybersecurity/offensive-security/binary-analysis/binary-exploitation/index.md
+
     - Defensive Security:
       - cybersecurity/defensive-security/index.md
-      # - cybersecurity/defensive-security/blue-teaming.md
-      # - cybersecurity/defensive-security/incident-response.md
-      # - cybersecurity/defensive-security/threat-hunting.md
-      # - cybersecurity/defensive-security/digital-forensics.md
-      
-    - Vulnerability Databases:
-      - cybersecurity/vulnerability-databases/index.md
-
-    - Data Security & Privacy:
-      - cybersecurity/data-security/index.md
+      - Defense-In-Depth:
+        - cybersecurity/defensive-security/dind/index.md
+        - Endpoint-Security:
+          - cybersecurity/defensive-security/dind/endpoint-security/index.md
+      - Blue-Teaming:
+        - cybersecurity/defensive-security/blue-teaming/index.md
+      - Incident-Response:
+        - cybersecurity/defensive-security/incident-response/index.md
+        - cybersecurity/defensive-security/incident-response/digital-forensics.md
+      - Threat-Hunting:
+        - cybersecurity/defensive-security/threat-hunting/index.md
+      - SOC:
+        - cybersecurity/defensive-security/soc/index.md
+      - Data Security & Privacy:
+        - cybersecurity/defensive-security/data-security/index.md
       # - Data Privacy:
       #   - cybersecurity/security-core/data-privacy/index.md
       # - Data Protection:
@@ -454,6 +482,10 @@ nav:
       #   - cybersecurity/security-core/data-availability/index.md
       # - GRC:
       #   - cybersecurity/security-core/grc/index.md
+    - Vulnerability Databases:
+      - cybersecurity/vulnerability-databases/index.md
+
+    
 
   # Data-Systems
   - Data-System:
