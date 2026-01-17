@@ -25,7 +25,7 @@
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 - [Awesome Zsh](https://github.com/awesome-lists/awesome-bash)
 - [Oh My Zsh](https://ohmyz.sh/)
-- 
+- [Awesome-CLI-Apps](https://github.com/agarrharr/awesome-cli-apps)
 
 ## Utilities
 
