@@ -411,18 +411,18 @@ nav:
         - cybersecurity/security-stack/application-security/index.md
         - Reference-Frame:
           - cybersecurity/security-stack/application-security/reference-frame/index.md
+        - Server-Side:
+          - cybersecurity/security-stack/application-security/server-side/index.md
         - Client-Side:
           - cybersecurity/security-stack/application-security/client-side/index.md
           - cybersecurity/security-stack/application-security/client-side/javascript-reverse.md
-        - Server-Side:
-          - cybersecurity/security-stack/application-security/server-side/index.md
-        - Business-Logic:
-          - cybersecurity/security-stack/application-security/business-logic/index.md
         - API-Security:
           - cybersecurity/security-stack/application-security/api-security/index.md
+        - Business-Logic:
+          - cybersecurity/security-stack/application-security/business-logic/index.md
         - Vulnerability-Reproduction:
           - cybersecurity/security-stack/application-security/vulnerability-reproduction/index.md
-        - DAST:
+        - DAST/Pentesting:
           - cybersecurity/security-stack/application-security/dast/index.md
           - cybersecurity/security-stack/application-security/dast/ast.md
         - SDL/SAST:
@@ -439,10 +439,10 @@ nav:
       
     - Infrastructure-Security:
       - cybersecurity/infra-security/index.md
-      - OS-Security:
-        - cybersecurity/infra-security/os-security/index.md
+      - Endpoint-Security:
+        - cybersecurity/infra-security/endpoint-security/index.md
         - Mobile Security:
-          - cybersecurity/infra-security/os-security/mobile-security/index.md
+          - cybersecurity/infra-security/endpoint-security/mobile-security/index.md
       - IoT-Security:
         - cybersecurity/infra-security/iot-security/index.md
       - Cloud-Security:
@@ -464,12 +464,12 @@ nav:
         - cybersecurity/offensive-security/red-teaming/index.md
       - Penetration-Testing:
         - cybersecurity/offensive-security/penetration-testing/index.md
-      - Bug-Bounty:
-        - cybersecurity/offensive-security/bug-bounty/index.md
       - Binary-Analysis:
         - cybersecurity/offensive-security/binary-analysis/index.md
         - Binary Exploitation:
           - cybersecurity/offensive-security/binary-analysis/binary-exploitation/index.md
+      - Bug-Bounty:
+        - cybersecurity/offensive-security/bug-bounty/index.md
       - Social-Engineering:
         - cybersecurity/offensive-security/social-engineering/index
 
@@ -487,7 +487,9 @@ nav:
           - cybersecurity/defensive-security/data-security/index.md
       - Blue-Teaming:
         - cybersecurity/defensive-security/blue-teaming/index.md
-      - SOC:
+      - Malware-Analysis:
+        - cybersecurity/defensive-security/malware-analysis/index.md
+      - SOC/SIEM:
         - cybersecurity/defensive-security/soc/index.md
       - Incident-Response:
         - cybersecurity/defensive-security/incident-response/index.md
