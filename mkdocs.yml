@@ -48,7 +48,7 @@ theme:
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
@@ -107,52 +107,61 @@ nav:
   # Software-Engineering Topic
   - Software-Engineering:
     - software-engineering/index.md
+
+    - Software-Design:
+      - software-engineering/software-design/index.md
+      - software-engineering//software-design/design-patterns.md
     - Programming:
       - software-engineering/programming/index.md
       - Preparation:
         - software-engineering/programming/preparation/ranking-analysis.md
         - software-engineering/programming/preparation/encoding.md
         - software-engineering/programming/preparation/interfaces.md
+        - software-engineering//software-design/best-practices.md
       - Basic-Tools:
         - software-engineering/programming/basic-tools/editor.md
         - software-engineering/programming/basic-tools/git.md
-      - software-engineering/programming/design-patterns.md
-      - Essentials:
-        - software-engineering/programming/essentials/python.md
-        - software-engineering/programming/essentials/javascript.md
-        - software-engineering/programming/essentials/c.md
-        - software-engineering/programming/essentials/go.md
-      - Niche:
-        - software-engineering/programming/niche/index.md
-        - software-engineering/programming/niche/java.md
-        - software-engineering/programming/niche/c-sharp.md
-        - Assembly:
-          - software-engineering/programming/niche/assembly/index.md
-          - software-engineering/programming/niche/assembly/x86.md
-          - software-engineering/programming/niche/assembly/arm.md
-          - software-engineering/programming/niche/assembly/riscv.md
-        - Platforms:
-          - software-engineering/programming/niche/platform-native/swift.md
-          - software-engineering/programming/niche/platform-native/kotlin.md
-        - Functional:
-          - software-engineering/programming/niche/functional/lisp.md
-          - software-engineering/programming/niche/functional/scala.md
-          - software-engineering/programming/niche/functional/elixir.md
-        - Web-First:
-          - software-engineering/programming/niche/web-first/ruby.md
-          - software-engineering/programming/niche/web-first/php.md
-        - Small-Script:
-          - software-engineering/programming/niche/small-script/lua.md
-          - software-engineering/programming/niche/small-script/perl.md
-      - Ultimate:
-        - software-engineering/programming/ultimate/rust.md
-        - software-engineering/programming/ultimate/cpp.md
-        - software-engineering/programming/ultimate/zig.md
-      - software-engineering/programming/best-practices.md
       - Vibe-Coding:
         - software-engineering/programming/vibe-coding/index.md
-      - Testing:
-        - software-engineering/programming/testing/index.md  
+      - Python:
+        - software-engineering/programming/python/index.md
+      - JavaScript:
+        - software-engineering/programming/javascript/index.md
+      - C:
+        - software-engineering/programming/c/index.md
+      - Go:
+        - software-engineering/programming/go/index.md
+      - Java:
+        - software-engineering/programming/java/index.md
+      - C#:
+        - software-engineering/programming/csharp/index.md
+      - Rust:
+        - software-engineering/programming/rust/index.md
+      - C++:
+        - software-engineering/programming/cpp/index.md
+      - Assembly:
+          - software-engineering/programming/assembly/index.md
+          - software-engineering/programming/assembly/x86.md
+          - software-engineering/programming/assembly/arm.md
+          - software-engineering/programming/assembly/riscv.md
+      - Platforms:
+        - software-engineering/programming/platform-native/swift.md
+        - software-engineering/programming/platform-native/kotlin.md
+      - Functional:
+        - software-engineering/programming/functional/lisp.md
+        - software-engineering/programming/functional/scala.md
+        - software-engineering/programming/functional/elixir.md
+      - Web-First:
+        - software-engineering/programming/web-first/ruby.md
+        - software-engineering/programming/web-first/php.md
+      - Small-Script:
+        - software-engineering/programming/small-script/lua.md
+        - software-engineering/programming/small-script/perl.md
+      - Zig:
+        - software-engineering/programming/zig/index.md
+      
+    - Testing:
+        - software-engineering/testing/index.md
 
     - Databases:
       - software-engineering/databases/index.md
@@ -165,25 +174,27 @@ nav:
         - software-engineering/databases/rdbms/sql-server.md
       - NoSQL:
         - software-engineering/databases/nosql/index.md
-        - Key-Value:
+      - Key-Value:
 
-          - software-engineering/databases/nosql/key-value/redis.md
-          - software-engineering/databases/nosql/key-value/memcached.md
-        - Document:
-          - software-engineering/databases/nosql/document/mongodb.md
-        - Search-Engine:
-          - software-engineering/databases/nosql/search-engine/elasticsearch.md
-          - software-engineering/databases/nosql/search-engine/lucene.md
-          - software-engineering/databases/nosql/search-engine/solr.md
-          - software-engineering/databases/nosql/search-engine/splunk.md
-        - Time-Series:
-          - software-engineering/databases/nosql/time-series/influxdb.md
-          - software-engineering/databases/nosql/time-series/prometheus.md
-        - Wide-Column:
-          - software-engineering/databases/nosql/wide-column/cassandra.md
-          - software-engineering/databases/nosql/wide-column/hbase.md
-        - Graph:
-          - software-engineering/databases/nosql/graph/neo4j.md
+        - software-engineering/databases/key-value/redis.md
+        - software-engineering/databases/key-value/memcached.md
+      - Document:
+        - software-engineering/databases/document/mongodb.md
+      - Search-Engine:
+        - software-engineering/databases/search-engine/elasticsearch.md
+        - software-engineering/databases/search-engine/lucene.md
+        - software-engineering/databases/search-engine/solr.md
+        - software-engineering/databases/search-engine/splunk.md
+      - Time-Series:
+        - software-engineering/databases/time-series/influxdb.md
+        - software-engineering/databases/time-series/prometheus.md
+      - Wide-Column:
+        - software-engineering/databases/wide-column/cassandra.md
+        - software-engineering/databases/wide-column/hbase.md
+      - Graph:
+        - software-engineering/databases/graph/neo4j.md
+
+
 
     - Operating-System:
         - software-engineering/operating-system/index.md
@@ -193,9 +204,12 @@ nav:
           - software-engineering/operating-system/basic-tools/multiplexer.md
         - Unix-like:
           - software-engineering/operating-system/unix-like/index.md
-          - software-engineering/operating-system/unix-like/freebsd.md
-          - software-engineering/operating-system/unix-like/android.md
-          - software-engineering/operating-system/unix-like/darwin-xnu.md
+        - FreeBSD:
+          - software-engineering/operating-system/freebsd/index.md
+        - Android:
+          - software-engineering/operating-system/android/index.md
+        - Darwin/XNU:
+          - software-engineering/operating-system/darwin-xnu/index.md
         - GNU/Linux:
           - software-engineering/operating-system/gnu-linux/index.md
           - software-engineering/operating-system/gnu-linux/shell.md
@@ -229,6 +243,7 @@ nav:
           - software-engineering/virtualization/containers/docker.md
           - software-engineering/virtualization/containers/k8s.md
           - software-engineering/virtualization/containers/lxc.md
+
 
   # Computer-Engineering Topic
   - Computer-Engineering:
@@ -336,7 +351,7 @@ nav:
     
     - Network-Engineering:
       - internet-system/network-engineering/index.md
-      - Data-Communication:
+      - Data-Communication: 
         - internet-system/network-engineering/data-communication/index.md
         - internet-system/network-engineering/data-communication/routing.md
         - internet-system/network-engineering/data-communication/switching.md
@@ -395,87 +410,87 @@ nav:
   # Cybersecurity Topic
   - Cybersecurity:
     - cybersecurity/index.md
-    - Security-Stack:
-      - cybersecurity/security-stack/index.md
-      - Cryptography:
-        - cybersecurity/security-stack/cryptography/index.md
-        - cybersecurity/security-stack/cryptography/crypto-tools.md
-        - cybersecurity/security-stack/cryptography/cryptographic-attack.md
-      - IAM:
-        - cybersecurity/security-stack/iam/index.md
-      - Reverse-Engineering:
-        - cybersecurity/security-stack/reverse-engineering/index.md
+    - Cryptography: 
+        - cybersecurity/cryptography/index.md
+        - cybersecurity/cryptography/crypto-tools.md
+        - cybersecurity/cryptography/cryptographic-attack.md
+    - IAM:
+      - cybersecurity/iam/index.md
+    - Reverse-Engineering:
+        - cybersecurity/reverse-engineering/index.md
         - Basic-Tools:
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/hex-editor.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/disassembler.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/debugger.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/symbolic-execution.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/emulator.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/packers.md
-          - cybersecurity/security-stack/reverse-engineering/basic-tools/unpackers.md
+          - cybersecurity/reverse-engineering/basic-tools/hex-editor.md
+          - cybersecurity/reverse-engineering/basic-tools/disassembler.md
+          - cybersecurity/reverse-engineering/basic-tools/debugger.md
+          - cybersecurity/reverse-engineering/basic-tools/symbolic-execution.md
+          - cybersecurity/reverse-engineering/basic-tools/emulator.md
+          - cybersecurity/reverse-engineering/basic-tools/packers.md
+          - cybersecurity/reverse-engineering/basic-tools/unpackers.md
         - Windows:
-          - cybersecurity/security-stack/reverse-engineering/windows/index.md
-          - cybersecurity/security-stack/reverse-engineering/windows/debugger.md
+          - cybersecurity/reverse-engineering/windows/index.md
+          - cybersecurity/reverse-engineering/windows/debugger.md
         - Linux:
-          - cybersecurity/security-stack/reverse-engineering/linux/index.md
+          - cybersecurity/reverse-engineering/linux/index.md
         - Android:
-          - cybersecurity/security-stack/reverse-engineering/android/index.md
+          - cybersecurity/reverse-engineering/android/index.md
         - Darwin:
-          - cybersecurity/security-stack/reverse-engineering/darwin/index.md
+          - cybersecurity/reverse-engineering/darwin/index.md
         - Data:
-          - cybersecurity/security-stack/reverse-engineering/data/index.md
+          - cybersecurity/reverse-engineering/data/index.md
         - Bytecode:
-          - cybersecurity/security-stack/reverse-engineering/bytecode/index.md
-          - cybersecurity/security-stack/reverse-engineering/bytecode/jvm.md
-          - cybersecurity/security-stack/reverse-engineering/bytecode/clr.md
-          - cybersecurity/security-stack/reverse-engineering/bytecode/pyc.md
+          - cybersecurity/reverse-engineering/bytecode/index.md
+          - cybersecurity/reverse-engineering/bytecode/jvm.md
+          - cybersecurity/reverse-engineering/bytecode/clr.md
+          - cybersecurity/reverse-engineering/bytecode/pyc.md
         - Firmware:
-          - cybersecurity/security-stack/reverse-engineering/firmware/index.md
+          - cybersecurity/reverse-engineering/firmware/index.md
         - Hardware:
-          - cybersecurity/security-stack/reverse-engineering/hardware/index.md
-      - Network-Security:
-        - cybersecurity/security-stack/network-security/index.md
-      - Application-Security:
-        - cybersecurity/security-stack/application-security/index.md
-        - Reference-Frame:
-          - cybersecurity/security-stack/application-security/reference-frame/index.md
-        - Server-Side:
-          - cybersecurity/security-stack/application-security/server-side/index.md
-        - Client-Side:
-          - cybersecurity/security-stack/application-security/client-side/index.md
-          - cybersecurity/security-stack/application-security/client-side/javascript-reverse.md
-        - API-Security:
-          - cybersecurity/security-stack/application-security/api-security/index.md
-        - Business-Logic:
-          - cybersecurity/security-stack/application-security/business-logic/index.md
-        - Vulnerability-Reproduction:
-          - cybersecurity/security-stack/application-security/vulnerability-reproduction/index.md
-        - DAST/Pentesting:
-          - cybersecurity/security-stack/application-security/dast/index.md
-          - cybersecurity/security-stack/application-security/dast/ast.md
-        - SDL/SAST:
-          - cybersecurity/security-stack/application-security/sdl/index.md
-          - cybersecurity/security-stack/application-security/sdl/sdl.md
-          - cybersecurity/security-stack/application-security/sdl/devsecops.md
-          - cybersecurity/security-stack/application-security/sdl/sast.md
-          - cybersecurity/security-stack/application-security/sdl/sca.md
-          - cybersecurity/security-stack/application-security/sdl/iast.md
-        - Protection:
-          - cybersecurity/security-stack/application-security/protection/waf.md
-          - cybersecurity/security-stack/application-security/protection/rasp.md
-        
+          - cybersecurity/reverse-engineering/hardware/index.md
+    - Network-Security:
+      - cybersecurity/network-security/index.md
+    - Application-Security:
+      - cybersecurity/application-security/index.md
+      - Reference-Frame:
+        - cybersecurity/application-security/reference-frame/index.md
+      - Server-Side:
+        - cybersecurity/application-security/server-side/index.md
+      - Client-Side:
+        - cybersecurity/application-security/client-side/index.md
+        - cybersecurity/application-security/client-side/javascript-reverse.md
+      - API-Security:
+        - cybersecurity/application-security/api-security/index.md
+      - Business-Logic:
+        - cybersecurity/application-security/business-logic/index.md
+      - Vulnerability-Reproduction:
+        - cybersecurity/application-security/vulnerability-reproduction/index.md
+      - DAST/Pentesting:
+        - cybersecurity/application-security/dast/index.md
+        - cybersecurity/application-security/dast/ast.md
+      - SDL/SAST:
+        - cybersecurity/application-security/sdl/index.md
+        - cybersecurity/application-security/sdl/sdl.md
+        - cybersecurity/application-security/sdl/devsecops.md
+        - cybersecurity/application-security/sdl/sast.md
+        - cybersecurity/application-security/sdl/sca.md
+        - cybersecurity/application-security/sdl/iast.md
+      - Protection:
+        - cybersecurity/application-security/protection/waf.md
+        - cybersecurity/application-security/protection/rasp.md 
       
-    - Infrastructure-Security:
-      - cybersecurity/infra-security/index.md
-      - Endpoint-Security:
-        - cybersecurity/infra-security/endpoint-security/index.md
-        - Mobile Security:
-          - cybersecurity/infra-security/endpoint-security/mobile-security/index.md
-      - IoT-Security:
-        - cybersecurity/infra-security/iot-security/index.md
-      - Cloud-Security:
-        - cybersecurity/infra-security/cloud-security/index.md
+    # - Infrastructure-Security:
+    #   - cybersecurity/index.md
+    - Mobile-Security:
+      - cybersecurity/mobile-security/index.md
+    - Cloud-Security:
+      - cybersecurity/cloud-security/index.md
+    - Endpoint-Security:
+      - cybersecurity/endpoint-security/index.md
+    - IoT-Security:
+      - cybersecurity/iot-security/index.md
     
+    - Vulnerability-Databases:
+      - cybersecurity/vulnerability-databases/index.md
+
     - CTF:
       - cybersecurity/ctf/index.md
       # - cybersecurity/ctf/crypto.md
@@ -484,7 +499,7 @@ nav:
       # - cybersecurity/ctf/reverse.md
       # - cybersecurity/ctf/pwn.md
 
-    - Offensive Security:
+    - Offensive-Security:
       - cybersecurity/offensive-security/index.md
       - Reconnaissance:
         - cybersecurity/offensive-security/reconnaissance/index.md
@@ -501,7 +516,7 @@ nav:
       - Social-Engineering:
         - cybersecurity/offensive-security/social-engineering/index
 
-    - Defensive Security:
+    - Defensive-Security:
       - cybersecurity/defensive-security/index.md
       - GRC:
         - cybersecurity/defensive-security/grc/index.md
@@ -537,8 +552,6 @@ nav:
       #   - cybersecurity/security-core/data-availability/index.md
       # - GRC:
       #   - cybersecurity/security-core/grc/index.md
-    - Vulnerability Databases:
-      - cybersecurity/vulnerability-databases/index.md
 
     
 
