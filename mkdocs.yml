@@ -405,6 +405,34 @@ nav:
         - cybersecurity/security-stack/iam/index.md
       - Reverse-Engineering:
         - cybersecurity/security-stack/reverse-engineering/index.md
+        - Basic-Tools:
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/hex-editor.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/disassembler.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/debugger.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/symbolic-execution.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/emulator.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/packers.md
+          - cybersecurity/security-stack/reverse-engineering/basic-tools/unpackers.md
+        - Windows:
+          - cybersecurity/security-stack/reverse-engineering/windows/index.md
+          - cybersecurity/security-stack/reverse-engineering/windows/debugger.md
+        - Linux:
+          - cybersecurity/security-stack/reverse-engineering/linux/index.md
+        - Android:
+          - cybersecurity/security-stack/reverse-engineering/android/index.md
+        - Darwin:
+          - cybersecurity/security-stack/reverse-engineering/darwin/index.md
+        - Data:
+          - cybersecurity/security-stack/reverse-engineering/data/index.md
+        - Bytecode:
+          - cybersecurity/security-stack/reverse-engineering/bytecode/index.md
+          - cybersecurity/security-stack/reverse-engineering/bytecode/jvm.md
+          - cybersecurity/security-stack/reverse-engineering/bytecode/clr.md
+          - cybersecurity/security-stack/reverse-engineering/bytecode/pyc.md
+        - Firmware:
+          - cybersecurity/security-stack/reverse-engineering/firmware/index.md
+        - Hardware:
+          - cybersecurity/security-stack/reverse-engineering/hardware/index.md
       - Network-Security:
         - cybersecurity/security-stack/network-security/index.md
       - Application-Security:

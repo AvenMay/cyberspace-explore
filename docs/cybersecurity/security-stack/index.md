@@ -1,9 +1,7 @@
-# Essential Skills
-
+# Security-Stack
 
 - Cryptography
 - IAM
-- Application Security
-- Network Security
 - Reverse Engineering
-- Binary Security
+- Network Security
+- Application Security
