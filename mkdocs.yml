@@ -454,13 +454,17 @@ nav:
         - cybersecurity/application-security/reference-frame/index.md
       - Server-Side:
         - cybersecurity/application-security/server-side/index.md
-      - Client-Side:
-        - cybersecurity/application-security/client-side/index.md
-        - cybersecurity/application-security/client-side/javascript-reverse.md
       - API-Security:
         - cybersecurity/application-security/api-security/index.md
       - Business-Logic:
         - cybersecurity/application-security/business-logic/index.md
+      - Web-Frontend:
+        - cybersecurity/application-security/web-frontend/index.md
+        - cybersecurity/application-security/web-frontend/javascript-reverse.md
+      - Mobile-Security:
+        - cybersecurity/application-security/mobile-security/index.md
+      - Desktop-Client:
+        - cybersecurity/application-security/desktop-client/index.md
       - Vulnerability-Reproduction:
         - cybersecurity/application-security/vulnerability-reproduction/index.md
       - DAST/Pentesting:
@@ -476,11 +480,6 @@ nav:
       - Protection:
         - cybersecurity/application-security/protection/waf.md
         - cybersecurity/application-security/protection/rasp.md 
-      
-    # - Infrastructure-Security:
-    #   - cybersecurity/index.md
-    - Mobile-Security:
-      - cybersecurity/mobile-security/index.md
     - Cloud-Security:
       - cybersecurity/cloud-security/index.md
     - Endpoint-Security:
