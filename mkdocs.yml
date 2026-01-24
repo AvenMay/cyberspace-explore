@@ -284,17 +284,25 @@ nav:
     - internet-system/index.md
     - Application-System:
       - internet-system/application-system/index.md
-      - Web-Components:
-        - internet-system/application-system/web-components/index.md
-        - internet-system/application-system/web-components/web-browser.md
-        - internet-system/application-system/web-components/cli-client.md 
-        - internet-system/application-system/web-components/client-library.md
-        - Web-Server:
-          - internet-system/application-system/web-components/web-server/nginx.md
-          - internet-system/application-system/web-components/web-server/apache.md
-          - internet-system/application-system/web-components/web-server/openresty.md
-          - internet-system/application-system/web-components/web-server/lighttpd.md
-          - internet-system/application-system/web-components/web-server/more.md        
+      - Web-Client:
+        - internet-system/application-system/web-client/index.md
+        - internet-system/application-system/web-client/web-browser.md
+        - internet-system/application-system/web-client/cli-client.md 
+        - internet-system/application-system/web-client/client-library.md
+      - Mobile-Client:
+        - internet-system/application-system/mobile-client/index.md
+      - Desktop-Client:
+        - internet-system/application-system/desktop-client/index.md
+        - CLI:
+          - internet-system/application-system/desktop-client/cli/index.md
+        - Cross-Platforms:
+          - internet-system/application-system/desktop-client/cross-platforms/index.md
+      - Web-Server:
+        - internet-system/application-system/web-server/nginx.md
+        - internet-system/application-system/web-server/apache.md
+        - internet-system/application-system/web-server/openresty.md
+        - internet-system/application-system/web-server/lighttpd.md
+        - internet-system/application-system/web-server/more.md        
         
       - internet-system/application-system/application-server.md
       # - Application Server:
@@ -420,51 +428,79 @@ nav:
         - cybersecurity/reverse-engineering/index.md
         - Basic-Tools:
           - cybersecurity/reverse-engineering/basic-tools/hex-editor.md
-          - cybersecurity/reverse-engineering/basic-tools/disassembler.md
-          - cybersecurity/reverse-engineering/basic-tools/debugger.md
-          - cybersecurity/reverse-engineering/basic-tools/symbolic-execution.md
-          - cybersecurity/reverse-engineering/basic-tools/emulator.md
-          - cybersecurity/reverse-engineering/basic-tools/packers.md
-          - cybersecurity/reverse-engineering/basic-tools/unpackers.md
-        - Windows:
-          - cybersecurity/reverse-engineering/windows/index.md
-          - cybersecurity/reverse-engineering/windows/debugger.md
-        - Linux:
-          - cybersecurity/reverse-engineering/linux/index.md
-        - Android:
-          - cybersecurity/reverse-engineering/android/index.md
-        - Darwin:
-          - cybersecurity/reverse-engineering/darwin/index.md
-        - Data:
-          - cybersecurity/reverse-engineering/data/index.md
-        - Bytecode:
-          - cybersecurity/reverse-engineering/bytecode/index.md
-          - cybersecurity/reverse-engineering/bytecode/jvm.md
-          - cybersecurity/reverse-engineering/bytecode/clr.md
-          - cybersecurity/reverse-engineering/bytecode/pyc.md
-        - Firmware:
-          - cybersecurity/reverse-engineering/firmware/index.md
-        - Hardware:
-          - cybersecurity/reverse-engineering/hardware/index.md
+        - Binary-Analysis:
+          - cybersecurity/reverse-engineering/binary-analysis/index.md
+          # - cybersecurity/reverse-engineering/binary-analysis/static-analysis.md
+          # - cybersecurity/reverse-engineering/binary-analysis/dynamic-analysis.md
+          # - cybersecurity/reverse-engineering/binary-analysis/hybrid-analysis.md
+          - Tools:
+            - cybersecurity/reverse-engineering/binary-analysis/tools/disassembler.md
+            - cybersecurity/reverse-engineering/binary-analysis/tools/debugger.md
+            - cybersecurity/reverse-engineering/binary-analysis/tools/symbolic-execution.md
+            - cybersecurity/reverse-engineering/binary-analysis/tools/emulator.md
+            - cybersecurity/reverse-engineering/binary-analysis/tools/packers.md
+            - cybersecurity/reverse-engineering/binary-analysis/tools/unpackers.md
+          - PE:
+            - cybersecurity/reverse-engineering/binary-analysis/pe/index.md
+            - cybersecurity/reverse-engineering/binary-analysis/pe/debugger.md
+          - ELF:
+            - cybersecurity/reverse-engineering/binary-analysis/elf/index.md
+          - Mach-O:
+            - cybersecurity/reverse-engineering/binary-analysis/mach-o/index.md
+        - File-Formats:
+          - cybersecurity/reverse-engineering/file-formats/index.md
+          # - cybersecurity/reverse-engineering/file-formats/pdf.md
+          # - cybersecurity/reverse-engineering/file-formats/image-formats.md
+          # - cybersecurity/reverse-engineering/file-formats/audio-video.md
+        - Protocol-Analysis:
+          - cybersecurity/reverse-engineering/protocol-analysis/index.md
+        - Kernel-Analysis:
+          - cybersecurity/reverse-engineering/kernel-analysis/index.md
+        - Bytecode-Analysis:
+          - cybersecurity/reverse-engineering/bytecode-analysis/index.md
+          - cybersecurity/reverse-engineering/bytecode-analysis/jvm.md
+          - cybersecurity/reverse-engineering/bytecode-analysis/clr.md
+          - cybersecurity/reverse-engineering/bytecode-analysis/pyc.md
+        - Firmware-Analysis:
+          - cybersecurity/reverse-engineering/firmware-analysis/index.md
+        - Hardware-Analysis:
+          - cybersecurity/reverse-engineering/hardware-analysis/index.md
     - Network-Security:
       - cybersecurity/network-security/index.md
+      - Packet-Capture:
+        - cybersecurity/network-security/packet-capture/index.md
+      - Traffic-Analysis:
+        - cybersecurity/network-security/traffic-analysis/index.md
+      - Protocol-Security:
+        - cybersecurity/network-security/protocol-security/index.md
+      - Wireless-Security:
+        - cybersecurity/network-security/wireless-security/index.md
+      - MitM:
+        - cybersecurity/network-security/mitm/index.md
+      - Pentesting:
+        - cybersecurity/network-security/pentesting/index.md
+      - Protection:
+        - cybersecurity/network-security/protection/index.md
+      - E2E-Crypto:
+        - cybersecurity/network-security/e2e-crypto/index.md
+      - NAT-Traversal:
+        - cybersecurity/network-security/nat-traversal/index.md
+      
     - Application-Security:
       - cybersecurity/application-security/index.md
       - Reference-Frame:
         - cybersecurity/application-security/reference-frame/index.md
-      - Server-Side:
+      - Server-Side Security:
         - cybersecurity/application-security/server-side/index.md
       - API-Security:
         - cybersecurity/application-security/api-security/index.md
       - Business-Logic:
         - cybersecurity/application-security/business-logic/index.md
-      - Web-Frontend:
+      - Web-Frontend Security:
         - cybersecurity/application-security/web-frontend/index.md
         - cybersecurity/application-security/web-frontend/javascript-reverse.md
       - Mobile-Security:
         - cybersecurity/application-security/mobile-security/index.md
-      - Desktop-Client:
-        - cybersecurity/application-security/desktop-client/index.md
       - Vulnerability-Reproduction:
         - cybersecurity/application-security/vulnerability-reproduction/index.md
       - DAST/Pentesting:
@@ -482,8 +518,7 @@ nav:
         - cybersecurity/application-security/protection/rasp.md 
     - Cloud-Security:
       - cybersecurity/cloud-security/index.md
-    - Endpoint-Security:
-      - cybersecurity/endpoint-security/index.md
+
     - IoT-Security:
       - cybersecurity/iot-security/index.md
     
@@ -519,18 +554,18 @@ nav:
       - cybersecurity/defensive-security/index.md
       - GRC:
         - cybersecurity/defensive-security/grc/index.md
+      - Data-Security:
+        - cybersecurity/defensive-security/data-security/index.md
+      - Blue-Teaming:
+        - cybersecurity/defensive-security/blue-teaming/index.md
       - Defense-In-Depth:
         - cybersecurity/defensive-security/dind/index.md
         - Zero-Trust:
           - cybersecurity/defensive-security/dind/zero-trust/index.md
-        - Endpoint-Security:
-          - cybersecurity/defensive-security/dind/endpoint-security/index.md
-        - Data-Security:
-          - cybersecurity/defensive-security/data-security/index.md
-      - Blue-Teaming:
-        - cybersecurity/defensive-security/blue-teaming/index.md
       - Malware-Analysis:
         - cybersecurity/defensive-security/malware-analysis/index.md
+      - Endpoint-Security:
+        - cybersecurity//defensive-security/endpoint-security/index.md
       - SOC/SIEM:
         - cybersecurity/defensive-security/soc/index.md
       - Incident-Response:
@@ -538,6 +573,7 @@ nav:
         - cybersecurity/defensive-security/incident-response/digital-forensics.md
       - Threat-Hunting:
         - cybersecurity/defensive-security/threat-hunting/index.md
+
       
       
 
