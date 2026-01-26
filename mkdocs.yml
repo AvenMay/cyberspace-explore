@@ -193,9 +193,6 @@ nav:
         - software-engineering/databases/wide-column/hbase.md
       - Graph:
         - software-engineering/databases/graph/neo4j.md
-
-
-
     - Operating-System:
         - software-engineering/operating-system/index.md
         - Basic-Tools:
@@ -204,12 +201,6 @@ nav:
           - software-engineering/operating-system/basic-tools/multiplexer.md
         - Unix-like:
           - software-engineering/operating-system/unix-like/index.md
-        - FreeBSD:
-          - software-engineering/operating-system/freebsd/index.md
-        - Android:
-          - software-engineering/operating-system/android/index.md
-        - Darwin/XNU:
-          - software-engineering/operating-system/darwin-xnu/index.md
         - GNU/Linux:
           - software-engineering/operating-system/gnu-linux/index.md
           - software-engineering/operating-system/gnu-linux/shell.md
@@ -230,6 +221,12 @@ nav:
           - software-engineering/operating-system/windows/windows-internals.md
           - software-engineering/operating-system/windows/windows-server.md
           - software-engineering/operating-system/windows/windows-iot.md
+        - Android:
+          - software-engineering/operating-system/android/index.md
+        - FreeBSD:
+          - software-engineering/operating-system/freebsd/index.md
+        - Darwin/XNU:
+          - software-engineering/operating-system/darwin-xnu/index.md
     - Virtualization:
         - software-engineering/virtualization/index.md
         - Virtual-Machines:
@@ -289,10 +286,10 @@ nav:
         - internet-system/application-system/web-client/web-browser.md
         - internet-system/application-system/web-client/cli-client.md 
         - internet-system/application-system/web-client/client-library.md
-      - Mobile-Client:
-        - internet-system/application-system/mobile-client/index.md
-      - Desktop-Client:
-        - internet-system/application-system/desktop-client/index.md
+      - Mobile:
+        - internet-system/application-system/mobile/index.md
+      - Desktop:
+        - internet-system/application-system/desktop/index.md
         - CLI:
           - internet-system/application-system/desktop-client/cli/index.md
         - Cross-Platforms:
@@ -440,12 +437,12 @@ nav:
             - cybersecurity/reverse-engineering/binary-analysis/tools/emulator.md
             - cybersecurity/reverse-engineering/binary-analysis/tools/packers.md
             - cybersecurity/reverse-engineering/binary-analysis/tools/unpackers.md
-          - PE:
+          - Windows/PE:
             - cybersecurity/reverse-engineering/binary-analysis/pe/index.md
             - cybersecurity/reverse-engineering/binary-analysis/pe/debugger.md
-          - ELF:
+          - Linux/ELF:
             - cybersecurity/reverse-engineering/binary-analysis/elf/index.md
-          - Mach-O:
+          - macOS/Mach-O:
             - cybersecurity/reverse-engineering/binary-analysis/mach-o/index.md
         - File-Formats:
           - cybersecurity/reverse-engineering/file-formats/index.md
@@ -516,12 +513,10 @@ nav:
       - Protection:
         - cybersecurity/application-security/protection/waf.md
         - cybersecurity/application-security/protection/rasp.md 
-    - Cloud-Security:
-      - cybersecurity/cloud-security/index.md
-
     - IoT-Security:
       - cybersecurity/iot-security/index.md
-    
+    - Cloud-Security:
+      - cybersecurity/cloud-security/index.md
     - Vulnerability-Databases:
       - cybersecurity/vulnerability-databases/index.md
 
