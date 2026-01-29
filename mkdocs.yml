@@ -465,6 +465,7 @@ nav:
     - HomeLab:
       - interesting-practice/homelab/index.md
       
+  - Cybersecurity-Matrix: https://matrix.cyberspace.bar/
 
 plugins:
   - search
@@ -494,7 +495,7 @@ markdown_extensions:
       generic: true 
 
 extra:
-  files_server: "https://files.cyberspace.bar"
+  files_server: "https://files.cyberspace.bar/cyberspace"
   # files_server: "https://files.cyberspace.bar/cyberspace-explore"
 
 extra_javascript:
