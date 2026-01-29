@@ -474,12 +474,12 @@ nav:
         - cybersecurity/network-security/wireless-security/index.md
       - MitM:
         - cybersecurity/network-security/mitm/index.md
+      - E2EE:
+        - cybersecurity/network-security/e2ee/index.md
       - Pentesting:
         - cybersecurity/network-security/pentesting/index.md
       - Protection:
         - cybersecurity/network-security/protection/index.md
-      - E2E-Crypto:
-        - cybersecurity/network-security/e2e-crypto/index.md
       - NAT-Traversal:
         - cybersecurity/network-security/nat-traversal/index.md
       
@@ -568,21 +568,6 @@ nav:
         - cybersecurity/defensive-security/incident-response/digital-forensics.md
       - Threat-Hunting:
         - cybersecurity/defensive-security/threat-hunting/index.md
-
-      
-      
-
-      # - Data Privacy:
-      #   - cybersecurity/security-core/data-privacy/index.md
-      # - Data Protection:
-      #   - cybersecurity/security-core/data-protection/index.md
-      # - Data Integrity:
-      #   - cybersecurity/security-core/data-integrity/index.md
-      # - Data Availability:
-      #   - cybersecurity/security-core/data-availability/index.md
-      # - GRC:
-      #   - cybersecurity/security-core/grc/index.md
-
     
 
   # Data-Systems
