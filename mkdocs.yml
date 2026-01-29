@@ -530,10 +530,10 @@ nav:
 
     - Offensive-Security:
       - cybersecurity/offensive-security/index.md
-      - Reconnaissance:
-        - cybersecurity/offensive-security/reconnaissance/index.md
       - Red-Teaming:
         - cybersecurity/offensive-security/red-teaming/index.md
+      - Reconnaissance:
+        - cybersecurity/offensive-security/reconnaissance/index.md
       - Penetration-Testing:
         - cybersecurity/offensive-security/penetration-testing/index.md
       - Binary-Analysis:
@@ -547,12 +547,12 @@ nav:
 
     - Defensive-Security:
       - cybersecurity/defensive-security/index.md
+      - Blue-Teaming:
+        - cybersecurity/defensive-security/blue-teaming/index.md
       - GRC:
         - cybersecurity/defensive-security/grc/index.md
       - Data-Security:
         - cybersecurity/defensive-security/data-security/index.md
-      - Blue-Teaming:
-        - cybersecurity/defensive-security/blue-teaming/index.md
       - Defense-In-Depth:
         - cybersecurity/defensive-security/dind/index.md
         - Zero-Trust:
