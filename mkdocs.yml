@@ -17,7 +17,7 @@ theme:
     - scheme: default    # 浅色模式
       # primary: indigo
       # accent: indigo
-      primary: blue
+      primary: indigo
       accent: pink
       toggle:
         icon: material/weather-night
@@ -25,7 +25,7 @@ theme:
     - scheme: slate      # 深色模式
       # primary: indigo
       # accent: indigo
-      primary: teal
+      primary: indigo
       accent: pink
       toggle:
         icon: material/weather-sunny
