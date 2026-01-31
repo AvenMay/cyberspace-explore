@@ -121,8 +121,6 @@ nav:
       - Basic-Tools:
         - software-engineering/programming/basic-tools/editor.md
         - software-engineering/programming/basic-tools/git.md
-      - Vibe-Coding:
-        - software-engineering/programming/vibe-coding/index.md
       - Python:
         - software-engineering/programming/python/index.md
       - JavaScript:
@@ -441,22 +439,6 @@ nav:
         - data-system/data-visualization/index.md
     - Data-Science:
       - data-system/data-science/index.md
-
-  # Explore-AI Topic
-  - Explore-AI:
-    - explore-ai/index.md
-    - ML/DL:
-      - explore-ai/ml-dl/index.md
-      - Machine-Learning:
-        - explore-ai/ml-dl/machine-learning/index.md
-      - Deep-Learning:
-        - explore-ai/ml-dl/deep-learning/index.md
-    - NLP/LLM:
-      - explore-ai/nlp-llm/index.md
-    - Computer-Vision:
-      - explore-ai/cv/index.md
-    - AI-Engineering:
-      - explore-ai/ai-engineering/index.md
     
 
   # Interesting Topic
@@ -466,6 +448,7 @@ nav:
       - interesting-practice/homelab/index.md
       
   - Cybersecurity-Matrix: https://matrix.cyberspace.bar/
+  # - Intelligence-Stack: 
 
 plugins:
   - search
