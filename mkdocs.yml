@@ -448,7 +448,7 @@ nav:
       - interesting-practice/homelab/index.md
       
   - Cybersecurity-Matrix: https://matrix.cyberspace.bar/
-  # - Intelligence-Stack: 
+  - Intelligence-Stack: https://avenmay.github.io/intelligence-stack/
 
 plugins:
   - search
