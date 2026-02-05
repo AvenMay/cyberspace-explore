@@ -448,7 +448,6 @@ nav:
       - interesting-practice/homelab/index.md
       
   - Cybersecurity-Matrix: https://matrix.cyberspace.bar/
-  # - Intelligence-Stack: https://ai.cyberspace.bar/
 
 plugins:
   - search
