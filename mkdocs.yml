@@ -442,10 +442,10 @@ nav:
     
 
   # Interesting Topic
-  - Interesting-Practice:
-    # - interesting-practice/index.md
+  - Interesting-Practices:
+    # - interesting-practices/index.md
     - HomeLab:
-      - interesting-practice/homelab/index.md
+      - interesting-practices/homelab/index.md
       
   - Cybersecurity-Matrix: https://matrix.cyberspace.bar/
 
