@@ -23,8 +23,10 @@
 
 ### Books
 
-- [JavaScript权威指南 7th PDF]({{ files_server }}/software-engineering/programming/essentials/javascript/JavaScript权威指南（第七版）.pdf)
-- [JavaScript高级程序设计 4th PDF]({{ files_server }}/software-engineering/programming/essentials/javascript/JavaScript高级程序设计（第4版）.pdf)
+- [JavaScript权威指南（第七版）.pdf]({{ files_server }}/software-engineering/programming/javascript/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%B8%83%E7%89%88%EF%BC%89.pdf)
+- [JavaScript高级程序设计（第4版）.pdf]({{ files_server }}/software-engineering/programming/javascript/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)
+
+
 
 ------
 
@@ -83,6 +85,7 @@
 ### Network Programming
 
 - [Node.js Docs](https://nodejs.org/docs/latest/api/)
+- [深入浅出Node.js.pdf]({{ files_server }}/software-engineering/programming/javascript/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
 ------
 

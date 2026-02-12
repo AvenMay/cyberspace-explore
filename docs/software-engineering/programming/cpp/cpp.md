@@ -10,12 +10,13 @@
 
 ### Books
 
-- [C++Primer 5th.pdf]({{ files_server }}/software-engineering/programming/ultimate/cpp/C++Primer%205th.pdf)
-- [C++标准库 2nd.pdf]({{ files_server }}/software-engineering/programming/ultimate/cpp/C++%E6%A0%87%E5%87%86%E5%BA%93%202nd.pdf)
-- [CMake Cookbook.pdf]({{ files_server }}/software-engineering/programming/ultimate/cpp/CMake%20Cookbook.pdf)
-- [cpp-primer.7z]({{ files_server }}/software-engineering/programming/ultimate/cpp/cpp-primer.7z)
-- [Effective C++ 3rd.epub]({{ files_server }}/software-engineering/programming/ultimate/cpp/Effective%20C++%203rd.epub)
-- 现代C++编程 从入门到实践
+- [C++Primer 5th.pdf]({{ files_server }}/software-engineering/programming/cpp/C++Primer%205th.pdf)
+- [C++标准库 2nd.pdf]({{ files_server }}/software-engineering/programming/cpp/C++%E6%A0%87%E5%87%86%E5%BA%93%202nd.pdf)
+- [C++程序设计：现代方法.pdf]({{ files_server }}/software-engineering/programming/cpp/C++%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%9A%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95.pdf)
+- [CMake Cookbook.pdf]({{ files_server }}/software-engineering/programming/cpp/CMake%20Cookbook.pdf)
+- [cpp-primer.7z]({{ files_server }}/software-engineering/programming/cpp/cpp-primer.7z)
+- [Effective C++ 3rd.epub]({{ files_server }}/software-engineering/programming/cpp/Effective%20C++%203rd.epub)
+
 ------
 
 ### Compilers
