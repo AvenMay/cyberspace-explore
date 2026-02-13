@@ -316,8 +316,8 @@ nav:
         - internet-system/application-system/api/grpc.md
       - Protocols:
         -  internet-system/application-system/protocols/index.md
-        - Application:
-          - internet-system/application-system/protocols/application/http-https.md
+        -  internet-system/application-system/protocols/http-https.md
+        -  More Application:
           - internet-system/application-system/protocols/application/dns.md
           - internet-system/application-system/protocols/application/email.md
           - internet-system/application-system/protocols/application/ftp-sftp.md
