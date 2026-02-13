@@ -118,8 +118,6 @@ nav:
         - software-engineering/programming/preparation/encoding.md
         - software-engineering/programming/preparation/interfaces.md
         - software-engineering//software-design/best-practices.md
-      - Parallel:
-        - software-engineering/programming/parallel/index.md
       - Basic-Tools:
         - software-engineering/programming/basic-tools/editor.md
         - software-engineering/programming/basic-tools/git.md
@@ -227,18 +225,19 @@ nav:
           - software-engineering/operating-system/freebsd/index.md
         - Darwin/XNU:
           - software-engineering/operating-system/darwin-xnu/index.md
-    - Containers:
-      - software-engineering/containers/index.md
-      - software-engineering/containers/docker.md
-      - software-engineering/containers/k8s.md
-      - software-engineering/containers/lxc.md
     - Virtualization:
-      - software-engineering/virtualization/index.md
-      - software-engineering/virtualization/kvm.md
-      - software-engineering/virtualization/hyper-v.md
-      - software-engineering/virtualization/esxi.md
-      - software-engineering/virtualization/hosted-vm.md
-
+        - software-engineering/virtualization/index.md
+        - Virtual-Machines:
+          - software-engineering/virtualization/virtual-machines/index.md
+          - software-engineering/virtualization/virtual-machines/kvm.md
+          - software-engineering/virtualization/virtual-machines/hyper-v.md
+          - software-engineering/virtualization/virtual-machines/esxi.md
+          - software-engineering/virtualization/virtual-machines/hosted-vm.md
+        - Containers:
+          - software-engineering/virtualization/containers/index.md
+          - software-engineering/virtualization/containers/docker.md
+          - software-engineering/virtualization/containers/k8s.md
+          - software-engineering/virtualization/containers/lxc.md
 
 
   # Computer-Engineering Topic
@@ -299,10 +298,11 @@ nav:
         - internet-system/application-system/web-server/openresty.md
         - internet-system/application-system/web-server/lighttpd.md
         - internet-system/application-system/web-server/more.md        
-        
+      - Web-Crawler:
+        - internet-system/application-system/web-crawler/index.md
       - internet-system/application-system/application-server.md
       # - Application Server:
-      #   - internet-system/application-system/application-server/index.md
+        # - internet-system/application-system/application-server/index.md
       #   - internet-system/application-system/application-server/use-cases.md
         # - internet-system/application-system/application-server/tomcat.md
         # - internet-system/application-system/application-server/jboss.md
