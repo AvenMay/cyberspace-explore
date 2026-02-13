@@ -157,7 +157,8 @@ nav:
         - software-engineering/programming/small-script/perl.md
       - Zig:
         - software-engineering/programming/zig/index.md
-      
+      - Parallel:
+        - software-engineering/programming/parallel/index.md
     - Testing:
         - software-engineering/testing/index.md
 
