@@ -159,8 +159,8 @@ nav:
         - software-engineering/programming/zig/index.md
       - Parallel:
         - software-engineering/programming/parallel/index.md
-    - Testing:
-        - software-engineering/testing/index.md
+    # - Testing:
+    #     - software-engineering/testing/index.md
 
     - Databases:
       - software-engineering/databases/index.md
