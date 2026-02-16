@@ -68,7 +68,7 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md
+  # - Home: index.md
 
   # Computer-Science Topic
   - Computer-Science: 
@@ -441,7 +441,6 @@ nav:
         - data-system/data-visualization/index.md
     - Data-Science:
       - data-system/data-science/index.md
-    
 
   # Interesting Topic
   - Interesting-Practices:
