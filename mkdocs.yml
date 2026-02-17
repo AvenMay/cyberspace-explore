@@ -226,17 +226,18 @@ nav:
           - software-engineering/operating-system/freebsd/index.md
         - Darwin/XNU:
           - software-engineering/operating-system/darwin-xnu/index.md
+    - Containers:
+        - software-engineering/containers/index.md
+        - software-engineering/containers/docker.md
+        - software-engineering/containers/k8s.md
+        - software-engineering/containers/lxc.md
     - Virtualization:
         - software-engineering/virtualization/index.md
         - software-engineering/virtualization/kvm.md
         - software-engineering/virtualization/hyper-v.md
         - software-engineering/virtualization/esxi.md
         - software-engineering/virtualization/hosted-vm.md
-    - Containers:
-        - software-engineering/containers/index.md
-        - software-engineering/containers/docker.md
-        - software-engineering/containers/k8s.md
-        - software-engineering/containers/lxc.md
+
 
 
   # Computer-Engineering Topic
