@@ -381,7 +381,7 @@ nav:
         - internet-system/network-engineering/use-cases/enterprise-network.md
         - internet-system/network-engineering/use-cases/dcn.md
 
-    - IoT:
+    - Internet-of-Things:
         - internet-system/iot/index.md
 
     - Infrastructure & Cloud:
