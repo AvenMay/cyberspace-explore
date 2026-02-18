@@ -247,12 +247,11 @@ nav:
       - computer-engineering/computer-architecture/index.md
     - Embedded-System:
       - computer-engineering/embedded-system/index.md
-      - Boards:
-        - computer-engineering/embedded-system/boards/mcu.md
-        - computer-engineering/embedded-system/boards/rtos.md
-        - computer-engineering/embedded-system/boards/sbc.md
-        - computer-engineering/embedded-system/boards/fpga.md
-        - computer-engineering/embedded-system/boards/plc.md
+      - computer-engineering/embedded-system/mcu.md
+      - computer-engineering/embedded-system/rtos.md
+      - computer-engineering/embedded-system/sbc.md
+      - computer-engineering/embedded-system/fpga.md
+      - computer-engineering/embedded-system/plc.md
       - Use-Cases:
         - computer-engineering/embedded-system/use-cases/index.md
         - computer-engineering/embedded-system/use-cases/cyberdeck.md
